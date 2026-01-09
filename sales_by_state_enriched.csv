@@ -1,0 +1,2446 @@
+Date,State,Vehicle_Category,EV_Sold,Total_Vehicles Sold,Non_EV_Sold,Year,Months,Month_name,Fiscal_Year,Fiscal_Quarter
+1/04/2021,Sikkim,2-Wheelers,0,398,398,2021,4,Apr,FY2022,Q1
+1/04/2021,Sikkim,4-Wheelers,0,361,361,2021,4,Apr,FY2022,Q1
+1/05/2021,Sikkim,2-Wheelers,0,113,113,2021,5,May,FY2022,Q1
+1/05/2021,Sikkim,4-Wheelers,0,98,98,2021,5,May,FY2022,Q1
+1/06/2021,Sikkim,2-Wheelers,0,229,229,2021,6,Jun,FY2022,Q1
+1/06/2021,Sikkim,4-Wheelers,0,244,244,2021,6,Jun,FY2022,Q1
+1/07/2021,Sikkim,2-Wheelers,0,458,458,2021,7,Jul,FY2022,Q2
+1/07/2021,Sikkim,4-Wheelers,0,452,452,2021,7,Jul,FY2022,Q2
+1/08/2021,Sikkim,2-Wheelers,0,489,489,2021,8,Aug,FY2022,Q2
+1/08/2021,Sikkim,4-Wheelers,0,408,408,2021,8,Aug,FY2022,Q2
+1/09/2021,Sikkim,2-Wheelers,0,540,540,2021,9,Sep,FY2022,Q2
+1/09/2021,Sikkim,4-Wheelers,0,355,355,2021,9,Sep,FY2022,Q2
+1/10/2021,Sikkim,2-Wheelers,0,455,455,2021,10,Oct,FY2022,Q3
+1/10/2021,Sikkim,4-Wheelers,0,345,345,2021,10,Oct,FY2022,Q3
+1/11/2021,Sikkim,2-Wheelers,0,478,478,2021,11,Nov,FY2022,Q3
+1/11/2021,Sikkim,4-Wheelers,0,351,351,2021,11,Nov,FY2022,Q3
+1/12/2021,Sikkim,2-Wheelers,0,454,454,2021,12,Dec,FY2022,Q3
+1/12/2021,Sikkim,4-Wheelers,0,394,394,2021,12,Dec,FY2022,Q3
+1/01/2022,Sikkim,2-Wheelers,0,400,400,2022,1,Jan,FY2022,Q4
+1/01/2022,Sikkim,4-Wheelers,0,270,270,2022,1,Jan,FY2022,Q4
+1/02/2022,Sikkim,2-Wheelers,0,384,384,2022,2,Feb,FY2022,Q4
+1/02/2022,Sikkim,4-Wheelers,0,371,371,2022,2,Feb,FY2022,Q4
+1/03/2022,Sikkim,2-Wheelers,0,460,460,2022,3,Mar,FY2022,Q4
+1/03/2022,Sikkim,4-Wheelers,0,390,390,2022,3,Mar,FY2022,Q4
+1/04/2022,Sikkim,2-Wheelers,0,455,455,2022,4,Apr,FY2023,Q1
+1/04/2022,Sikkim,4-Wheelers,0,380,380,2022,4,Apr,FY2023,Q1
+1/05/2022,Sikkim,2-Wheelers,0,461,461,2022,5,May,FY2023,Q1
+1/05/2022,Sikkim,4-Wheelers,0,421,421,2022,5,May,FY2023,Q1
+1/06/2022,Sikkim,2-Wheelers,0,429,429,2022,6,Jun,FY2023,Q1
+1/06/2022,Sikkim,4-Wheelers,0,446,446,2022,6,Jun,FY2023,Q1
+1/07/2022,Sikkim,2-Wheelers,0,409,409,2022,7,Jul,FY2023,Q2
+1/07/2022,Sikkim,4-Wheelers,0,439,439,2022,7,Jul,FY2023,Q2
+1/08/2022,Sikkim,2-Wheelers,0,394,394,2022,8,Aug,FY2023,Q2
+1/08/2022,Sikkim,4-Wheelers,0,421,421,2022,8,Aug,FY2023,Q2
+1/09/2022,Sikkim,2-Wheelers,0,443,443,2022,9,Sep,FY2023,Q2
+1/09/2022,Sikkim,4-Wheelers,0,581,581,2022,9,Sep,FY2023,Q2
+1/10/2022,Sikkim,2-Wheelers,0,371,371,2022,10,Oct,FY2023,Q3
+1/10/2022,Sikkim,4-Wheelers,0,340,340,2022,10,Oct,FY2023,Q3
+1/11/2022,Sikkim,2-Wheelers,0,431,431,2022,11,Nov,FY2023,Q3
+1/11/2022,Sikkim,4-Wheelers,0,411,411,2022,11,Nov,FY2023,Q3
+1/12/2022,Sikkim,2-Wheelers,0,274,274,2022,12,Dec,FY2023,Q3
+1/12/2022,Sikkim,4-Wheelers,0,288,288,2022,12,Dec,FY2023,Q3
+1/01/2023,Sikkim,2-Wheelers,0,470,470,2023,1,Jan,FY2023,Q4
+1/01/2023,Sikkim,4-Wheelers,0,420,420,2023,1,Jan,FY2023,Q4
+1/02/2023,Sikkim,2-Wheelers,0,324,324,2023,2,Feb,FY2023,Q4
+1/02/2023,Sikkim,4-Wheelers,0,364,364,2023,2,Feb,FY2023,Q4
+1/03/2023,Sikkim,2-Wheelers,0,454,454,2023,3,Mar,FY2023,Q4
+1/03/2023,Sikkim,4-Wheelers,0,505,505,2023,3,Mar,FY2023,Q4
+1/04/2023,Sikkim,2-Wheelers,0,465,465,2023,4,Apr,FY2024,Q1
+1/04/2023,Sikkim,4-Wheelers,0,439,439,2023,4,Apr,FY2024,Q1
+1/05/2023,Sikkim,2-Wheelers,0,507,507,2023,5,May,FY2024,Q1
+1/05/2023,Sikkim,4-Wheelers,0,448,448,2023,5,May,FY2024,Q1
+1/06/2023,Sikkim,2-Wheelers,0,517,517,2023,6,Jun,FY2024,Q1
+1/06/2023,Sikkim,4-Wheelers,0,457,457,2023,6,Jun,FY2024,Q1
+1/07/2023,Sikkim,2-Wheelers,0,423,423,2023,7,Jul,FY2024,Q2
+1/07/2023,Sikkim,4-Wheelers,0,371,371,2023,7,Jul,FY2024,Q2
+1/08/2023,Sikkim,2-Wheelers,0,465,465,2023,8,Aug,FY2024,Q2
+1/08/2023,Sikkim,4-Wheelers,0,460,460,2023,8,Aug,FY2024,Q2
+1/09/2023,Sikkim,2-Wheelers,0,546,546,2023,9,Sep,FY2024,Q2
+1/09/2023,Sikkim,4-Wheelers,0,509,509,2023,9,Sep,FY2024,Q2
+1/10/2023,Sikkim,2-Wheelers,0,398,398,2023,10,Oct,FY2024,Q3
+1/10/2023,Sikkim,4-Wheelers,0,389,389,2023,10,Oct,FY2024,Q3
+1/11/2023,Sikkim,2-Wheelers,0,470,470,2023,11,Nov,FY2024,Q3
+1/11/2023,Sikkim,4-Wheelers,0,403,403,2023,11,Nov,FY2024,Q3
+1/12/2023,Sikkim,2-Wheelers,0,365,365,2023,12,Dec,FY2024,Q3
+1/12/2023,Sikkim,4-Wheelers,0,318,318,2023,12,Dec,FY2024,Q3
+1/01/2024,Sikkim,2-Wheelers,0,509,509,2024,1,Jan,FY2024,Q4
+1/01/2024,Sikkim,4-Wheelers,0,422,422,2024,1,Jan,FY2024,Q4
+1/02/2024,Sikkim,2-Wheelers,0,408,408,2024,2,Feb,FY2024,Q4
+1/02/2024,Sikkim,4-Wheelers,0,375,375,2024,2,Feb,FY2024,Q4
+1/03/2024,Sikkim,2-Wheelers,0,399,399,2024,3,Mar,FY2024,Q4
+1/03/2024,Sikkim,4-Wheelers,0,455,455,2024,3,Mar,FY2024,Q4
+1/04/2021,Andaman & Nicobar Island,2-Wheelers,0,515,515,2021,4,Apr,FY2022,Q1
+1/04/2021,Arunachal Pradesh,2-Wheelers,0,1256,1256,2021,4,Apr,FY2022,Q1
+1/04/2021,Arunachal Pradesh,4-Wheelers,0,724,724,2021,4,Apr,FY2022,Q1
+1/04/2021,Assam,4-Wheelers,0,6576,6576,2021,4,Apr,FY2022,Q1
+1/04/2021,Chhattisgarh,4-Wheelers,0,1563,1563,2021,4,Apr,FY2022,Q1
+1/04/2021,DNH and DD,4-Wheelers,0,278,278,2021,4,Apr,FY2022,Q1
+1/04/2021,Jammu and Kashmir,4-Wheelers,0,5107,5107,2021,4,Apr,FY2022,Q1
+1/04/2021,Ladakh,2-Wheelers,0,2,2,2021,4,Apr,FY2022,Q1
+1/04/2021,Ladakh,4-Wheelers,0,20,20,2021,4,Apr,FY2022,Q1
+1/04/2021,Manipur,4-Wheelers,0,808,808,2021,4,Apr,FY2022,Q1
+1/04/2021,Meghalaya,2-Wheelers,0,1189,1189,2021,4,Apr,FY2022,Q1
+1/04/2021,Mizoram,2-Wheelers,0,1507,1507,2021,4,Apr,FY2022,Q1
+1/04/2021,Mizoram,4-Wheelers,0,281,281,2021,4,Apr,FY2022,Q1
+1/04/2021,Nagaland,2-Wheelers,0,561,561,2021,4,Apr,FY2022,Q1
+1/04/2021,Nagaland,4-Wheelers,0,747,747,2021,4,Apr,FY2022,Q1
+1/04/2021,Puducherry,4-Wheelers,0,655,655,2021,4,Apr,FY2022,Q1
+1/04/2021,Tripura,2-Wheelers,0,2906,2906,2021,4,Apr,FY2022,Q1
+1/04/2021,Tripura,4-Wheelers,0,289,289,2021,4,Apr,FY2022,Q1
+1/05/2021,Andaman & Nicobar Island,2-Wheelers,0,4,4,2021,5,May,FY2022,Q1
+1/05/2021,Andaman & Nicobar Island,4-Wheelers,0,1,1,2021,5,May,FY2022,Q1
+1/05/2021,Arunachal Pradesh,2-Wheelers,0,552,552,2021,5,May,FY2022,Q1
+1/05/2021,Arunachal Pradesh,4-Wheelers,0,302,302,2021,5,May,FY2022,Q1
+1/05/2021,Assam,2-Wheelers,0,14723,14723,2021,5,May,FY2022,Q1
+1/05/2021,Assam,4-Wheelers,0,3295,3295,2021,5,May,FY2022,Q1
+1/05/2021,Bihar,4-Wheelers,0,2249,2249,2021,5,May,FY2022,Q1
+1/05/2021,Chandigarh,2-Wheelers,0,411,411,2021,5,May,FY2022,Q1
+1/05/2021,Chhattisgarh,4-Wheelers,0,1387,1387,2021,5,May,FY2022,Q1
+1/05/2021,DNH and DD,2-Wheelers,0,452,452,2021,5,May,FY2022,Q1
+1/05/2021,DNH and DD,4-Wheelers,0,202,202,2021,5,May,FY2022,Q1
+1/05/2021,Delhi,2-Wheelers,0,22,22,2021,5,May,FY2022,Q1
+1/05/2021,Delhi,4-Wheelers,0,21,21,2021,5,May,FY2022,Q1
+1/05/2021,Jammu and Kashmir,4-Wheelers,0,2372,2372,2021,5,May,FY2022,Q1
+1/05/2021,Ladakh,2-Wheelers,0,11,11,2021,5,May,FY2022,Q1
+1/05/2021,Ladakh,4-Wheelers,0,70,70,2021,5,May,FY2022,Q1
+1/05/2021,Madhya Pradesh,4-Wheelers,0,195,195,2021,5,May,FY2022,Q1
+1/05/2021,Manipur,2-Wheelers,0,288,288,2021,5,May,FY2022,Q1
+1/05/2021,Manipur,4-Wheelers,0,9,9,2021,5,May,FY2022,Q1
+1/05/2021,Meghalaya,2-Wheelers,0,332,332,2021,5,May,FY2022,Q1
+1/05/2021,Mizoram,2-Wheelers,0,15,15,2021,5,May,FY2022,Q1
+1/05/2021,Mizoram,4-Wheelers,0,4,4,2021,5,May,FY2022,Q1
+1/05/2021,Nagaland,2-Wheelers,0,125,125,2021,5,May,FY2022,Q1
+1/05/2021,Nagaland,4-Wheelers,0,126,126,2021,5,May,FY2022,Q1
+1/05/2021,Odisha,4-Wheelers,0,722,722,2021,5,May,FY2022,Q1
+1/05/2021,Punjab,4-Wheelers,0,5202,5202,2021,5,May,FY2022,Q1
+1/05/2021,Tripura,2-Wheelers,0,2063,2063,2021,5,May,FY2022,Q1
+1/05/2021,Tripura,4-Wheelers,0,192,192,2021,5,May,FY2022,Q1
+1/05/2021,Uttarakhand,4-Wheelers,0,1145,1145,2021,5,May,FY2022,Q1
+1/06/2021,Andaman & Nicobar Island,2-Wheelers,0,2,2,2021,6,Jun,FY2022,Q1
+1/06/2021,Arunachal Pradesh,2-Wheelers,0,727,727,2021,6,Jun,FY2022,Q1
+1/06/2021,Arunachal Pradesh,4-Wheelers,0,565,565,2021,6,Jun,FY2022,Q1
+1/06/2021,Ladakh,2-Wheelers,0,3,3,2021,6,Jun,FY2022,Q1
+1/06/2021,Ladakh,4-Wheelers,0,112,112,2021,6,Jun,FY2022,Q1
+1/06/2021,Manipur,2-Wheelers,0,89,89,2021,6,Jun,FY2022,Q1
+1/06/2021,Manipur,4-Wheelers,0,18,18,2021,6,Jun,FY2022,Q1
+1/06/2021,Meghalaya,2-Wheelers,0,354,354,2021,6,Jun,FY2022,Q1
+1/06/2021,Meghalaya,4-Wheelers,0,246,246,2021,6,Jun,FY2022,Q1
+1/06/2021,Mizoram,2-Wheelers,0,648,648,2021,6,Jun,FY2022,Q1
+1/06/2021,Mizoram,4-Wheelers,0,298,298,2021,6,Jun,FY2022,Q1
+1/06/2021,Nagaland,2-Wheelers,0,42,42,2021,6,Jun,FY2022,Q1
+1/06/2021,Nagaland,4-Wheelers,0,54,54,2021,6,Jun,FY2022,Q1
+1/06/2021,Puducherry,4-Wheelers,0,445,445,2021,6,Jun,FY2022,Q1
+1/06/2021,Tripura,4-Wheelers,0,185,185,2021,6,Jun,FY2022,Q1
+1/07/2021,Andaman & Nicobar Island,2-Wheelers,0,467,467,2021,7,Jul,FY2022,Q2
+1/07/2021,Arunachal Pradesh,2-Wheelers,0,994,994,2021,7,Jul,FY2022,Q2
+1/07/2021,Arunachal Pradesh,4-Wheelers,0,661,661,2021,7,Jul,FY2022,Q2
+1/07/2021,Assam,4-Wheelers,0,4988,4988,2021,7,Jul,FY2022,Q2
+1/07/2021,DNH and DD,4-Wheelers,0,276,276,2021,7,Jul,FY2022,Q2
+1/07/2021,Ladakh,2-Wheelers,0,51,51,2021,7,Jul,FY2022,Q2
+1/07/2021,Ladakh,4-Wheelers,0,552,552,2021,7,Jul,FY2022,Q2
+1/07/2021,Manipur,2-Wheelers,0,474,474,2021,7,Jul,FY2022,Q2
+1/07/2021,Manipur,4-Wheelers,0,68,68,2021,7,Jul,FY2022,Q2
+1/07/2021,Meghalaya,2-Wheelers,0,726,726,2021,7,Jul,FY2022,Q2
+1/07/2021,Mizoram,2-Wheelers,0,1096,1096,2021,7,Jul,FY2022,Q2
+1/07/2021,Mizoram,4-Wheelers,0,219,219,2021,7,Jul,FY2022,Q2
+1/07/2021,Nagaland,2-Wheelers,0,583,583,2021,7,Jul,FY2022,Q2
+1/07/2021,Nagaland,4-Wheelers,0,1039,1039,2021,7,Jul,FY2022,Q2
+1/07/2021,Puducherry,4-Wheelers,0,866,866,2021,7,Jul,FY2022,Q2
+1/07/2021,Tripura,2-Wheelers,0,2211,2211,2021,7,Jul,FY2022,Q2
+1/07/2021,Tripura,4-Wheelers,0,352,352,2021,7,Jul,FY2022,Q2
+1/08/2021,Andaman & Nicobar Island,2-Wheelers,0,406,406,2021,8,Aug,FY2022,Q2
+1/08/2021,Arunachal Pradesh,2-Wheelers,0,1126,1126,2021,8,Aug,FY2022,Q2
+1/08/2021,Arunachal Pradesh,4-Wheelers,0,758,758,2021,8,Aug,FY2022,Q2
+1/08/2021,DNH and DD,4-Wheelers,0,321,321,2021,8,Aug,FY2022,Q2
+1/08/2021,Himachal Pradesh,4-Wheelers,0,3641,3641,2021,8,Aug,FY2022,Q2
+1/08/2021,Jammu and Kashmir,4-Wheelers,0,5430,5430,2021,8,Aug,FY2022,Q2
+1/08/2021,Ladakh,2-Wheelers,0,30,30,2021,8,Aug,FY2022,Q2
+1/08/2021,Ladakh,4-Wheelers,0,459,459,2021,8,Aug,FY2022,Q2
+1/08/2021,Manipur,2-Wheelers,0,1016,1016,2021,8,Aug,FY2022,Q2
+1/08/2021,Manipur,4-Wheelers,0,561,561,2021,8,Aug,FY2022,Q2
+1/08/2021,Meghalaya,2-Wheelers,0,1041,1041,2021,8,Aug,FY2022,Q2
+1/08/2021,Meghalaya,4-Wheelers,0,826,826,2021,8,Aug,FY2022,Q2
+1/08/2021,Mizoram,2-Wheelers,0,1057,1057,2021,8,Aug,FY2022,Q2
+1/08/2021,Mizoram,4-Wheelers,0,240,240,2021,8,Aug,FY2022,Q2
+1/08/2021,Nagaland,2-Wheelers,0,577,577,2021,8,Aug,FY2022,Q2
+1/08/2021,Nagaland,4-Wheelers,0,763,763,2021,8,Aug,FY2022,Q2
+1/08/2021,Tripura,2-Wheelers,0,2462,2462,2021,8,Aug,FY2022,Q2
+1/08/2021,Tripura,4-Wheelers,0,462,462,2021,8,Aug,FY2022,Q2
+1/09/2021,Andaman & Nicobar Island,2-Wheelers,0,329,329,2021,9,Sep,FY2022,Q2
+1/09/2021,Andaman & Nicobar Island,4-Wheelers,0,87,87,2021,9,Sep,FY2022,Q2
+1/09/2021,Arunachal Pradesh,2-Wheelers,0,1260,1260,2021,9,Sep,FY2022,Q2
+1/09/2021,Arunachal Pradesh,4-Wheelers,0,637,637,2021,9,Sep,FY2022,Q2
+1/09/2021,Assam,4-Wheelers,0,6036,6036,2021,9,Sep,FY2022,Q2
+1/09/2021,DNH and DD,4-Wheelers,0,348,348,2021,9,Sep,FY2022,Q2
+1/09/2021,Ladakh,2-Wheelers,0,26,26,2021,9,Sep,FY2022,Q2
+1/09/2021,Ladakh,4-Wheelers,0,444,444,2021,9,Sep,FY2022,Q2
+1/09/2021,Manipur,2-Wheelers,0,3492,3492,2021,9,Sep,FY2022,Q2
+1/09/2021,Manipur,4-Wheelers,0,1202,1202,2021,9,Sep,FY2022,Q2
+1/09/2021,Meghalaya,2-Wheelers,0,1396,1396,2021,9,Sep,FY2022,Q2
+1/09/2021,Meghalaya,4-Wheelers,0,905,905,2021,9,Sep,FY2022,Q2
+1/09/2021,Mizoram,2-Wheelers,0,1465,1465,2021,9,Sep,FY2022,Q2
+1/09/2021,Mizoram,4-Wheelers,0,264,264,2021,9,Sep,FY2022,Q2
+1/09/2021,Nagaland,4-Wheelers,0,681,681,2021,9,Sep,FY2022,Q2
+1/09/2021,Tripura,2-Wheelers,0,2736,2736,2021,9,Sep,FY2022,Q2
+1/09/2021,Tripura,4-Wheelers,0,403,403,2021,9,Sep,FY2022,Q2
+1/10/2021,Andaman & Nicobar Island,2-Wheelers,0,360,360,2021,10,Oct,FY2022,Q3
+1/10/2021,Arunachal Pradesh,2-Wheelers,0,1109,1109,2021,10,Oct,FY2022,Q3
+1/10/2021,Arunachal Pradesh,4-Wheelers,0,570,570,2021,10,Oct,FY2022,Q3
+1/10/2021,Assam,4-Wheelers,0,5877,5877,2021,10,Oct,FY2022,Q3
+1/10/2021,Ladakh,4-Wheelers,0,289,289,2021,10,Oct,FY2022,Q3
+1/10/2021,Manipur,4-Wheelers,0,916,916,2021,10,Oct,FY2022,Q3
+1/10/2021,Meghalaya,2-Wheelers,0,1414,1414,2021,10,Oct,FY2022,Q3
+1/10/2021,Meghalaya,4-Wheelers,0,722,722,2021,10,Oct,FY2022,Q3
+1/10/2021,Mizoram,2-Wheelers,0,1886,1886,2021,10,Oct,FY2022,Q3
+1/10/2021,Mizoram,4-Wheelers,0,283,283,2021,10,Oct,FY2022,Q3
+1/10/2021,Nagaland,2-Wheelers,0,650,650,2021,10,Oct,FY2022,Q3
+1/10/2021,Nagaland,4-Wheelers,0,567,567,2021,10,Oct,FY2022,Q3
+1/10/2021,Puducherry,4-Wheelers,0,609,609,2021,10,Oct,FY2022,Q3
+1/10/2021,Tripura,2-Wheelers,0,3015,3015,2021,10,Oct,FY2022,Q3
+1/10/2021,Tripura,4-Wheelers,0,366,366,2021,10,Oct,FY2022,Q3
+1/11/2021,Andaman & Nicobar Island,2-Wheelers,0,413,413,2021,11,Nov,FY2022,Q3
+1/11/2021,Andaman & Nicobar Island,4-Wheelers,0,125,125,2021,11,Nov,FY2022,Q3
+1/11/2021,Arunachal Pradesh,2-Wheelers,0,1262,1262,2021,11,Nov,FY2022,Q3
+1/11/2021,Arunachal Pradesh,4-Wheelers,0,646,646,2021,11,Nov,FY2022,Q3
+1/11/2021,Assam,4-Wheelers,0,5618,5618,2021,11,Nov,FY2022,Q3
+1/11/2021,DNH and DD,4-Wheelers,0,330,330,2021,11,Nov,FY2022,Q3
+1/11/2021,Himachal Pradesh,4-Wheelers,0,4496,4496,2021,11,Nov,FY2022,Q3
+1/11/2021,Jammu and Kashmir,4-Wheelers,0,4709,4709,2021,11,Nov,FY2022,Q3
+1/11/2021,Ladakh,2-Wheelers,0,28,28,2021,11,Nov,FY2022,Q3
+1/11/2021,Ladakh,4-Wheelers,0,287,287,2021,11,Nov,FY2022,Q3
+1/11/2021,Manipur,4-Wheelers,0,875,875,2021,11,Nov,FY2022,Q3
+1/11/2021,Meghalaya,2-Wheelers,0,1442,1442,2021,11,Nov,FY2022,Q3
+1/11/2021,Meghalaya,4-Wheelers,0,806,806,2021,11,Nov,FY2022,Q3
+1/11/2021,Mizoram,2-Wheelers,0,1820,1820,2021,11,Nov,FY2022,Q3
+1/11/2021,Mizoram,4-Wheelers,0,328,328,2021,11,Nov,FY2022,Q3
+1/11/2021,Nagaland,2-Wheelers,0,592,592,2021,11,Nov,FY2022,Q3
+1/11/2021,Nagaland,4-Wheelers,0,692,692,2021,11,Nov,FY2022,Q3
+1/11/2021,Tripura,2-Wheelers,0,3843,3843,2021,11,Nov,FY2022,Q3
+1/11/2021,Tripura,4-Wheelers,0,326,326,2021,11,Nov,FY2022,Q3
+1/12/2021,Andaman & Nicobar Island,2-Wheelers,0,376,376,2021,12,Dec,FY2022,Q3
+1/12/2021,Arunachal Pradesh,2-Wheelers,0,1036,1036,2021,12,Dec,FY2022,Q3
+1/12/2021,Arunachal Pradesh,4-Wheelers,0,709,709,2021,12,Dec,FY2022,Q3
+1/12/2021,Jammu and Kashmir,4-Wheelers,0,5306,5306,2021,12,Dec,FY2022,Q3
+1/12/2021,Ladakh,2-Wheelers,0,15,15,2021,12,Dec,FY2022,Q3
+1/12/2021,Ladakh,4-Wheelers,0,167,167,2021,12,Dec,FY2022,Q3
+1/12/2021,Manipur,4-Wheelers,0,849,849,2021,12,Dec,FY2022,Q3
+1/12/2021,Meghalaya,2-Wheelers,0,1101,1101,2021,12,Dec,FY2022,Q3
+1/12/2021,Meghalaya,4-Wheelers,0,888,888,2021,12,Dec,FY2022,Q3
+1/12/2021,Mizoram,2-Wheelers,0,1740,1740,2021,12,Dec,FY2022,Q3
+1/12/2021,Mizoram,4-Wheelers,0,376,376,2021,12,Dec,FY2022,Q3
+1/12/2021,Nagaland,2-Wheelers,0,353,353,2021,12,Dec,FY2022,Q3
+1/12/2021,Nagaland,4-Wheelers,0,540,540,2021,12,Dec,FY2022,Q3
+1/12/2021,Tripura,4-Wheelers,0,352,352,2021,12,Dec,FY2022,Q3
+1/01/2022,Andaman & Nicobar Island,2-Wheelers,0,336,336,2022,1,Jan,FY2022,Q4
+1/01/2022,Andaman & Nicobar Island,4-Wheelers,0,90,90,2022,1,Jan,FY2022,Q4
+1/01/2022,Arunachal Pradesh,2-Wheelers,0,950,950,2022,1,Jan,FY2022,Q4
+1/01/2022,Arunachal Pradesh,4-Wheelers,0,766,766,2022,1,Jan,FY2022,Q4
+1/01/2022,Assam,4-Wheelers,0,5550,5550,2022,1,Jan,FY2022,Q4
+1/01/2022,DNH and DD,4-Wheelers,0,358,358,2022,1,Jan,FY2022,Q4
+1/01/2022,Jammu and Kashmir,4-Wheelers,0,3963,3963,2022,1,Jan,FY2022,Q4
+1/01/2022,Ladakh,4-Wheelers,0,150,150,2022,1,Jan,FY2022,Q4
+1/01/2022,Manipur,4-Wheelers,0,687,687,2022,1,Jan,FY2022,Q4
+1/01/2022,Meghalaya,2-Wheelers,0,1112,1112,2022,1,Jan,FY2022,Q4
+1/01/2022,Meghalaya,4-Wheelers,0,1063,1063,2022,1,Jan,FY2022,Q4
+1/01/2022,Mizoram,2-Wheelers,0,1387,1387,2022,1,Jan,FY2022,Q4
+1/01/2022,Mizoram,4-Wheelers,0,311,311,2022,1,Jan,FY2022,Q4
+1/01/2022,Nagaland,2-Wheelers,0,410,410,2022,1,Jan,FY2022,Q4
+1/01/2022,Nagaland,4-Wheelers,0,722,722,2022,1,Jan,FY2022,Q4
+1/01/2022,Puducherry,4-Wheelers,0,758,758,2022,1,Jan,FY2022,Q4
+1/01/2022,Tripura,4-Wheelers,0,394,394,2022,1,Jan,FY2022,Q4
+1/02/2022,Andaman & Nicobar Island,2-Wheelers,0,388,388,2022,2,Feb,FY2022,Q4
+1/02/2022,Andaman & Nicobar Island,4-Wheelers,0,112,112,2022,2,Feb,FY2022,Q4
+1/02/2022,Arunachal Pradesh,2-Wheelers,0,858,858,2022,2,Feb,FY2022,Q4
+1/02/2022,Arunachal Pradesh,4-Wheelers,0,671,671,2022,2,Feb,FY2022,Q4
+1/02/2022,Ladakh,2-Wheelers,0,15,15,2022,2,Feb,FY2022,Q4
+1/02/2022,Ladakh,4-Wheelers,0,44,44,2022,2,Feb,FY2022,Q4
+1/02/2022,Manipur,4-Wheelers,0,834,834,2022,2,Feb,FY2022,Q4
+1/02/2022,Meghalaya,2-Wheelers,0,1145,1145,2022,2,Feb,FY2022,Q4
+1/02/2022,Mizoram,2-Wheelers,0,1599,1599,2022,2,Feb,FY2022,Q4
+1/02/2022,Mizoram,4-Wheelers,0,354,354,2022,2,Feb,FY2022,Q4
+1/02/2022,Nagaland,2-Wheelers,0,504,504,2022,2,Feb,FY2022,Q4
+1/02/2022,Nagaland,4-Wheelers,0,773,773,2022,2,Feb,FY2022,Q4
+1/02/2022,Puducherry,4-Wheelers,0,622,622,2022,2,Feb,FY2022,Q4
+1/02/2022,Tripura,4-Wheelers,0,340,340,2022,2,Feb,FY2022,Q4
+1/03/2022,Andaman & Nicobar Island,2-Wheelers,0,383,383,2022,3,Mar,FY2022,Q4
+1/03/2022,Arunachal Pradesh,2-Wheelers,0,1111,1111,2022,3,Mar,FY2022,Q4
+1/03/2022,Arunachal Pradesh,4-Wheelers,0,679,679,2022,3,Mar,FY2022,Q4
+1/03/2022,Ladakh,2-Wheelers,0,49,49,2022,3,Mar,FY2022,Q4
+1/03/2022,Ladakh,4-Wheelers,0,49,49,2022,3,Mar,FY2022,Q4
+1/03/2022,Manipur,4-Wheelers,0,717,717,2022,3,Mar,FY2022,Q4
+1/03/2022,Meghalaya,2-Wheelers,0,1687,1687,2022,3,Mar,FY2022,Q4
+1/03/2022,Meghalaya,4-Wheelers,0,1104,1104,2022,3,Mar,FY2022,Q4
+1/03/2022,Mizoram,2-Wheelers,0,1848,1848,2022,3,Mar,FY2022,Q4
+1/03/2022,Mizoram,4-Wheelers,0,413,413,2022,3,Mar,FY2022,Q4
+1/03/2022,Nagaland,2-Wheelers,0,541,541,2022,3,Mar,FY2022,Q4
+1/03/2022,Nagaland,4-Wheelers,0,632,632,2022,3,Mar,FY2022,Q4
+1/03/2022,Tripura,4-Wheelers,0,484,484,2022,3,Mar,FY2022,Q4
+1/04/2022,Andaman & Nicobar Island,2-Wheelers,0,407,407,2022,4,Apr,FY2023,Q1
+1/04/2022,Arunachal Pradesh,2-Wheelers,0,1063,1063,2022,4,Apr,FY2023,Q1
+1/04/2022,Arunachal Pradesh,4-Wheelers,0,824,824,2022,4,Apr,FY2023,Q1
+1/04/2022,Ladakh,2-Wheelers,0,351,351,2022,4,Apr,FY2023,Q1
+1/04/2022,Ladakh,4-Wheelers,0,105,105,2022,4,Apr,FY2023,Q1
+1/04/2022,Mizoram,2-Wheelers,0,1530,1530,2022,4,Apr,FY2023,Q1
+1/04/2022,Mizoram,4-Wheelers,0,323,323,2022,4,Apr,FY2023,Q1
+1/04/2022,Nagaland,4-Wheelers,0,723,723,2022,4,Apr,FY2023,Q1
+1/04/2022,Tripura,4-Wheelers,0,448,448,2022,4,Apr,FY2023,Q1
+1/05/2022,Andaman & Nicobar Island,2-Wheelers,0,358,358,2022,5,May,FY2023,Q1
+1/05/2022,Andaman & Nicobar Island,4-Wheelers,0,110,110,2022,5,May,FY2023,Q1
+1/05/2022,Arunachal Pradesh,2-Wheelers,0,1241,1241,2022,5,May,FY2023,Q1
+1/05/2022,Arunachal Pradesh,4-Wheelers,0,965,965,2022,5,May,FY2023,Q1
+1/05/2022,Ladakh,2-Wheelers,0,419,419,2022,5,May,FY2023,Q1
+1/05/2022,Ladakh,4-Wheelers,0,322,322,2022,5,May,FY2023,Q1
+1/05/2022,Manipur,4-Wheelers,0,644,644,2022,5,May,FY2023,Q1
+1/05/2022,Meghalaya,2-Wheelers,0,1780,1780,2022,5,May,FY2023,Q1
+1/05/2022,Mizoram,4-Wheelers,0,397,397,2022,5,May,FY2023,Q1
+1/05/2022,Nagaland,4-Wheelers,0,630,630,2022,5,May,FY2023,Q1
+1/05/2022,Tripura,4-Wheelers,0,359,359,2022,5,May,FY2023,Q1
+1/06/2022,Andaman & Nicobar Island,2-Wheelers,0,423,423,2022,6,Jun,FY2023,Q1
+1/06/2022,Andaman & Nicobar Island,4-Wheelers,0,115,115,2022,6,Jun,FY2023,Q1
+1/06/2022,Arunachal Pradesh,2-Wheelers,0,1253,1253,2022,6,Jun,FY2023,Q1
+1/06/2022,Arunachal Pradesh,4-Wheelers,0,1021,1021,2022,6,Jun,FY2023,Q1
+1/06/2022,Ladakh,4-Wheelers,0,310,310,2022,6,Jun,FY2023,Q1
+1/06/2022,Manipur,4-Wheelers,0,1029,1029,2022,6,Jun,FY2023,Q1
+1/06/2022,Mizoram,4-Wheelers,0,373,373,2022,6,Jun,FY2023,Q1
+1/06/2022,Nagaland,2-Wheelers,0,594,594,2022,6,Jun,FY2023,Q1
+1/06/2022,Nagaland,4-Wheelers,0,735,735,2022,6,Jun,FY2023,Q1
+1/06/2022,Tripura,4-Wheelers,0,354,354,2022,6,Jun,FY2023,Q1
+1/07/2022,Andaman & Nicobar Island,2-Wheelers,0,385,385,2022,7,Jul,FY2023,Q2
+1/07/2022,Andaman & Nicobar Island,4-Wheelers,0,127,127,2022,7,Jul,FY2023,Q2
+1/07/2022,Arunachal Pradesh,2-Wheelers,0,1181,1181,2022,7,Jul,FY2023,Q2
+1/07/2022,DNH and DD,4-Wheelers,0,344,344,2022,7,Jul,FY2023,Q2
+1/07/2022,Ladakh,2-Wheelers,0,314,314,2022,7,Jul,FY2023,Q2
+1/07/2022,Manipur,4-Wheelers,0,775,775,2022,7,Jul,FY2023,Q2
+1/07/2022,Mizoram,4-Wheelers,0,319,319,2022,7,Jul,FY2023,Q2
+1/07/2022,Nagaland,2-Wheelers,0,505,505,2022,7,Jul,FY2023,Q2
+1/07/2022,Nagaland,4-Wheelers,0,591,591,2022,7,Jul,FY2023,Q2
+1/07/2022,Tripura,4-Wheelers,0,402,402,2022,7,Jul,FY2023,Q2
+1/08/2022,Andaman & Nicobar Island,2-Wheelers,0,398,398,2022,8,Aug,FY2023,Q2
+1/08/2022,Andaman & Nicobar Island,4-Wheelers,0,154,154,2022,8,Aug,FY2023,Q2
+1/08/2022,Arunachal Pradesh,2-Wheelers,0,1244,1244,2022,8,Aug,FY2023,Q2
+1/08/2022,Arunachal Pradesh,4-Wheelers,0,866,866,2022,8,Aug,FY2023,Q2
+1/08/2022,Ladakh,2-Wheelers,0,222,222,2022,8,Aug,FY2023,Q2
+1/08/2022,Manipur,4-Wheelers,0,623,623,2022,8,Aug,FY2023,Q2
+1/08/2022,Meghalaya,4-Wheelers,0,1120,1120,2022,8,Aug,FY2023,Q2
+1/08/2022,Mizoram,4-Wheelers,0,408,408,2022,8,Aug,FY2023,Q2
+1/08/2022,Nagaland,2-Wheelers,0,554,554,2022,8,Aug,FY2023,Q2
+1/08/2022,Nagaland,4-Wheelers,0,844,844,2022,8,Aug,FY2023,Q2
+1/08/2022,Tripura,4-Wheelers,0,403,403,2022,8,Aug,FY2023,Q2
+1/09/2022,Andaman & Nicobar Island,2-Wheelers,0,484,484,2022,9,Sep,FY2023,Q2
+1/09/2022,Andaman & Nicobar Island,4-Wheelers,0,128,128,2022,9,Sep,FY2023,Q2
+1/09/2022,Arunachal Pradesh,2-Wheelers,0,1068,1068,2022,9,Sep,FY2023,Q2
+1/09/2022,Arunachal Pradesh,4-Wheelers,0,931,931,2022,9,Sep,FY2023,Q2
+1/09/2022,Ladakh,2-Wheelers,0,30,30,2022,9,Sep,FY2023,Q2
+1/09/2022,Ladakh,4-Wheelers,0,189,189,2022,9,Sep,FY2023,Q2
+1/09/2022,Manipur,4-Wheelers,0,820,820,2022,9,Sep,FY2023,Q2
+1/09/2022,Mizoram,4-Wheelers,0,379,379,2022,9,Sep,FY2023,Q2
+1/09/2022,Nagaland,2-Wheelers,0,589,589,2022,9,Sep,FY2023,Q2
+1/09/2022,Nagaland,4-Wheelers,0,780,780,2022,9,Sep,FY2023,Q2
+1/09/2022,Tripura,4-Wheelers,0,465,465,2022,9,Sep,FY2023,Q2
+1/10/2022,Andaman & Nicobar Island,2-Wheelers,0,409,409,2022,10,Oct,FY2023,Q3
+1/10/2022,Andaman & Nicobar Island,4-Wheelers,0,144,144,2022,10,Oct,FY2023,Q3
+1/10/2022,Arunachal Pradesh,2-Wheelers,0,850,850,2022,10,Oct,FY2023,Q3
+1/10/2022,Arunachal Pradesh,4-Wheelers,0,741,741,2022,10,Oct,FY2023,Q3
+1/10/2022,Ladakh,2-Wheelers,0,27,27,2022,10,Oct,FY2023,Q3
+1/10/2022,Ladakh,4-Wheelers,0,264,264,2022,10,Oct,FY2023,Q3
+1/10/2022,Manipur,4-Wheelers,0,596,596,2022,10,Oct,FY2023,Q3
+1/10/2022,Mizoram,4-Wheelers,0,362,362,2022,10,Oct,FY2023,Q3
+1/10/2022,Nagaland,2-Wheelers,0,374,374,2022,10,Oct,FY2023,Q3
+1/10/2022,Nagaland,4-Wheelers,0,690,690,2022,10,Oct,FY2023,Q3
+1/10/2022,Tripura,4-Wheelers,0,416,416,2022,10,Oct,FY2023,Q3
+1/11/2022,Arunachal Pradesh,2-Wheelers,0,1251,1251,2022,11,Nov,FY2023,Q3
+1/11/2022,Arunachal Pradesh,4-Wheelers,0,971,971,2022,11,Nov,FY2023,Q3
+1/11/2022,Jammu and Kashmir,4-Wheelers,0,4102,4102,2022,11,Nov,FY2023,Q3
+1/11/2022,Ladakh,2-Wheelers,0,23,23,2022,11,Nov,FY2023,Q3
+1/11/2022,Ladakh,4-Wheelers,0,244,244,2022,11,Nov,FY2023,Q3
+1/11/2022,Manipur,4-Wheelers,0,1569,1569,2022,11,Nov,FY2023,Q3
+1/11/2022,Meghalaya,4-Wheelers,0,1158,1158,2022,11,Nov,FY2023,Q3
+1/11/2022,Mizoram,4-Wheelers,0,378,378,2022,11,Nov,FY2023,Q3
+1/11/2022,Nagaland,2-Wheelers,0,447,447,2022,11,Nov,FY2023,Q3
+1/11/2022,Nagaland,4-Wheelers,0,724,724,2022,11,Nov,FY2023,Q3
+1/11/2022,Punjab,4-Wheelers,0,8875,8875,2022,11,Nov,FY2023,Q3
+1/11/2022,Tripura,4-Wheelers,0,410,410,2022,11,Nov,FY2023,Q3
+1/12/2022,Arunachal Pradesh,4-Wheelers,0,865,865,2022,12,Dec,FY2023,Q3
+1/12/2022,Ladakh,2-Wheelers,0,16,16,2022,12,Dec,FY2023,Q3
+1/12/2022,Ladakh,4-Wheelers,0,144,144,2022,12,Dec,FY2023,Q3
+1/12/2022,Manipur,4-Wheelers,0,1478,1478,2022,12,Dec,FY2023,Q3
+1/12/2022,Meghalaya,4-Wheelers,0,1150,1150,2022,12,Dec,FY2023,Q3
+1/12/2022,Mizoram,4-Wheelers,0,445,445,2022,12,Dec,FY2023,Q3
+1/12/2022,Nagaland,2-Wheelers,0,369,369,2022,12,Dec,FY2023,Q3
+1/12/2022,Nagaland,4-Wheelers,0,490,490,2022,12,Dec,FY2023,Q3
+1/12/2022,Tripura,4-Wheelers,0,385,385,2022,12,Dec,FY2023,Q3
+1/01/2023,Andaman & Nicobar Island,2-Wheelers,0,373,373,2023,1,Jan,FY2023,Q4
+1/01/2023,Andaman & Nicobar Island,4-Wheelers,0,153,153,2023,1,Jan,FY2023,Q4
+1/01/2023,Arunachal Pradesh,2-Wheelers,0,718,718,2023,1,Jan,FY2023,Q4
+1/01/2023,Arunachal Pradesh,4-Wheelers,0,966,966,2023,1,Jan,FY2023,Q4
+1/01/2023,Ladakh,4-Wheelers,0,92,92,2023,1,Jan,FY2023,Q4
+1/01/2023,Mizoram,4-Wheelers,0,476,476,2023,1,Jan,FY2023,Q4
+1/01/2023,Nagaland,2-Wheelers,0,432,432,2023,1,Jan,FY2023,Q4
+1/01/2023,Nagaland,4-Wheelers,0,545,545,2023,1,Jan,FY2023,Q4
+1/01/2023,Punjab,4-Wheelers,0,11608,11608,2023,1,Jan,FY2023,Q4
+1/01/2023,Tripura,4-Wheelers,0,399,399,2023,1,Jan,FY2023,Q4
+1/02/2023,Andaman & Nicobar Island,2-Wheelers,0,346,346,2023,2,Feb,FY2023,Q4
+1/02/2023,Andaman & Nicobar Island,4-Wheelers,0,148,148,2023,2,Feb,FY2023,Q4
+1/02/2023,Arunachal Pradesh,2-Wheelers,0,816,816,2023,2,Feb,FY2023,Q4
+1/02/2023,Arunachal Pradesh,4-Wheelers,0,840,840,2023,2,Feb,FY2023,Q4
+1/02/2023,Ladakh,2-Wheelers,0,5,5,2023,2,Feb,FY2023,Q4
+1/02/2023,Ladakh,4-Wheelers,0,49,49,2023,2,Feb,FY2023,Q4
+1/02/2023,Meghalaya,4-Wheelers,0,1002,1002,2023,2,Feb,FY2023,Q4
+1/02/2023,Mizoram,4-Wheelers,0,337,337,2023,2,Feb,FY2023,Q4
+1/02/2023,Nagaland,2-Wheelers,0,375,375,2023,2,Feb,FY2023,Q4
+1/02/2023,Nagaland,4-Wheelers,0,806,806,2023,2,Feb,FY2023,Q4
+1/02/2023,Tripura,4-Wheelers,0,328,328,2023,2,Feb,FY2023,Q4
+1/03/2023,Arunachal Pradesh,2-Wheelers,0,1131,1131,2023,3,Mar,FY2023,Q4
+1/03/2023,Arunachal Pradesh,4-Wheelers,0,1048,1048,2023,3,Mar,FY2023,Q4
+1/03/2023,Ladakh,2-Wheelers,0,30,30,2023,3,Mar,FY2023,Q4
+1/03/2023,Ladakh,4-Wheelers,0,59,59,2023,3,Mar,FY2023,Q4
+1/03/2023,Manipur,4-Wheelers,0,320,320,2023,3,Mar,FY2023,Q4
+1/03/2023,Meghalaya,4-Wheelers,0,1369,1369,2023,3,Mar,FY2023,Q4
+1/03/2023,Mizoram,4-Wheelers,0,433,433,2023,3,Mar,FY2023,Q4
+1/03/2023,Nagaland,2-Wheelers,0,693,693,2023,3,Mar,FY2023,Q4
+1/03/2023,Nagaland,4-Wheelers,0,820,820,2023,3,Mar,FY2023,Q4
+1/04/2023,Andaman & Nicobar Island,2-Wheelers,0,325,325,2023,4,Apr,FY2024,Q1
+1/04/2023,Arunachal Pradesh,2-Wheelers,0,971,971,2023,4,Apr,FY2024,Q1
+1/04/2023,Ladakh,2-Wheelers,0,43,43,2023,4,Apr,FY2024,Q1
+1/04/2023,Ladakh,4-Wheelers,0,219,219,2023,4,Apr,FY2024,Q1
+1/04/2023,Manipur,4-Wheelers,0,942,942,2023,4,Apr,FY2024,Q1
+1/04/2023,Mizoram,4-Wheelers,0,336,336,2023,4,Apr,FY2024,Q1
+1/04/2023,Nagaland,2-Wheelers,0,560,560,2023,4,Apr,FY2024,Q1
+1/05/2023,Andaman & Nicobar Island,2-Wheelers,0,436,436,2023,5,May,FY2024,Q1
+1/05/2023,Andaman & Nicobar Island,4-Wheelers,0,150,150,2023,5,May,FY2024,Q1
+1/05/2023,Arunachal Pradesh,4-Wheelers,0,1132,1132,2023,5,May,FY2024,Q1
+1/05/2023,Ladakh,4-Wheelers,0,364,364,2023,5,May,FY2024,Q1
+1/05/2023,Mizoram,4-Wheelers,0,382,382,2023,5,May,FY2024,Q1
+1/05/2023,Nagaland,2-Wheelers,0,610,610,2023,5,May,FY2024,Q1
+1/05/2023,Nagaland,4-Wheelers,0,796,796,2023,5,May,FY2024,Q1
+1/06/2023,Andaman & Nicobar Island,2-Wheelers,0,373,373,2023,6,Jun,FY2024,Q1
+1/06/2023,Arunachal Pradesh,2-Wheelers,0,1141,1141,2023,6,Jun,FY2024,Q1
+1/06/2023,Arunachal Pradesh,4-Wheelers,0,1089,1089,2023,6,Jun,FY2024,Q1
+1/06/2023,Ladakh,4-Wheelers,0,304,304,2023,6,Jun,FY2024,Q1
+1/06/2023,Manipur,4-Wheelers,0,220,220,2023,6,Jun,FY2024,Q1
+1/06/2023,Mizoram,4-Wheelers,0,383,383,2023,6,Jun,FY2024,Q1
+1/06/2023,Nagaland,2-Wheelers,0,650,650,2023,6,Jun,FY2024,Q1
+1/06/2023,Nagaland,4-Wheelers,0,620,620,2023,6,Jun,FY2024,Q1
+1/07/2023,Andaman & Nicobar Island,2-Wheelers,0,424,424,2023,7,Jul,FY2024,Q2
+1/07/2023,Arunachal Pradesh,2-Wheelers,0,1315,1315,2023,7,Jul,FY2024,Q2
+1/07/2023,Ladakh,4-Wheelers,0,301,301,2023,7,Jul,FY2024,Q2
+1/07/2023,Mizoram,4-Wheelers,0,439,439,2023,7,Jul,FY2024,Q2
+1/08/2023,Andaman & Nicobar Island,2-Wheelers,0,477,477,2023,8,Aug,FY2024,Q2
+1/08/2023,Arunachal Pradesh,2-Wheelers,0,1292,1292,2023,8,Aug,FY2024,Q2
+1/08/2023,Ladakh,2-Wheelers,0,63,63,2023,8,Aug,FY2024,Q2
+1/08/2023,Ladakh,4-Wheelers,0,278,278,2023,8,Aug,FY2024,Q2
+1/08/2023,Mizoram,4-Wheelers,0,410,410,2023,8,Aug,FY2024,Q2
+1/08/2023,Nagaland,2-Wheelers,0,592,592,2023,8,Aug,FY2024,Q2
+1/08/2023,Nagaland,4-Wheelers,0,760,760,2023,8,Aug,FY2024,Q2
+1/09/2023,Andaman & Nicobar Island,2-Wheelers,0,379,379,2023,9,Sep,FY2024,Q2
+1/09/2023,Arunachal Pradesh,2-Wheelers,0,1274,1274,2023,9,Sep,FY2024,Q2
+1/09/2023,Ladakh,2-Wheelers,0,40,40,2023,9,Sep,FY2024,Q2
+1/09/2023,Ladakh,4-Wheelers,0,211,211,2023,9,Sep,FY2024,Q2
+1/09/2023,Manipur,2-Wheelers,0,426,426,2023,9,Sep,FY2024,Q2
+1/09/2023,Manipur,4-Wheelers,0,239,239,2023,9,Sep,FY2024,Q2
+1/09/2023,Mizoram,4-Wheelers,0,415,415,2023,9,Sep,FY2024,Q2
+1/09/2023,Nagaland,4-Wheelers,0,654,654,2023,9,Sep,FY2024,Q2
+1/10/2023,Arunachal Pradesh,2-Wheelers,0,1281,1281,2023,10,Oct,FY2024,Q3
+1/10/2023,Ladakh,2-Wheelers,0,33,33,2023,10,Oct,FY2024,Q3
+1/10/2023,Ladakh,4-Wheelers,0,187,187,2023,10,Oct,FY2024,Q3
+1/10/2023,Mizoram,4-Wheelers,0,453,453,2023,10,Oct,FY2024,Q3
+1/10/2023,Nagaland,2-Wheelers,0,471,471,2023,10,Oct,FY2024,Q3
+1/10/2023,Nagaland,4-Wheelers,0,743,743,2023,10,Oct,FY2024,Q3
+1/11/2023,Arunachal Pradesh,2-Wheelers,0,1458,1458,2023,11,Nov,FY2024,Q3
+1/11/2023,Ladakh,2-Wheelers,0,39,39,2023,11,Nov,FY2024,Q3
+1/11/2023,Ladakh,4-Wheelers,0,166,166,2023,11,Nov,FY2024,Q3
+1/11/2023,Mizoram,4-Wheelers,0,531,531,2023,11,Nov,FY2024,Q3
+1/12/2023,Ladakh,2-Wheelers,0,7,7,2023,12,Dec,FY2024,Q3
+1/12/2023,Ladakh,4-Wheelers,0,144,144,2023,12,Dec,FY2024,Q3
+1/12/2023,Mizoram,4-Wheelers,0,568,568,2023,12,Dec,FY2024,Q3
+1/12/2023,Nagaland,2-Wheelers,0,421,421,2023,12,Dec,FY2024,Q3
+1/12/2023,Nagaland,4-Wheelers,0,562,562,2023,12,Dec,FY2024,Q3
+1/01/2024,Arunachal Pradesh,2-Wheelers,0,995,995,2024,1,Jan,FY2024,Q4
+1/01/2024,Nagaland,2-Wheelers,0,505,505,2024,1,Jan,FY2024,Q4
+1/01/2024,Ladakh,4-Wheelers,0,141,141,2024,1,Jan,FY2024,Q4
+1/01/2024,Andaman & Nicobar,4-Wheelers,0,177,177,2024,1,Jan,FY2024,Q4
+1/01/2024,Nagaland,4-Wheelers,0,877,877,2024,1,Jan,FY2024,Q4
+1/02/2024,Arunachal Pradesh,2-Wheelers,0,1117,1117,2024,2,Feb,FY2024,Q4
+1/02/2024,Nagaland,2-Wheelers,0,763,763,2024,2,Feb,FY2024,Q4
+1/02/2024,Ladakh,2-Wheelers,0,4,4,2024,2,Feb,FY2024,Q4
+1/02/2024,Mizoram,4-Wheelers,0,494,494,2024,2,Feb,FY2024,Q4
+1/02/2024,Ladakh,4-Wheelers,0,47,47,2024,2,Feb,FY2024,Q4
+1/03/2024,Arunachal Pradesh,2-Wheelers,0,1259,1259,2024,3,Mar,FY2024,Q4
+1/03/2024,Ladakh,2-Wheelers,0,11,11,2024,3,Mar,FY2024,Q4
+1/03/2024,Mizoram,4-Wheelers,0,463,463,2024,3,Mar,FY2024,Q4
+1/03/2024,Nagaland,4-Wheelers,0,1336,1336,2024,3,Mar,FY2024,Q4
+1/03/2024,Ladakh,4-Wheelers,0,81,81,2024,3,Mar,FY2024,Q4
+1/04/2021,DNH and DD,2-Wheelers,1,657,656,2021,4,Apr,FY2022,Q1
+1/04/2021,Himachal Pradesh,4-Wheelers,1,3544,3543,2021,4,Apr,FY2022,Q1
+1/04/2021,Meghalaya,4-Wheelers,1,930,929,2021,4,Apr,FY2022,Q1
+1/05/2021,Chandigarh,4-Wheelers,1,413,412,2021,5,May,FY2022,Q1
+1/05/2021,Haryana,4-Wheelers,1,4373,4372,2021,5,May,FY2022,Q1
+1/05/2021,Himachal Pradesh,4-Wheelers,1,1503,1502,2021,5,May,FY2022,Q1
+1/05/2021,Jharkhand,4-Wheelers,1,2290,2289,2021,5,May,FY2022,Q1
+1/05/2021,Madhya Pradesh,2-Wheelers,1,6302,6301,2021,5,May,FY2022,Q1
+1/05/2021,Meghalaya,4-Wheelers,1,88,87,2021,5,May,FY2022,Q1
+1/06/2021,Assam,4-Wheelers,1,3842,3841,2021,6,Jun,FY2022,Q1
+1/06/2021,DNH and DD,4-Wheelers,1,234,233,2021,6,Jun,FY2022,Q1
+1/06/2021,Himachal Pradesh,4-Wheelers,1,3193,3192,2021,6,Jun,FY2022,Q1
+1/06/2021,Jammu and Kashmir,4-Wheelers,1,4469,4468,2021,6,Jun,FY2022,Q1
+1/06/2021,Tripura,2-Wheelers,1,1523,1522,2021,6,Jun,FY2022,Q1
+1/07/2021,Jammu and Kashmir,4-Wheelers,1,5336,5335,2021,7,Jul,FY2022,Q2
+1/07/2021,Meghalaya,4-Wheelers,1,759,758,2021,7,Jul,FY2022,Q2
+1/08/2021,Andaman & Nicobar Island,4-Wheelers,1,110,109,2021,8,Aug,FY2022,Q2
+1/08/2021,Puducherry,4-Wheelers,1,837,836,2021,8,Aug,FY2022,Q2
+1/09/2021,DNH and DD,2-Wheelers,1,666,665,2021,9,Sep,FY2022,Q2
+1/09/2021,Himachal Pradesh,4-Wheelers,1,3379,3378,2021,9,Sep,FY2022,Q2
+1/09/2021,Jammu and Kashmir,4-Wheelers,1,3773,3772,2021,9,Sep,FY2022,Q2
+1/09/2021,Nagaland,2-Wheelers,1,578,577,2021,9,Sep,FY2022,Q2
+1/10/2021,Andaman & Nicobar Island,4-Wheelers,1,70,69,2021,10,Oct,FY2022,Q3
+1/10/2021,DNH and DD,2-Wheelers,1,628,627,2021,10,Oct,FY2022,Q3
+1/10/2021,DNH and DD,4-Wheelers,1,333,332,2021,10,Oct,FY2022,Q3
+1/10/2021,Himachal Pradesh,4-Wheelers,1,3201,3200,2021,10,Oct,FY2022,Q3
+1/11/2021,DNH and DD,2-Wheelers,1,938,937,2021,11,Nov,FY2022,Q3
+1/11/2021,Puducherry,4-Wheelers,1,532,531,2021,11,Nov,FY2022,Q3
+1/12/2021,Andaman & Nicobar Island,4-Wheelers,1,122,121,2021,12,Dec,FY2022,Q3
+1/12/2021,DNH and DD,4-Wheelers,1,336,335,2021,12,Dec,FY2022,Q3
+1/12/2021,Himachal Pradesh,4-Wheelers,1,4105,4104,2021,12,Dec,FY2022,Q3
+1/12/2021,Tripura,2-Wheelers,1,3579,3578,2021,12,Dec,FY2022,Q3
+1/02/2022,DNH and DD,4-Wheelers,1,354,353,2022,2,Feb,FY2022,Q4
+1/02/2022,Meghalaya,4-Wheelers,1,917,916,2022,2,Feb,FY2022,Q4
+1/03/2022,DNH and DD,4-Wheelers,1,355,354,2022,3,Mar,FY2022,Q4
+1/04/2022,Andaman & Nicobar Island,4-Wheelers,1,147,146,2022,4,Apr,FY2023,Q1
+1/04/2022,DNH and DD,4-Wheelers,1,431,430,2022,4,Apr,FY2023,Q1
+1/04/2022,Manipur,2-Wheelers,1,1246,1245,2022,4,Apr,FY2023,Q1
+1/04/2022,Manipur,4-Wheelers,1,813,812,2022,4,Apr,FY2023,Q1
+1/04/2022,Meghalaya,4-Wheelers,1,860,859,2022,4,Apr,FY2023,Q1
+1/05/2022,DNH and DD,4-Wheelers,1,374,373,2022,5,May,FY2023,Q1
+1/05/2022,Mizoram,2-Wheelers,1,1638,1637,2022,5,May,FY2023,Q1
+1/05/2022,Nagaland,2-Wheelers,1,514,513,2022,5,May,FY2023,Q1
+1/06/2022,DNH and DD,2-Wheelers,1,767,766,2022,6,Jun,FY2023,Q1
+1/06/2022,Meghalaya,4-Wheelers,1,1087,1086,2022,6,Jun,FY2023,Q1
+1/07/2022,Arunachal Pradesh,4-Wheelers,1,947,946,2022,7,Jul,FY2023,Q2
+1/07/2022,Ladakh,4-Wheelers,1,285,284,2022,7,Jul,FY2023,Q2
+1/07/2022,Mizoram,2-Wheelers,1,1427,1426,2022,7,Jul,FY2023,Q2
+1/08/2022,DNH and DD,4-Wheelers,1,303,302,2022,8,Aug,FY2023,Q2
+1/09/2022,DNH and DD,4-Wheelers,1,390,389,2022,9,Sep,FY2023,Q2
+1/09/2022,Manipur,2-Wheelers,1,2473,2472,2022,9,Sep,FY2023,Q2
+1/09/2022,Meghalaya,2-Wheelers,1,1719,1718,2022,9,Sep,FY2023,Q2
+1/10/2022,Meghalaya,4-Wheelers,1,1188,1187,2022,10,Oct,FY2023,Q3
+1/11/2022,Andaman & Nicobar Island,4-Wheelers,1,159,158,2022,11,Nov,FY2023,Q3
+1/12/2022,Arunachal Pradesh,2-Wheelers,1,925,924,2022,12,Dec,FY2023,Q3
+1/12/2022,Meghalaya,2-Wheelers,1,1180,1179,2022,12,Dec,FY2023,Q3
+1/12/2022,Punjab,4-Wheelers,1,13085,13084,2022,12,Dec,FY2023,Q3
+1/01/2023,DNH and DD,4-Wheelers,1,360,359,2023,1,Jan,FY2023,Q4
+1/01/2023,Ladakh,2-Wheelers,1,20,19,2023,1,Jan,FY2023,Q4
+1/01/2023,Meghalaya,4-Wheelers,1,1271,1270,2023,1,Jan,FY2023,Q4
+1/03/2023,Andaman & Nicobar Island,2-Wheelers,1,373,372,2023,3,Mar,FY2023,Q4
+1/03/2023,Andaman & Nicobar Island,4-Wheelers,1,162,161,2023,3,Mar,FY2023,Q4
+1/03/2023,Meghalaya,2-Wheelers,1,1907,1906,2023,3,Mar,FY2023,Q4
+1/04/2023,Andaman & Nicobar Island,4-Wheelers,1,122,121,2023,4,Apr,FY2024,Q1
+1/04/2023,Arunachal Pradesh,4-Wheelers,1,892,891,2023,4,Apr,FY2024,Q1
+1/04/2023,DNH and DD,4-Wheelers,1,407,406,2023,4,Apr,FY2024,Q1
+1/04/2023,Nagaland,4-Wheelers,1,687,686,2023,4,Apr,FY2024,Q1
+1/04/2023,Tripura,4-Wheelers,1,299,298,2023,4,Apr,FY2024,Q1
+1/05/2023,Arunachal Pradesh,2-Wheelers,1,1193,1192,2023,5,May,FY2024,Q1
+1/06/2023,Andaman & Nicobar Island,4-Wheelers,1,136,135,2023,6,Jun,FY2024,Q1
+1/06/2023,DNH and DD,4-Wheelers,1,370,369,2023,6,Jun,FY2024,Q1
+1/06/2023,Meghalaya,2-Wheelers,1,1969,1968,2023,6,Jun,FY2024,Q1
+1/07/2023,Ladakh,2-Wheelers,1,117,116,2023,7,Jul,FY2024,Q2
+1/07/2023,Nagaland,2-Wheelers,1,599,598,2023,7,Jul,FY2024,Q2
+1/07/2023,Nagaland,4-Wheelers,1,739,738,2023,7,Jul,FY2024,Q2
+1/08/2023,DNH and DD,4-Wheelers,1,357,356,2023,8,Aug,FY2024,Q2
+1/09/2023,Andaman & Nicobar Island,4-Wheelers,1,148,147,2023,9,Sep,FY2024,Q2
+1/09/2023,Nagaland,2-Wheelers,1,531,530,2023,9,Sep,FY2024,Q2
+1/10/2023,Andaman & Nicobar Island,2-Wheelers,1,404,403,2023,10,Oct,FY2024,Q3
+1/10/2023,Andaman & Nicobar Island,4-Wheelers,1,191,190,2023,10,Oct,FY2024,Q3
+1/10/2023,Meghalaya,2-Wheelers,1,1776,1775,2023,10,Oct,FY2024,Q3
+1/10/2023,Meghalaya,4-Wheelers,1,1354,1353,2023,10,Oct,FY2024,Q3
+1/11/2023,Andaman & Nicobar Island,4-Wheelers,1,170,169,2023,11,Nov,FY2024,Q3
+1/11/2023,Nagaland,2-Wheelers,1,634,633,2023,11,Nov,FY2024,Q3
+1/11/2023,Nagaland,4-Wheelers,1,860,859,2023,11,Nov,FY2024,Q3
+1/12/2023,Meghalaya,2-Wheelers,1,1518,1517,2023,12,Dec,FY2024,Q3
+1/12/2023,Meghalaya,4-Wheelers,1,1060,1059,2023,12,Dec,FY2024,Q3
+1/01/2024,Mizoram,4-Wheelers,1,513,512,2024,1,Jan,FY2024,Q4
+1/01/2024,Meghalaya,4-Wheelers,1,1429,1428,2024,1,Jan,FY2024,Q4
+1/02/2024,Andaman & Nicobar Island,4-Wheelers,1,181,180,2024,2,Feb,FY2024,Q4
+1/02/2024,Nagaland,4-Wheelers,1,822,821,2024,2,Feb,FY2024,Q4
+1/03/2024,Andaman & Nicobar Island,4-Wheelers,1,158,157,2024,3,Mar,FY2024,Q4
+1/03/2024,Arunachal Pradesh,4-Wheelers,1,1081,1080,2024,3,Mar,FY2024,Q4
+1/04/2021,Andaman & Nicobar Island,4-Wheelers,9,168,159,2021,4,Apr,FY2022,Q1
+1/04/2021,Andhra Pradesh,4-Wheelers,26,7837,7811,2021,4,Apr,FY2022,Q1
+1/04/2021,Bihar,4-Wheelers,4,5731,5727,2021,4,Apr,FY2022,Q1
+1/04/2021,Chandigarh,4-Wheelers,2,1426,1424,2021,4,Apr,FY2022,Q1
+1/04/2021,Delhi,4-Wheelers,61,8076,8015,2021,4,Apr,FY2022,Q1
+1/04/2021,Goa,4-Wheelers,8,1442,1434,2021,4,Apr,FY2022,Q1
+1/04/2021,Gujarat,4-Wheelers,44,17386,17342,2021,4,Apr,FY2022,Q1
+1/04/2021,Haryana,4-Wheelers,3,15476,15473,2021,4,Apr,FY2022,Q1
+1/04/2021,Jharkhand,4-Wheelers,3,3425,3422,2021,4,Apr,FY2022,Q1
+1/04/2021,Karnataka,4-Wheelers,90,16864,16774,2021,4,Apr,FY2022,Q1
+1/04/2021,Kerala,4-Wheelers,132,23660,23528,2021,4,Apr,FY2022,Q1
+1/04/2021,Madhya Pradesh,4-Wheelers,2,5356,5354,2021,4,Apr,FY2022,Q1
+1/04/2021,Maharashtra,4-Wheelers,96,16829,16733,2021,4,Apr,FY2022,Q1
+1/04/2021,Odisha,4-Wheelers,5,5101,5096,2021,4,Apr,FY2022,Q1
+1/04/2021,Punjab,4-Wheelers,4,8955,8951,2021,4,Apr,FY2022,Q1
+1/04/2021,Rajasthan,4-Wheelers,22,10647,10625,2021,4,Apr,FY2022,Q1
+1/04/2021,Tamil Nadu,4-Wheelers,75,18826,18751,2021,4,Apr,FY2022,Q1
+1/04/2021,Uttar Pradesh,4-Wheelers,4,23056,23052,2021,4,Apr,FY2022,Q1
+1/04/2021,Uttarakhand,4-Wheelers,10,2728,2718,2021,4,Apr,FY2022,Q1
+1/04/2021,West Bengal,4-Wheelers,24,7640,7616,2021,4,Apr,FY2022,Q1
+1/05/2021,Andhra Pradesh,4-Wheelers,16,5831,5815,2021,5,May,FY2022,Q1
+1/05/2021,Goa,4-Wheelers,4,393,389,2021,5,May,FY2022,Q1
+1/05/2021,Gujarat,4-Wheelers,29,15959,15930,2021,5,May,FY2022,Q1
+1/05/2021,Karnataka,4-Wheelers,2,646,644,2021,5,May,FY2022,Q1
+1/05/2021,Kerala,4-Wheelers,48,5164,5116,2021,5,May,FY2022,Q1
+1/05/2021,Maharashtra,4-Wheelers,121,13528,13407,2021,5,May,FY2022,Q1
+1/05/2021,Puducherry,4-Wheelers,2,119,117,2021,5,May,FY2022,Q1
+1/05/2021,Rajasthan,4-Wheelers,7,2756,2749,2021,5,May,FY2022,Q1
+1/05/2021,Tamil Nadu,4-Wheelers,14,3413,3399,2021,5,May,FY2022,Q1
+1/05/2021,Uttar Pradesh,4-Wheelers,3,14016,14013,2021,5,May,FY2022,Q1
+1/05/2021,West Bengal,4-Wheelers,6,3962,3956,2021,5,May,FY2022,Q1
+1/06/2021,Andhra Pradesh,4-Wheelers,39,6098,6059,2021,6,Jun,FY2022,Q1
+1/06/2021,Bihar,4-Wheelers,4,5692,5688,2021,6,Jun,FY2022,Q1
+1/06/2021,Chandigarh,4-Wheelers,12,2050,2038,2021,6,Jun,FY2022,Q1
+1/06/2021,Chhattisgarh,4-Wheelers,5,4526,4521,2021,6,Jun,FY2022,Q1
+1/06/2021,Delhi,4-Wheelers,148,12914,12766,2021,6,Jun,FY2022,Q1
+1/06/2021,Goa,4-Wheelers,14,749,735,2021,6,Jun,FY2022,Q1
+1/06/2021,Gujarat,4-Wheelers,61,19359,19298,2021,6,Jun,FY2022,Q1
+1/06/2021,Haryana,4-Wheelers,4,13420,13416,2021,6,Jun,FY2022,Q1
+1/06/2021,Jharkhand,4-Wheelers,4,4405,4401,2021,6,Jun,FY2022,Q1
+1/06/2021,Karnataka,4-Wheelers,71,8030,7959,2021,6,Jun,FY2022,Q1
+1/06/2021,Kerala,4-Wheelers,140,10018,9878,2021,6,Jun,FY2022,Q1
+1/06/2021,Madhya Pradesh,4-Wheelers,13,12092,12079,2021,6,Jun,FY2022,Q1
+1/06/2021,Maharashtra,4-Wheelers,190,24817,24627,2021,6,Jun,FY2022,Q1
+1/06/2021,Odisha,4-Wheelers,2,3041,3039,2021,6,Jun,FY2022,Q1
+1/06/2021,Punjab,4-Wheelers,3,7126,7123,2021,6,Jun,FY2022,Q1
+1/06/2021,Rajasthan,4-Wheelers,34,12070,12036,2021,6,Jun,FY2022,Q1
+1/06/2021,Tamil Nadu,4-Wheelers,42,7793,7751,2021,6,Jun,FY2022,Q1
+1/06/2021,Uttar Pradesh,4-Wheelers,3,25704,25701,2021,6,Jun,FY2022,Q1
+1/06/2021,Uttarakhand,4-Wheelers,7,2972,2965,2021,6,Jun,FY2022,Q1
+1/06/2021,West Bengal,4-Wheelers,18,6316,6298,2021,6,Jun,FY2022,Q1
+1/07/2021,Andaman & Nicobar Island,4-Wheelers,8,176,168,2021,7,Jul,FY2022,Q2
+1/07/2021,Andhra Pradesh,4-Wheelers,36,7877,7841,2021,7,Jul,FY2022,Q2
+1/07/2021,Bihar,4-Wheelers,5,5438,5433,2021,7,Jul,FY2022,Q2
+1/07/2021,Chandigarh,4-Wheelers,9,1916,1907,2021,7,Jul,FY2022,Q2
+1/07/2021,Chhattisgarh,4-Wheelers,12,4916,4904,2021,7,Jul,FY2022,Q2
+1/07/2021,Delhi,4-Wheelers,131,15033,14902,2021,7,Jul,FY2022,Q2
+1/07/2021,Goa,4-Wheelers,10,982,972,2021,7,Jul,FY2022,Q2
+1/07/2021,Gujarat,4-Wheelers,53,23792,23739,2021,7,Jul,FY2022,Q2
+1/07/2021,Haryana,4-Wheelers,6,14524,14518,2021,7,Jul,FY2022,Q2
+1/07/2021,Himachal Pradesh,4-Wheelers,2,3811,3809,2021,7,Jul,FY2022,Q2
+1/07/2021,Jharkhand,4-Wheelers,4,5020,5016,2021,7,Jul,FY2022,Q2
+1/07/2021,Karnataka,4-Wheelers,196,21640,21444,2021,7,Jul,FY2022,Q2
+1/07/2021,Kerala,4-Wheelers,139,18406,18267,2021,7,Jul,FY2022,Q2
+1/07/2021,Madhya Pradesh,4-Wheelers,17,14581,14564,2021,7,Jul,FY2022,Q2
+1/07/2021,Maharashtra,4-Wheelers,286,38063,37777,2021,7,Jul,FY2022,Q2
+1/07/2021,Odisha,4-Wheelers,3,5552,5549,2021,7,Jul,FY2022,Q2
+1/07/2021,Punjab,4-Wheelers,3,9328,9325,2021,7,Jul,FY2022,Q2
+1/07/2021,Rajasthan,4-Wheelers,52,14374,14322,2021,7,Jul,FY2022,Q2
+1/07/2021,Tamil Nadu,4-Wheelers,88,20857,20769,2021,7,Jul,FY2022,Q2
+1/07/2021,Uttar Pradesh,4-Wheelers,8,27999,27991,2021,7,Jul,FY2022,Q2
+1/07/2021,Uttarakhand,4-Wheelers,11,4182,4171,2021,7,Jul,FY2022,Q2
+1/07/2021,West Bengal,4-Wheelers,37,8919,8882,2021,7,Jul,FY2022,Q2
+1/08/2021,Andhra Pradesh,4-Wheelers,78,8245,8167,2021,8,Aug,FY2022,Q2
+1/08/2021,Assam,4-Wheelers,2,6447,6445,2021,8,Aug,FY2022,Q2
+1/08/2021,Bihar,4-Wheelers,7,5724,5717,2021,8,Aug,FY2022,Q2
+1/08/2021,Chandigarh,4-Wheelers,9,1845,1836,2021,8,Aug,FY2022,Q2
+1/08/2021,Chhattisgarh,4-Wheelers,11,4350,4339,2021,8,Aug,FY2022,Q2
+1/08/2021,Delhi,4-Wheelers,157,13177,13020,2021,8,Aug,FY2022,Q2
+1/08/2021,Goa,4-Wheelers,19,1439,1420,2021,8,Aug,FY2022,Q2
+1/08/2021,Gujarat,4-Wheelers,83,20394,20311,2021,8,Aug,FY2022,Q2
+1/08/2021,Haryana,4-Wheelers,3,16027,16024,2021,8,Aug,FY2022,Q2
+1/08/2021,Jharkhand,4-Wheelers,3,5113,5110,2021,8,Aug,FY2022,Q2
+1/08/2021,Karnataka,4-Wheelers,137,21975,21838,2021,8,Aug,FY2022,Q2
+1/08/2021,Kerala,4-Wheelers,183,22813,22630,2021,8,Aug,FY2022,Q2
+1/08/2021,Madhya Pradesh,4-Wheelers,26,12758,12732,2021,8,Aug,FY2022,Q2
+1/08/2021,Maharashtra,4-Wheelers,197,35127,34930,2021,8,Aug,FY2022,Q2
+1/08/2021,Odisha,4-Wheelers,4,5453,5449,2021,8,Aug,FY2022,Q2
+1/08/2021,Punjab,4-Wheelers,4,9209,9205,2021,8,Aug,FY2022,Q2
+1/08/2021,Rajasthan,4-Wheelers,53,11454,11401,2021,8,Aug,FY2022,Q2
+1/08/2021,Tamil Nadu,4-Wheelers,88,20865,20777,2021,8,Aug,FY2022,Q2
+1/08/2021,Uttar Pradesh,4-Wheelers,3,24012,24009,2021,8,Aug,FY2022,Q2
+1/08/2021,Uttarakhand,4-Wheelers,6,3760,3754,2021,8,Aug,FY2022,Q2
+1/08/2021,West Bengal,4-Wheelers,28,9198,9170,2021,8,Aug,FY2022,Q2
+1/09/2021,Andhra Pradesh,4-Wheelers,39,7952,7913,2021,9,Sep,FY2022,Q2
+1/09/2021,Bihar,4-Wheelers,4,4339,4335,2021,9,Sep,FY2022,Q2
+1/09/2021,Chandigarh,4-Wheelers,20,1607,1587,2021,9,Sep,FY2022,Q2
+1/09/2021,Chhattisgarh,4-Wheelers,12,3650,3638,2021,9,Sep,FY2022,Q2
+1/09/2021,Delhi,4-Wheelers,265,9181,8916,2021,9,Sep,FY2022,Q2
+1/09/2021,Goa,4-Wheelers,34,1277,1243,2021,9,Sep,FY2022,Q2
+1/09/2021,Gujarat,4-Wheelers,131,24797,24666,2021,9,Sep,FY2022,Q2
+1/09/2021,Haryana,4-Wheelers,7,14879,14872,2021,9,Sep,FY2022,Q2
+1/09/2021,Jharkhand,4-Wheelers,12,3892,3880,2021,9,Sep,FY2022,Q2
+1/09/2021,Karnataka,4-Wheelers,227,21407,21180,2021,9,Sep,FY2022,Q2
+1/09/2021,Kerala,4-Wheelers,164,22063,21899,2021,9,Sep,FY2022,Q2
+1/09/2021,Madhya Pradesh,4-Wheelers,23,11756,11733,2021,9,Sep,FY2022,Q2
+1/09/2021,Maharashtra,4-Wheelers,148,27900,27752,2021,9,Sep,FY2022,Q2
+1/09/2021,Odisha,4-Wheelers,2,4865,4863,2021,9,Sep,FY2022,Q2
+1/09/2021,Puducherry,4-Wheelers,2,640,638,2021,9,Sep,FY2022,Q2
+1/09/2021,Punjab,4-Wheelers,3,7521,7518,2021,9,Sep,FY2022,Q2
+1/09/2021,Rajasthan,4-Wheelers,69,11035,10966,2021,9,Sep,FY2022,Q2
+1/09/2021,Tamil Nadu,4-Wheelers,107,18823,18716,2021,9,Sep,FY2022,Q2
+1/09/2021,Uttar Pradesh,4-Wheelers,4,23510,23506,2021,9,Sep,FY2022,Q2
+1/09/2021,Uttarakhand,4-Wheelers,10,3171,3161,2021,9,Sep,FY2022,Q2
+1/09/2021,West Bengal,4-Wheelers,34,9437,9403,2021,9,Sep,FY2022,Q2
+1/10/2021,Andhra Pradesh,4-Wheelers,37,7366,7329,2021,10,Oct,FY2022,Q3
+1/10/2021,Bihar,4-Wheelers,7,5838,5831,2021,10,Oct,FY2022,Q3
+1/10/2021,Chandigarh,4-Wheelers,12,1816,1804,2021,10,Oct,FY2022,Q3
+1/10/2021,Chhattisgarh,4-Wheelers,11,5255,5244,2021,10,Oct,FY2022,Q3
+1/10/2021,Delhi,4-Wheelers,253,12876,12623,2021,10,Oct,FY2022,Q3
+1/10/2021,Goa,4-Wheelers,28,1165,1137,2021,10,Oct,FY2022,Q3
+1/10/2021,Gujarat,4-Wheelers,104,23184,23080,2021,10,Oct,FY2022,Q3
+1/10/2021,Haryana,4-Wheelers,8,11634,11626,2021,10,Oct,FY2022,Q3
+1/10/2021,Jammu and Kashmir,4-Wheelers,2,4205,4203,2021,10,Oct,FY2022,Q3
+1/10/2021,Jharkhand,4-Wheelers,5,4806,4801,2021,10,Oct,FY2022,Q3
+1/10/2021,Karnataka,4-Wheelers,163,18505,18342,2021,10,Oct,FY2022,Q3
+1/10/2021,Kerala,4-Wheelers,158,14562,14404,2021,10,Oct,FY2022,Q3
+1/10/2021,Madhya Pradesh,4-Wheelers,20,9554,9534,2021,10,Oct,FY2022,Q3
+1/10/2021,Maharashtra,4-Wheelers,298,33771,33473,2021,10,Oct,FY2022,Q3
+1/10/2021,Odisha,4-Wheelers,2,5830,5828,2021,10,Oct,FY2022,Q3
+1/10/2021,Punjab,4-Wheelers,5,8523,8518,2021,10,Oct,FY2022,Q3
+1/10/2021,Rajasthan,4-Wheelers,86,12823,12737,2021,10,Oct,FY2022,Q3
+1/10/2021,Tamil Nadu,4-Wheelers,119,14796,14677,2021,10,Oct,FY2022,Q3
+1/10/2021,Uttar Pradesh,4-Wheelers,10,23095,23085,2021,10,Oct,FY2022,Q3
+1/10/2021,Uttarakhand,4-Wheelers,13,3523,3510,2021,10,Oct,FY2022,Q3
+1/10/2021,West Bengal,4-Wheelers,33,7120,7087,2021,10,Oct,FY2022,Q3
+1/11/2021,Andhra Pradesh,4-Wheelers,34,7374,7340,2021,11,Nov,FY2022,Q3
+1/11/2021,Bihar,4-Wheelers,11,6992,6981,2021,11,Nov,FY2022,Q3
+1/11/2021,Chandigarh,4-Wheelers,16,1919,1903,2021,11,Nov,FY2022,Q3
+1/11/2021,Chhattisgarh,4-Wheelers,14,4824,4810,2021,11,Nov,FY2022,Q3
+1/11/2021,Delhi,4-Wheelers,185,11782,11597,2021,11,Nov,FY2022,Q3
+1/11/2021,Goa,4-Wheelers,20,1293,1273,2021,11,Nov,FY2022,Q3
+1/11/2021,Gujarat,4-Wheelers,121,22396,22275,2021,11,Nov,FY2022,Q3
+1/11/2021,Haryana,4-Wheelers,13,16035,16022,2021,11,Nov,FY2022,Q3
+1/11/2021,Jharkhand,4-Wheelers,8,5320,5312,2021,11,Nov,FY2022,Q3
+1/11/2021,Karnataka,4-Wheelers,153,17247,17094,2021,11,Nov,FY2022,Q3
+1/11/2021,Kerala,4-Wheelers,214,15244,15030,2021,11,Nov,FY2022,Q3
+1/11/2021,Madhya Pradesh,4-Wheelers,31,12871,12840,2021,11,Nov,FY2022,Q3
+1/11/2021,Maharashtra,4-Wheelers,515,28322,27807,2021,11,Nov,FY2022,Q3
+1/11/2021,Odisha,4-Wheelers,18,5095,5077,2021,11,Nov,FY2022,Q3
+1/11/2021,Punjab,4-Wheelers,3,9015,9012,2021,11,Nov,FY2022,Q3
+1/11/2021,Rajasthan,4-Wheelers,79,16115,16036,2021,11,Nov,FY2022,Q3
+1/11/2021,Tamil Nadu,4-Wheelers,108,15533,15425,2021,11,Nov,FY2022,Q3
+1/11/2021,Uttar Pradesh,4-Wheelers,10,29608,29598,2021,11,Nov,FY2022,Q3
+1/11/2021,Uttarakhand,4-Wheelers,12,3954,3942,2021,11,Nov,FY2022,Q3
+1/11/2021,West Bengal,4-Wheelers,59,8836,8777,2021,11,Nov,FY2022,Q3
+1/12/2021,Andhra Pradesh,4-Wheelers,31,6314,6283,2021,12,Dec,FY2022,Q3
+1/12/2021,Assam,4-Wheelers,3,6737,6734,2021,12,Dec,FY2022,Q3
+1/12/2021,Bihar,4-Wheelers,7,5031,5024,2021,12,Dec,FY2022,Q3
+1/12/2021,Chandigarh,4-Wheelers,12,1985,1973,2021,12,Dec,FY2022,Q3
+1/12/2021,Chhattisgarh,4-Wheelers,5,3651,3646,2021,12,Dec,FY2022,Q3
+1/12/2021,Delhi,4-Wheelers,277,12633,12356,2021,12,Dec,FY2022,Q3
+1/12/2021,Goa,4-Wheelers,19,1306,1287,2021,12,Dec,FY2022,Q3
+1/12/2021,Gujarat,4-Wheelers,163,24277,24114,2021,12,Dec,FY2022,Q3
+1/12/2021,Haryana,4-Wheelers,11,16015,16004,2021,12,Dec,FY2022,Q3
+1/12/2021,Jharkhand,4-Wheelers,3,4258,4255,2021,12,Dec,FY2022,Q3
+1/12/2021,Karnataka,4-Wheelers,153,16243,16090,2021,12,Dec,FY2022,Q3
+1/12/2021,Kerala,4-Wheelers,186,16994,16808,2021,12,Dec,FY2022,Q3
+1/12/2021,Madhya Pradesh,4-Wheelers,30,11820,11790,2021,12,Dec,FY2022,Q3
+1/12/2021,Maharashtra,4-Wheelers,1392,29346,27954,2021,12,Dec,FY2022,Q3
+1/12/2021,Odisha,4-Wheelers,20,4634,4614,2021,12,Dec,FY2022,Q3
+1/12/2021,Puducherry,4-Wheelers,2,608,606,2021,12,Dec,FY2022,Q3
+1/12/2021,Punjab,4-Wheelers,6,10624,10618,2021,12,Dec,FY2022,Q3
+1/12/2021,Rajasthan,4-Wheelers,73,12739,12666,2021,12,Dec,FY2022,Q3
+1/12/2021,Tamil Nadu,4-Wheelers,121,17001,16880,2021,12,Dec,FY2022,Q3
+1/12/2021,Uttar Pradesh,4-Wheelers,21,33774,33753,2021,12,Dec,FY2022,Q3
+1/12/2021,Uttarakhand,4-Wheelers,38,4270,4232,2021,12,Dec,FY2022,Q3
+1/12/2021,West Bengal,4-Wheelers,39,8452,8413,2021,12,Dec,FY2022,Q3
+1/01/2022,Andhra Pradesh,4-Wheelers,29,8418,8389,2022,1,Jan,FY2022,Q4
+1/01/2022,Bihar,4-Wheelers,10,5538,5528,2022,1,Jan,FY2022,Q4
+1/01/2022,Chandigarh,4-Wheelers,7,1519,1512,2022,1,Jan,FY2022,Q4
+1/01/2022,Chhattisgarh,4-Wheelers,11,4667,4656,2022,1,Jan,FY2022,Q4
+1/01/2022,Delhi,4-Wheelers,282,13659,13377,2022,1,Jan,FY2022,Q4
+1/01/2022,Goa,4-Wheelers,26,1185,1159,2022,1,Jan,FY2022,Q4
+1/01/2022,Gujarat,4-Wheelers,97,21963,21866,2022,1,Jan,FY2022,Q4
+1/01/2022,Haryana,4-Wheelers,26,17633,17607,2022,1,Jan,FY2022,Q4
+1/01/2022,Himachal Pradesh,4-Wheelers,3,3090,3087,2022,1,Jan,FY2022,Q4
+1/01/2022,Jharkhand,4-Wheelers,5,4345,4340,2022,1,Jan,FY2022,Q4
+1/01/2022,Karnataka,4-Wheelers,209,21967,21758,2022,1,Jan,FY2022,Q4
+1/01/2022,Kerala,4-Wheelers,212,17441,17229,2022,1,Jan,FY2022,Q4
+1/01/2022,Madhya Pradesh,4-Wheelers,25,11325,11300,2022,1,Jan,FY2022,Q4
+1/01/2022,Maharashtra,4-Wheelers,263,35772,35509,2022,1,Jan,FY2022,Q4
+1/01/2022,Odisha,4-Wheelers,27,5876,5849,2022,1,Jan,FY2022,Q4
+1/01/2022,Punjab,4-Wheelers,7,9792,9785,2022,1,Jan,FY2022,Q4
+1/01/2022,Rajasthan,4-Wheelers,92,13658,13566,2022,1,Jan,FY2022,Q4
+1/01/2022,Tamil Nadu,4-Wheelers,121,20494,20373,2022,1,Jan,FY2022,Q4
+1/01/2022,Uttar Pradesh,4-Wheelers,14,32561,32547,2022,1,Jan,FY2022,Q4
+1/01/2022,Uttarakhand,4-Wheelers,30,4241,4211,2022,1,Jan,FY2022,Q4
+1/01/2022,West Bengal,4-Wheelers,54,7968,7914,2022,1,Jan,FY2022,Q4
+1/02/2022,Andhra Pradesh,4-Wheelers,43,6361,6318,2022,2,Feb,FY2022,Q4
+1/02/2022,Assam,4-Wheelers,3,6152,6149,2022,2,Feb,FY2022,Q4
+1/02/2022,Bihar,4-Wheelers,8,5658,5650,2022,2,Feb,FY2022,Q4
+1/02/2022,Chandigarh,4-Wheelers,11,1941,1930,2022,2,Feb,FY2022,Q4
+1/02/2022,Chhattisgarh,4-Wheelers,20,3922,3902,2022,2,Feb,FY2022,Q4
+1/02/2022,Delhi,4-Wheelers,298,12608,12310,2022,2,Feb,FY2022,Q4
+1/02/2022,Goa,4-Wheelers,62,1160,1098,2022,2,Feb,FY2022,Q4
+1/02/2022,Gujarat,4-Wheelers,128,24012,23884,2022,2,Feb,FY2022,Q4
+1/02/2022,Haryana,4-Wheelers,28,16353,16325,2022,2,Feb,FY2022,Q4
+1/02/2022,Himachal Pradesh,4-Wheelers,5,3616,3611,2022,2,Feb,FY2022,Q4
+1/02/2022,Jammu and Kashmir,4-Wheelers,7,4679,4672,2022,2,Feb,FY2022,Q4
+1/02/2022,Jharkhand,4-Wheelers,4,4335,4331,2022,2,Feb,FY2022,Q4
+1/02/2022,Karnataka,4-Wheelers,202,17561,17359,2022,2,Feb,FY2022,Q4
+1/02/2022,Kerala,4-Wheelers,327,14575,14248,2022,2,Feb,FY2022,Q4
+1/02/2022,Madhya Pradesh,4-Wheelers,22,11274,11252,2022,2,Feb,FY2022,Q4
+1/02/2022,Maharashtra,4-Wheelers,905,31805,30900,2022,2,Feb,FY2022,Q4
+1/02/2022,Odisha,4-Wheelers,27,5023,4996,2022,2,Feb,FY2022,Q4
+1/02/2022,Punjab,4-Wheelers,5,9464,9459,2022,2,Feb,FY2022,Q4
+1/02/2022,Rajasthan,4-Wheelers,116,14811,14695,2022,2,Feb,FY2022,Q4
+1/02/2022,Tamil Nadu,4-Wheelers,135,16711,16576,2022,2,Feb,FY2022,Q4
+1/02/2022,Uttar Pradesh,4-Wheelers,22,28479,28457,2022,2,Feb,FY2022,Q4
+1/02/2022,Uttarakhand,4-Wheelers,24,3820,3796,2022,2,Feb,FY2022,Q4
+1/02/2022,West Bengal,4-Wheelers,45,7395,7350,2022,2,Feb,FY2022,Q4
+1/03/2022,Andaman & Nicobar Island,4-Wheelers,2,108,106,2022,3,Mar,FY2022,Q4
+1/03/2022,Andhra Pradesh,4-Wheelers,55,7288,7233,2022,3,Mar,FY2022,Q4
+1/03/2022,Assam,4-Wheelers,2,7281,7279,2022,3,Mar,FY2022,Q4
+1/03/2022,Bihar,4-Wheelers,12,6694,6682,2022,3,Mar,FY2022,Q4
+1/03/2022,Chandigarh,4-Wheelers,14,2279,2265,2022,3,Mar,FY2022,Q4
+1/03/2022,Chhattisgarh,4-Wheelers,19,4200,4181,2022,3,Mar,FY2022,Q4
+1/03/2022,Delhi,4-Wheelers,220,13385,13165,2022,3,Mar,FY2022,Q4
+1/03/2022,Goa,4-Wheelers,91,1474,1383,2022,3,Mar,FY2022,Q4
+1/03/2022,Gujarat,4-Wheelers,249,26077,25828,2022,3,Mar,FY2022,Q4
+1/03/2022,Haryana,4-Wheelers,13,18621,18608,2022,3,Mar,FY2022,Q4
+1/03/2022,Himachal Pradesh,4-Wheelers,3,3371,3368,2022,3,Mar,FY2022,Q4
+1/03/2022,Jammu and Kashmir,4-Wheelers,4,4854,4850,2022,3,Mar,FY2022,Q4
+1/03/2022,Jharkhand,4-Wheelers,5,5062,5057,2022,3,Mar,FY2022,Q4
+1/03/2022,Karnataka,4-Wheelers,230,22167,21937,2022,3,Mar,FY2022,Q4
+1/03/2022,Kerala,4-Wheelers,331,16628,16297,2022,3,Mar,FY2022,Q4
+1/03/2022,Madhya Pradesh,4-Wheelers,35,11616,11581,2022,3,Mar,FY2022,Q4
+1/03/2022,Maharashtra,4-Wheelers,2060,39762,37702,2022,3,Mar,FY2022,Q4
+1/03/2022,Odisha,4-Wheelers,31,6098,6067,2022,3,Mar,FY2022,Q4
+1/03/2022,Puducherry,4-Wheelers,3,817,814,2022,3,Mar,FY2022,Q4
+1/03/2022,Punjab,4-Wheelers,4,10836,10832,2022,3,Mar,FY2022,Q4
+1/03/2022,Rajasthan,4-Wheelers,89,13751,13662,2022,3,Mar,FY2022,Q4
+1/03/2022,Tamil Nadu,4-Wheelers,168,20604,20436,2022,3,Mar,FY2022,Q4
+1/03/2022,Uttar Pradesh,4-Wheelers,18,29324,29306,2022,3,Mar,FY2022,Q4
+1/03/2022,Uttarakhand,4-Wheelers,20,4026,4006,2022,3,Mar,FY2022,Q4
+1/03/2022,West Bengal,4-Wheelers,41,8539,8498,2022,3,Mar,FY2022,Q4
+1/04/2022,Andhra Pradesh,4-Wheelers,54,7195,7141,2022,4,Apr,FY2023,Q1
+1/04/2022,Assam,4-Wheelers,2,6354,6352,2022,4,Apr,FY2023,Q1
+1/04/2022,Bihar,4-Wheelers,8,5981,5973,2022,4,Apr,FY2023,Q1
+1/04/2022,Chandigarh,4-Wheelers,12,2167,2155,2022,4,Apr,FY2023,Q1
+1/04/2022,Chhattisgarh,4-Wheelers,20,4861,4841,2022,4,Apr,FY2023,Q1
+1/04/2022,Delhi,4-Wheelers,566,15811,15245,2022,4,Apr,FY2023,Q1
+1/04/2022,Goa,4-Wheelers,31,1390,1359,2022,4,Apr,FY2023,Q1
+1/04/2022,Gujarat,4-Wheelers,171,26534,26363,2022,4,Apr,FY2023,Q1
+1/04/2022,Haryana,4-Wheelers,11,16721,16710,2022,4,Apr,FY2023,Q1
+1/04/2022,Himachal Pradesh,4-Wheelers,4,3140,3136,2022,4,Apr,FY2023,Q1
+1/04/2022,Jammu and Kashmir,4-Wheelers,3,4468,4465,2022,4,Apr,FY2023,Q1
+1/04/2022,Jharkhand,4-Wheelers,9,4564,4555,2022,4,Apr,FY2023,Q1
+1/04/2022,Karnataka,4-Wheelers,311,24129,23818,2022,4,Apr,FY2023,Q1
+1/04/2022,Kerala,4-Wheelers,275,16142,15867,2022,4,Apr,FY2023,Q1
+1/04/2022,Madhya Pradesh,4-Wheelers,37,11896,11859,2022,4,Apr,FY2023,Q1
+1/04/2022,Maharashtra,4-Wheelers,354,32449,32095,2022,4,Apr,FY2023,Q1
+1/04/2022,Odisha,4-Wheelers,31,5448,5417,2022,4,Apr,FY2023,Q1
+1/04/2022,Puducherry,4-Wheelers,2,702,700,2022,4,Apr,FY2023,Q1
+1/04/2022,Punjab,4-Wheelers,3,10147,10144,2022,4,Apr,FY2023,Q1
+1/04/2022,Rajasthan,4-Wheelers,87,15176,15089,2022,4,Apr,FY2023,Q1
+1/04/2022,Tamil Nadu,4-Wheelers,154,17499,17345,2022,4,Apr,FY2023,Q1
+1/04/2022,Uttar Pradesh,4-Wheelers,11,32173,32162,2022,4,Apr,FY2023,Q1
+1/04/2022,Uttarakhand,4-Wheelers,49,4116,4067,2022,4,Apr,FY2023,Q1
+1/04/2022,West Bengal,4-Wheelers,40,8560,8520,2022,4,Apr,FY2023,Q1
+1/05/2022,Andhra Pradesh,4-Wheelers,59,6927,6868,2022,5,May,FY2023,Q1
+1/05/2022,Assam,4-Wheelers,7,6761,6754,2022,5,May,FY2023,Q1
+1/05/2022,Bihar,4-Wheelers,12,6495,6483,2022,5,May,FY2023,Q1
+1/05/2022,Chandigarh,4-Wheelers,20,2248,2228,2022,5,May,FY2023,Q1
+1/05/2022,Chhattisgarh,4-Wheelers,24,4397,4373,2022,5,May,FY2023,Q1
+1/05/2022,Delhi,4-Wheelers,750,15194,14444,2022,5,May,FY2023,Q1
+1/05/2022,Goa,4-Wheelers,51,1360,1309,2022,5,May,FY2023,Q1
+1/05/2022,Gujarat,4-Wheelers,163,23174,23011,2022,5,May,FY2023,Q1
+1/05/2022,Haryana,4-Wheelers,31,18343,18312,2022,5,May,FY2023,Q1
+1/05/2022,Himachal Pradesh,4-Wheelers,3,3778,3775,2022,5,May,FY2023,Q1
+1/05/2022,Jammu and Kashmir,4-Wheelers,2,4775,4773,2022,5,May,FY2023,Q1
+1/05/2022,Jharkhand,4-Wheelers,3,4306,4303,2022,5,May,FY2023,Q1
+1/05/2022,Karnataka,4-Wheelers,241,20924,20683,2022,5,May,FY2023,Q1
+1/05/2022,Kerala,4-Wheelers,258,15706,15448,2022,5,May,FY2023,Q1
+1/05/2022,Madhya Pradesh,4-Wheelers,43,14017,13974,2022,5,May,FY2023,Q1
+1/05/2022,Maharashtra,4-Wheelers,794,34222,33428,2022,5,May,FY2023,Q1
+1/05/2022,Meghalaya,4-Wheelers,3,1051,1048,2022,5,May,FY2023,Q1
+1/05/2022,Odisha,4-Wheelers,40,5583,5543,2022,5,May,FY2023,Q1
+1/05/2022,Puducherry,4-Wheelers,2,726,724,2022,5,May,FY2023,Q1
+1/05/2022,Punjab,4-Wheelers,2,9843,9841,2022,5,May,FY2023,Q1
+1/05/2022,Rajasthan,4-Wheelers,124,17047,16923,2022,5,May,FY2023,Q1
+1/05/2022,Tamil Nadu,4-Wheelers,202,19368,19166,2022,5,May,FY2023,Q1
+1/05/2022,Uttar Pradesh,4-Wheelers,26,30695,30669,2022,5,May,FY2023,Q1
+1/05/2022,Uttarakhand,4-Wheelers,22,3948,3926,2022,5,May,FY2023,Q1
+1/05/2022,West Bengal,4-Wheelers,76,8341,8265,2022,5,May,FY2023,Q1
+1/06/2022,Andhra Pradesh,4-Wheelers,47,6652,6605,2022,6,Jun,FY2023,Q1
+1/06/2022,Assam,4-Wheelers,9,5825,5816,2022,6,Jun,FY2023,Q1
+1/06/2022,Bihar,4-Wheelers,16,5543,5527,2022,6,Jun,FY2023,Q1
+1/06/2022,Chandigarh,4-Wheelers,19,1993,1974,2022,6,Jun,FY2023,Q1
+1/06/2022,Chhattisgarh,4-Wheelers,32,3933,3901,2022,6,Jun,FY2023,Q1
+1/06/2022,DNH and DD,4-Wheelers,4,369,365,2022,6,Jun,FY2023,Q1
+1/06/2022,Delhi,4-Wheelers,267,14908,14641,2022,6,Jun,FY2023,Q1
+1/06/2022,Goa,4-Wheelers,74,1342,1268,2022,6,Jun,FY2023,Q1
+1/06/2022,Gujarat,4-Wheelers,337,26192,25855,2022,6,Jun,FY2023,Q1
+1/06/2022,Haryana,4-Wheelers,26,17365,17339,2022,6,Jun,FY2023,Q1
+1/06/2022,Himachal Pradesh,4-Wheelers,2,3457,3455,2022,6,Jun,FY2023,Q1
+1/06/2022,Jammu and Kashmir,4-Wheelers,4,4239,4235,2022,6,Jun,FY2023,Q1
+1/06/2022,Jharkhand,4-Wheelers,19,4097,4078,2022,6,Jun,FY2023,Q1
+1/06/2022,Karnataka,4-Wheelers,359,22817,22458,2022,6,Jun,FY2023,Q1
+1/06/2022,Kerala,4-Wheelers,345,16486,16141,2022,6,Jun,FY2023,Q1
+1/06/2022,Madhya Pradesh,4-Wheelers,42,12480,12438,2022,6,Jun,FY2023,Q1
+1/06/2022,Maharashtra,4-Wheelers,1082,35587,34505,2022,6,Jun,FY2023,Q1
+1/06/2022,Odisha,4-Wheelers,32,5778,5746,2022,6,Jun,FY2023,Q1
+1/06/2022,Puducherry,4-Wheelers,9,808,799,2022,6,Jun,FY2023,Q1
+1/06/2022,Punjab,4-Wheelers,3,9388,9385,2022,6,Jun,FY2023,Q1
+1/06/2022,Rajasthan,4-Wheelers,136,13559,13423,2022,6,Jun,FY2023,Q1
+1/06/2022,Tamil Nadu,4-Wheelers,199,20592,20393,2022,6,Jun,FY2023,Q1
+1/06/2022,Uttar Pradesh,4-Wheelers,17,27820,27803,2022,6,Jun,FY2023,Q1
+1/06/2022,Uttarakhand,4-Wheelers,38,3959,3921,2022,6,Jun,FY2023,Q1
+1/06/2022,West Bengal,4-Wheelers,91,8407,8316,2022,6,Jun,FY2023,Q1
+1/07/2022,Andhra Pradesh,4-Wheelers,63,6757,6694,2022,7,Jul,FY2023,Q2
+1/07/2022,Assam,4-Wheelers,11,6769,6758,2022,7,Jul,FY2023,Q2
+1/07/2022,Bihar,4-Wheelers,10,5215,5205,2022,7,Jul,FY2023,Q2
+1/07/2022,Chandigarh,4-Wheelers,21,2709,2688,2022,7,Jul,FY2023,Q2
+1/07/2022,Chhattisgarh,4-Wheelers,29,4394,4365,2022,7,Jul,FY2023,Q2
+1/07/2022,Delhi,4-Wheelers,438,16056,15618,2022,7,Jul,FY2023,Q2
+1/07/2022,Goa,4-Wheelers,107,1545,1438,2022,7,Jul,FY2023,Q2
+1/07/2022,Gujarat,4-Wheelers,308,24735,24427,2022,7,Jul,FY2023,Q2
+1/07/2022,Haryana,4-Wheelers,135,17539,17404,2022,7,Jul,FY2023,Q2
+1/07/2022,Himachal Pradesh,4-Wheelers,6,3618,3612,2022,7,Jul,FY2023,Q2
+1/07/2022,Jammu and Kashmir,4-Wheelers,9,4577,4568,2022,7,Jul,FY2023,Q2
+1/07/2022,Jharkhand,4-Wheelers,7,4187,4180,2022,7,Jul,FY2023,Q2
+1/07/2022,Karnataka,4-Wheelers,358,19322,18964,2022,7,Jul,FY2023,Q2
+1/07/2022,Kerala,4-Wheelers,292,14993,14701,2022,7,Jul,FY2023,Q2
+1/07/2022,Madhya Pradesh,4-Wheelers,45,11437,11392,2022,7,Jul,FY2023,Q2
+1/07/2022,Maharashtra,4-Wheelers,1098,35100,34002,2022,7,Jul,FY2023,Q2
+1/07/2022,Meghalaya,4-Wheelers,2,1053,1051,2022,7,Jul,FY2023,Q2
+1/07/2022,Odisha,4-Wheelers,29,5336,5307,2022,7,Jul,FY2023,Q2
+1/07/2022,Puducherry,4-Wheelers,5,681,676,2022,7,Jul,FY2023,Q2
+1/07/2022,Punjab,4-Wheelers,7,9415,9408,2022,7,Jul,FY2023,Q2
+1/07/2022,Rajasthan,4-Wheelers,102,12817,12715,2022,7,Jul,FY2023,Q2
+1/07/2022,Tamil Nadu,4-Wheelers,176,17830,17654,2022,7,Jul,FY2023,Q2
+1/07/2022,Uttar Pradesh,4-Wheelers,19,27276,27257,2022,7,Jul,FY2023,Q2
+1/07/2022,Uttarakhand,4-Wheelers,34,3820,3786,2022,7,Jul,FY2023,Q2
+1/07/2022,West Bengal,4-Wheelers,93,8312,8219,2022,7,Jul,FY2023,Q2
+1/08/2022,Andhra Pradesh,4-Wheelers,64,7491,7427,2022,8,Aug,FY2023,Q2
+1/08/2022,Assam,4-Wheelers,10,6733,6723,2022,8,Aug,FY2023,Q2
+1/08/2022,Bihar,4-Wheelers,15,5012,4997,2022,8,Aug,FY2023,Q2
+1/08/2022,Chandigarh,4-Wheelers,19,1903,1884,2022,8,Aug,FY2023,Q2
+1/08/2022,Chhattisgarh,4-Wheelers,35,3974,3939,2022,8,Aug,FY2023,Q2
+1/08/2022,Delhi,4-Wheelers,443,16315,15872,2022,8,Aug,FY2023,Q2
+1/08/2022,Goa,4-Wheelers,44,2364,2320,2022,8,Aug,FY2023,Q2
+1/08/2022,Gujarat,4-Wheelers,230,23571,23341,2022,8,Aug,FY2023,Q2
+1/08/2022,Haryana,4-Wheelers,163,18545,18382,2022,8,Aug,FY2023,Q2
+1/08/2022,Himachal Pradesh,4-Wheelers,2,3517,3515,2022,8,Aug,FY2023,Q2
+1/08/2022,Jammu and Kashmir,4-Wheelers,3,4299,4296,2022,8,Aug,FY2023,Q2
+1/08/2022,Jharkhand,4-Wheelers,15,4040,4025,2022,8,Aug,FY2023,Q2
+1/08/2022,Karnataka,4-Wheelers,363,23924,23561,2022,8,Aug,FY2023,Q2
+1/08/2022,Kerala,4-Wheelers,342,21051,20709,2022,8,Aug,FY2023,Q2
+1/08/2022,Ladakh,4-Wheelers,9,269,260,2022,8,Aug,FY2023,Q2
+1/08/2022,Madhya Pradesh,4-Wheelers,72,15953,15881,2022,8,Aug,FY2023,Q2
+1/08/2022,Maharashtra,4-Wheelers,992,40173,39181,2022,8,Aug,FY2023,Q2
+1/08/2022,Odisha,4-Wheelers,43,5716,5673,2022,8,Aug,FY2023,Q2
+1/08/2022,Puducherry,4-Wheelers,4,758,754,2022,8,Aug,FY2023,Q2
+1/08/2022,Punjab,4-Wheelers,3,9913,9910,2022,8,Aug,FY2023,Q2
+1/08/2022,Rajasthan,4-Wheelers,145,12578,12433,2022,8,Aug,FY2023,Q2
+1/08/2022,Tamil Nadu,4-Wheelers,182,20944,20762,2022,8,Aug,FY2023,Q2
+1/08/2022,Uttar Pradesh,4-Wheelers,15,25778,25763,2022,8,Aug,FY2023,Q2
+1/08/2022,Uttarakhand,4-Wheelers,34,3599,3565,2022,8,Aug,FY2023,Q2
+1/08/2022,West Bengal,4-Wheelers,110,9228,9118,2022,8,Aug,FY2023,Q2
+1/09/2022,Andhra Pradesh,4-Wheelers,61,8003,7942,2022,9,Sep,FY2023,Q2
+1/09/2022,Assam,4-Wheelers,13,8690,8677,2022,9,Sep,FY2023,Q2
+1/09/2022,Bihar,4-Wheelers,14,5315,5301,2022,9,Sep,FY2023,Q2
+1/09/2022,Chandigarh,4-Wheelers,26,2119,2093,2022,9,Sep,FY2023,Q2
+1/09/2022,Chhattisgarh,4-Wheelers,50,3978,3928,2022,9,Sep,FY2023,Q2
+1/09/2022,Delhi,4-Wheelers,471,14076,13605,2022,9,Sep,FY2023,Q2
+1/09/2022,Goa,4-Wheelers,42,1687,1645,2022,9,Sep,FY2023,Q2
+1/09/2022,Gujarat,4-Wheelers,299,25102,24803,2022,9,Sep,FY2023,Q2
+1/09/2022,Haryana,4-Wheelers,49,14140,14091,2022,9,Sep,FY2023,Q2
+1/09/2022,Himachal Pradesh,4-Wheelers,4,2815,2811,2022,9,Sep,FY2023,Q2
+1/09/2022,Jammu and Kashmir,4-Wheelers,4,4432,4428,2022,9,Sep,FY2023,Q2
+1/09/2022,Jharkhand,4-Wheelers,31,4183,4152,2022,9,Sep,FY2023,Q2
+1/09/2022,Karnataka,4-Wheelers,493,25136,24643,2022,9,Sep,FY2023,Q2
+1/09/2022,Kerala,4-Wheelers,397,19551,19154,2022,9,Sep,FY2023,Q2
+1/09/2022,Madhya Pradesh,4-Wheelers,61,11080,11019,2022,9,Sep,FY2023,Q2
+1/09/2022,Maharashtra,4-Wheelers,939,33643,32704,2022,9,Sep,FY2023,Q2
+1/09/2022,Meghalaya,4-Wheelers,2,1047,1045,2022,9,Sep,FY2023,Q2
+1/09/2022,Odisha,4-Wheelers,40,5941,5901,2022,9,Sep,FY2023,Q2
+1/09/2022,Puducherry,4-Wheelers,2,858,856,2022,9,Sep,FY2023,Q2
+1/09/2022,Punjab,4-Wheelers,4,8968,8964,2022,9,Sep,FY2023,Q2
+1/09/2022,Rajasthan,4-Wheelers,150,12513,12363,2022,9,Sep,FY2023,Q2
+1/09/2022,Tamil Nadu,4-Wheelers,218,21233,21015,2022,9,Sep,FY2023,Q2
+1/09/2022,Uttar Pradesh,4-Wheelers,23,22777,22754,2022,9,Sep,FY2023,Q2
+1/09/2022,Uttarakhand,4-Wheelers,29,3066,3037,2022,9,Sep,FY2023,Q2
+1/09/2022,West Bengal,4-Wheelers,123,11473,11350,2022,9,Sep,FY2023,Q2
+1/10/2022,Andhra Pradesh,4-Wheelers,57,8075,8018,2022,10,Oct,FY2023,Q3
+1/10/2022,Assam,4-Wheelers,11,7529,7518,2022,10,Oct,FY2023,Q3
+1/10/2022,Bihar,4-Wheelers,19,7888,7869,2022,10,Oct,FY2023,Q3
+1/10/2022,Chandigarh,4-Wheelers,16,2422,2406,2022,10,Oct,FY2023,Q3
+1/10/2022,Chhattisgarh,4-Wheelers,51,7365,7314,2022,10,Oct,FY2023,Q3
+1/10/2022,DNH and DD,4-Wheelers,2,432,430,2022,10,Oct,FY2023,Q3
+1/10/2022,Delhi,4-Wheelers,633,18613,17980,2022,10,Oct,FY2023,Q3
+1/10/2022,Goa,4-Wheelers,40,2230,2190,2022,10,Oct,FY2023,Q3
+1/10/2022,Gujarat,4-Wheelers,189,31456,31267,2022,10,Oct,FY2023,Q3
+1/10/2022,Haryana,4-Wheelers,39,21475,21436,2022,10,Oct,FY2023,Q3
+1/10/2022,Himachal Pradesh,4-Wheelers,2,3447,3445,2022,10,Oct,FY2023,Q3
+1/10/2022,Jammu and Kashmir,4-Wheelers,8,4556,4548,2022,10,Oct,FY2023,Q3
+1/10/2022,Jharkhand,4-Wheelers,22,6208,6186,2022,10,Oct,FY2023,Q3
+1/10/2022,Karnataka,4-Wheelers,563,26091,25528,2022,10,Oct,FY2023,Q3
+1/10/2022,Kerala,4-Wheelers,419,16857,16438,2022,10,Oct,FY2023,Q3
+1/10/2022,Madhya Pradesh,4-Wheelers,63,22052,21989,2022,10,Oct,FY2023,Q3
+1/10/2022,Maharashtra,4-Wheelers,1174,51561,50387,2022,10,Oct,FY2023,Q3
+1/10/2022,Odisha,4-Wheelers,43,6848,6805,2022,10,Oct,FY2023,Q3
+1/10/2022,Puducherry,4-Wheelers,4,754,750,2022,10,Oct,FY2023,Q3
+1/10/2022,Punjab,4-Wheelers,3,10552,10549,2022,10,Oct,FY2023,Q3
+1/10/2022,Rajasthan,4-Wheelers,204,22678,22474,2022,10,Oct,FY2023,Q3
+1/10/2022,Tamil Nadu,4-Wheelers,184,18425,18241,2022,10,Oct,FY2023,Q3
+1/10/2022,Uttar Pradesh,4-Wheelers,21,42577,42556,2022,10,Oct,FY2023,Q3
+1/10/2022,Uttarakhand,4-Wheelers,50,5163,5113,2022,10,Oct,FY2023,Q3
+1/10/2022,West Bengal,4-Wheelers,94,6483,6389,2022,10,Oct,FY2023,Q3
+1/11/2022,Andhra Pradesh,4-Wheelers,95,6272,6177,2022,11,Nov,FY2023,Q3
+1/11/2022,Assam,4-Wheelers,10,7676,7666,2022,11,Nov,FY2023,Q3
+1/11/2022,Bihar,4-Wheelers,6,6295,6289,2022,11,Nov,FY2023,Q3
+1/11/2022,Chandigarh,4-Wheelers,61,2279,2218,2022,11,Nov,FY2023,Q3
+1/11/2022,Chhattisgarh,4-Wheelers,33,3846,3813,2022,11,Nov,FY2023,Q3
+1/11/2022,DNH and DD,4-Wheelers,2,455,453,2022,11,Nov,FY2023,Q3
+1/11/2022,Delhi,4-Wheelers,483,15949,15466,2022,11,Nov,FY2023,Q3
+1/11/2022,Goa,4-Wheelers,26,1797,1771,2022,11,Nov,FY2023,Q3
+1/11/2022,Gujarat,4-Wheelers,374,36212,35838,2022,11,Nov,FY2023,Q3
+1/11/2022,Haryana,4-Wheelers,133,21202,21069,2022,11,Nov,FY2023,Q3
+1/11/2022,Himachal Pradesh,4-Wheelers,2,5135,5133,2022,11,Nov,FY2023,Q3
+1/11/2022,Jharkhand,4-Wheelers,15,4657,4642,2022,11,Nov,FY2023,Q3
+1/11/2022,Karnataka,4-Wheelers,564,23618,23054,2022,11,Nov,FY2023,Q3
+1/11/2022,Kerala,4-Wheelers,325,15267,14942,2022,11,Nov,FY2023,Q3
+1/11/2022,Madhya Pradesh,4-Wheelers,54,10575,10521,2022,11,Nov,FY2023,Q3
+1/11/2022,Maharashtra,4-Wheelers,1144,35215,34071,2022,11,Nov,FY2023,Q3
+1/11/2022,Odisha,4-Wheelers,53,5833,5780,2022,11,Nov,FY2023,Q3
+1/11/2022,Puducherry,4-Wheelers,9,782,773,2022,11,Nov,FY2023,Q3
+1/11/2022,Rajasthan,4-Wheelers,113,15252,15139,2022,11,Nov,FY2023,Q3
+1/11/2022,Tamil Nadu,4-Wheelers,311,20180,19869,2022,11,Nov,FY2023,Q3
+1/11/2022,Uttar Pradesh,4-Wheelers,11,31886,31875,2022,11,Nov,FY2023,Q3
+1/11/2022,Uttarakhand,4-Wheelers,31,5199,5168,2022,11,Nov,FY2023,Q3
+1/11/2022,West Bengal,4-Wheelers,121,10465,10344,2022,11,Nov,FY2023,Q3
+1/12/2022,Andaman & Nicobar Island,4-Wheelers,3,229,226,2022,12,Dec,FY2023,Q3
+1/12/2022,Andhra Pradesh,4-Wheelers,120,6769,6649,2022,12,Dec,FY2023,Q3
+1/12/2022,Assam,4-Wheelers,4,8441,8437,2022,12,Dec,FY2023,Q3
+1/12/2022,Bihar,4-Wheelers,5,4752,4747,2022,12,Dec,FY2023,Q3
+1/12/2022,Chandigarh,4-Wheelers,46,2261,2215,2022,12,Dec,FY2023,Q3
+1/12/2022,Chhattisgarh,4-Wheelers,40,3887,3847,2022,12,Dec,FY2023,Q3
+1/12/2022,DNH and DD,4-Wheelers,2,365,363,2022,12,Dec,FY2023,Q3
+1/12/2022,Delhi,4-Wheelers,791,15492,14701,2022,12,Dec,FY2023,Q3
+1/12/2022,Goa,4-Wheelers,30,1744,1714,2022,12,Dec,FY2023,Q3
+1/12/2022,Gujarat,4-Wheelers,260,27614,27354,2022,12,Dec,FY2023,Q3
+1/12/2022,Haryana,4-Wheelers,177,18223,18046,2022,12,Dec,FY2023,Q3
+1/12/2022,Himachal Pradesh,4-Wheelers,7,4026,4019,2022,12,Dec,FY2023,Q3
+1/12/2022,Jammu and Kashmir,4-Wheelers,4,5304,5300,2022,12,Dec,FY2023,Q3
+1/12/2022,Jharkhand,4-Wheelers,22,3979,3957,2022,12,Dec,FY2023,Q3
+1/12/2022,Karnataka,4-Wheelers,438,22142,21704,2022,12,Dec,FY2023,Q3
+1/12/2022,Kerala,4-Wheelers,298,16601,16303,2022,12,Dec,FY2023,Q3
+1/12/2022,Madhya Pradesh,4-Wheelers,35,11124,11089,2022,12,Dec,FY2023,Q3
+1/12/2022,Maharashtra,4-Wheelers,887,32422,31535,2022,12,Dec,FY2023,Q3
+1/12/2022,Odisha,4-Wheelers,42,6616,6574,2022,12,Dec,FY2023,Q3
+1/12/2022,Puducherry,4-Wheelers,4,690,686,2022,12,Dec,FY2023,Q3
+1/12/2022,Rajasthan,4-Wheelers,110,12634,12524,2022,12,Dec,FY2023,Q3
+1/12/2022,Tamil Nadu,4-Wheelers,406,20201,19795,2022,12,Dec,FY2023,Q3
+1/12/2022,Uttar Pradesh,4-Wheelers,13,27230,27217,2022,12,Dec,FY2023,Q3
+1/12/2022,Uttarakhand,4-Wheelers,24,3881,3857,2022,12,Dec,FY2023,Q3
+1/12/2022,West Bengal,4-Wheelers,65,8047,7982,2022,12,Dec,FY2023,Q3
+1/01/2023,Andhra Pradesh,4-Wheelers,121,10775,10654,2023,1,Jan,FY2023,Q4
+1/01/2023,Assam,4-Wheelers,5,7240,7235,2023,1,Jan,FY2023,Q4
+1/01/2023,Bihar,4-Wheelers,19,6600,6581,2023,1,Jan,FY2023,Q4
+1/01/2023,Chandigarh,4-Wheelers,50,2500,2450,2023,1,Jan,FY2023,Q4
+1/01/2023,Chhattisgarh,4-Wheelers,56,4880,4824,2023,1,Jan,FY2023,Q4
+1/01/2023,Delhi,4-Wheelers,331,17993,17662,2023,1,Jan,FY2023,Q4
+1/01/2023,Goa,4-Wheelers,44,1888,1844,2023,1,Jan,FY2023,Q4
+1/01/2023,Gujarat,4-Wheelers,212,25859,25647,2023,1,Jan,FY2023,Q4
+1/01/2023,Haryana,4-Wheelers,141,25164,25023,2023,1,Jan,FY2023,Q4
+1/01/2023,Himachal Pradesh,4-Wheelers,5,4192,4187,2023,1,Jan,FY2023,Q4
+1/01/2023,Jammu and Kashmir,4-Wheelers,4,4245,4241,2023,1,Jan,FY2023,Q4
+1/01/2023,Jharkhand,4-Wheelers,41,5016,4975,2023,1,Jan,FY2023,Q4
+1/01/2023,Karnataka,4-Wheelers,587,26011,25424,2023,1,Jan,FY2023,Q4
+1/01/2023,Kerala,4-Wheelers,344,17267,16923,2023,1,Jan,FY2023,Q4
+1/01/2023,Madhya Pradesh,4-Wheelers,69,17945,17876,2023,1,Jan,FY2023,Q4
+1/01/2023,Maharashtra,4-Wheelers,827,44349,43522,2023,1,Jan,FY2023,Q4
+1/01/2023,Manipur,4-Wheelers,3,892,889,2023,1,Jan,FY2023,Q4
+1/01/2023,Odisha,4-Wheelers,51,6278,6227,2023,1,Jan,FY2023,Q4
+1/01/2023,Puducherry,4-Wheelers,3,1004,1001,2023,1,Jan,FY2023,Q4
+1/01/2023,Rajasthan,4-Wheelers,155,18017,17862,2023,1,Jan,FY2023,Q4
+1/01/2023,Tamil Nadu,4-Wheelers,202,24430,24228,2023,1,Jan,FY2023,Q4
+1/01/2023,Uttar Pradesh,4-Wheelers,26,41439,41413,2023,1,Jan,FY2023,Q4
+1/01/2023,Uttarakhand,4-Wheelers,16,5040,5024,2023,1,Jan,FY2023,Q4
+1/01/2023,West Bengal,4-Wheelers,124,9141,9017,2023,1,Jan,FY2023,Q4
+1/02/2023,Andhra Pradesh,4-Wheelers,116,6628,6512,2023,2,Feb,FY2023,Q4
+1/02/2023,Assam,4-Wheelers,13,7029,7016,2023,2,Feb,FY2023,Q4
+1/02/2023,Bihar,4-Wheelers,46,6117,6071,2023,2,Feb,FY2023,Q4
+1/02/2023,Chandigarh,4-Wheelers,59,2061,2002,2023,2,Feb,FY2023,Q4
+1/02/2023,Chhattisgarh,4-Wheelers,73,4196,4123,2023,2,Feb,FY2023,Q4
+1/02/2023,DNH and DD,4-Wheelers,3,411,408,2023,2,Feb,FY2023,Q4
+1/02/2023,Delhi,4-Wheelers,510,14823,14313,2023,2,Feb,FY2023,Q4
+1/02/2023,Goa,4-Wheelers,83,1760,1677,2023,2,Feb,FY2023,Q4
+1/02/2023,Gujarat,4-Wheelers,271,28856,28585,2023,2,Feb,FY2023,Q4
+1/02/2023,Haryana,4-Wheelers,175,19656,19481,2023,2,Feb,FY2023,Q4
+1/02/2023,Himachal Pradesh,4-Wheelers,21,3952,3931,2023,2,Feb,FY2023,Q4
+1/02/2023,Jammu and Kashmir,4-Wheelers,8,4449,4441,2023,2,Feb,FY2023,Q4
+1/02/2023,Jharkhand,4-Wheelers,33,4234,4201,2023,2,Feb,FY2023,Q4
+1/02/2023,Karnataka,4-Wheelers,616,21837,21221,2023,2,Feb,FY2023,Q4
+1/02/2023,Kerala,4-Wheelers,662,14603,13941,2023,2,Feb,FY2023,Q4
+1/02/2023,Madhya Pradesh,4-Wheelers,144,17295,17151,2023,2,Feb,FY2023,Q4
+1/02/2023,Maharashtra,4-Wheelers,1012,30727,29715,2023,2,Feb,FY2023,Q4
+1/02/2023,Manipur,4-Wheelers,5,756,751,2023,2,Feb,FY2023,Q4
+1/02/2023,Odisha,4-Wheelers,60,5397,5337,2023,2,Feb,FY2023,Q4
+1/02/2023,Puducherry,4-Wheelers,3,703,700,2023,2,Feb,FY2023,Q4
+1/02/2023,Punjab,4-Wheelers,18,11765,11747,2023,2,Feb,FY2023,Q4
+1/02/2023,Rajasthan,4-Wheelers,293,15819,15526,2023,2,Feb,FY2023,Q4
+1/02/2023,Tamil Nadu,4-Wheelers,307,18758,18451,2023,2,Feb,FY2023,Q4
+1/02/2023,Uttar Pradesh,4-Wheelers,60,32464,32404,2023,2,Feb,FY2023,Q4
+1/02/2023,Uttarakhand,4-Wheelers,23,3985,3962,2023,2,Feb,FY2023,Q4
+1/02/2023,West Bengal,4-Wheelers,142,8054,7912,2023,2,Feb,FY2023,Q4
+1/03/2023,Andhra Pradesh,4-Wheelers,173,7764,7591,2023,3,Mar,FY2023,Q4
+1/03/2023,Assam,4-Wheelers,20,8324,8304,2023,3,Mar,FY2023,Q4
+1/03/2023,Bihar,4-Wheelers,47,6322,6275,2023,3,Mar,FY2023,Q4
+1/03/2023,Chandigarh,4-Wheelers,131,2589,2458,2023,3,Mar,FY2023,Q4
+1/03/2023,Chhattisgarh,4-Wheelers,95,5119,5024,2023,3,Mar,FY2023,Q4
+1/03/2023,DNH and DD,4-Wheelers,2,485,483,2023,3,Mar,FY2023,Q4
+1/03/2023,Delhi,4-Wheelers,1544,18638,17094,2023,3,Mar,FY2023,Q4
+1/03/2023,Goa,4-Wheelers,112,2439,2327,2023,3,Mar,FY2023,Q4
+1/03/2023,Gujarat,4-Wheelers,498,26082,25584,2023,3,Mar,FY2023,Q4
+1/03/2023,Haryana,4-Wheelers,477,21547,21070,2023,3,Mar,FY2023,Q4
+1/03/2023,Himachal Pradesh,4-Wheelers,7,3574,3567,2023,3,Mar,FY2023,Q4
+1/03/2023,Jammu and Kashmir,4-Wheelers,17,5388,5371,2023,3,Mar,FY2023,Q4
+1/03/2023,Jharkhand,4-Wheelers,52,4670,4618,2023,3,Mar,FY2023,Q4
+1/03/2023,Karnataka,4-Wheelers,1062,28169,27107,2023,3,Mar,FY2023,Q4
+1/03/2023,Kerala,4-Wheelers,1107,24727,23620,2023,3,Mar,FY2023,Q4
+1/03/2023,Madhya Pradesh,4-Wheelers,159,14745,14586,2023,3,Mar,FY2023,Q4
+1/03/2023,Maharashtra,4-Wheelers,1389,42854,41465,2023,3,Mar,FY2023,Q4
+1/03/2023,Odisha,4-Wheelers,74,6358,6284,2023,3,Mar,FY2023,Q4
+1/03/2023,Puducherry,4-Wheelers,4,999,995,2023,3,Mar,FY2023,Q4
+1/03/2023,Punjab,4-Wheelers,13,12430,12417,2023,3,Mar,FY2023,Q4
+1/03/2023,Rajasthan,4-Wheelers,425,18370,17945,2023,3,Mar,FY2023,Q4
+1/03/2023,Tamil Nadu,4-Wheelers,571,22131,21560,2023,3,Mar,FY2023,Q4
+1/03/2023,Tripura,4-Wheelers,9,329,320,2023,3,Mar,FY2023,Q4
+1/03/2023,Uttar Pradesh,4-Wheelers,431,34186,33755,2023,3,Mar,FY2023,Q4
+1/03/2023,Uttarakhand,4-Wheelers,48,4596,4548,2023,3,Mar,FY2023,Q4
+1/03/2023,West Bengal,4-Wheelers,352,8955,8603,2023,3,Mar,FY2023,Q4
+1/04/2023,Andhra Pradesh,4-Wheelers,225,7229,7004,2023,4,Apr,FY2024,Q1
+1/04/2023,Assam,4-Wheelers,20,7022,7002,2023,4,Apr,FY2024,Q1
+1/04/2023,Bihar,4-Wheelers,40,5840,5800,2023,4,Apr,FY2024,Q1
+1/04/2023,Chandigarh,4-Wheelers,62,2482,2420,2023,4,Apr,FY2024,Q1
+1/04/2023,Chhattisgarh,4-Wheelers,93,5558,5465,2023,4,Apr,FY2024,Q1
+1/04/2023,Delhi,4-Wheelers,551,14861,14310,2023,4,Apr,FY2024,Q1
+1/04/2023,Goa,4-Wheelers,57,1633,1576,2023,4,Apr,FY2024,Q1
+1/04/2023,Gujarat,4-Wheelers,537,28451,27914,2023,4,Apr,FY2024,Q1
+1/04/2023,Haryana,4-Wheelers,363,21914,21551,2023,4,Apr,FY2024,Q1
+1/04/2023,Himachal Pradesh,4-Wheelers,9,3880,3871,2023,4,Apr,FY2024,Q1
+1/04/2023,Jammu and Kashmir,4-Wheelers,4,3728,3724,2023,4,Apr,FY2024,Q1
+1/04/2023,Jharkhand,4-Wheelers,39,4281,4242,2023,4,Apr,FY2024,Q1
+1/04/2023,Karnataka,4-Wheelers,762,22368,21606,2023,4,Apr,FY2024,Q1
+1/04/2023,Kerala,4-Wheelers,637,9171,8534,2023,4,Apr,FY2024,Q1
+1/04/2023,Madhya Pradesh,4-Wheelers,95,10894,10799,2023,4,Apr,FY2024,Q1
+1/04/2023,Maharashtra,4-Wheelers,1139,35336,34197,2023,4,Apr,FY2024,Q1
+1/04/2023,Meghalaya,4-Wheelers,2,1094,1092,2023,4,Apr,FY2024,Q1
+1/04/2023,Odisha,4-Wheelers,84,5315,5231,2023,4,Apr,FY2024,Q1
+1/04/2023,Puducherry,4-Wheelers,5,735,730,2023,4,Apr,FY2024,Q1
+1/04/2023,Punjab,4-Wheelers,22,9734,9712,2023,4,Apr,FY2024,Q1
+1/04/2023,Rajasthan,4-Wheelers,291,14377,14086,2023,4,Apr,FY2024,Q1
+1/04/2023,Tamil Nadu,4-Wheelers,399,18659,18260,2023,4,Apr,FY2024,Q1
+1/04/2023,Uttar Pradesh,4-Wheelers,364,32143,31779,2023,4,Apr,FY2024,Q1
+1/04/2023,Uttarakhand,4-Wheelers,47,4887,4840,2023,4,Apr,FY2024,Q1
+1/04/2023,West Bengal,4-Wheelers,152,7999,7847,2023,4,Apr,FY2024,Q1
+1/05/2023,Andhra Pradesh,4-Wheelers,216,8095,7879,2023,5,May,FY2024,Q1
+1/05/2023,Assam,4-Wheelers,30,6994,6964,2023,5,May,FY2024,Q1
+1/05/2023,Bihar,4-Wheelers,46,6865,6819,2023,5,May,FY2024,Q1
+1/05/2023,Chandigarh,4-Wheelers,83,2556,2473,2023,5,May,FY2024,Q1
+1/05/2023,Chhattisgarh,4-Wheelers,185,3785,3600,2023,5,May,FY2024,Q1
+1/05/2023,DNH and DD,4-Wheelers,4,416,412,2023,5,May,FY2024,Q1
+1/05/2023,Delhi,4-Wheelers,787,16609,15822,2023,5,May,FY2024,Q1
+1/05/2023,Goa,4-Wheelers,85,1878,1793,2023,5,May,FY2024,Q1
+1/05/2023,Gujarat,4-Wheelers,710,25770,25060,2023,5,May,FY2024,Q1
+1/05/2023,Haryana,4-Wheelers,211,21218,21007,2023,5,May,FY2024,Q1
+1/05/2023,Himachal Pradesh,4-Wheelers,21,3565,3544,2023,5,May,FY2024,Q1
+1/05/2023,Jammu and Kashmir,4-Wheelers,14,5095,5081,2023,5,May,FY2024,Q1
+1/05/2023,Jharkhand,4-Wheelers,37,4755,4718,2023,5,May,FY2024,Q1
+1/05/2023,Karnataka,4-Wheelers,999,22601,21602,2023,5,May,FY2024,Q1
+1/05/2023,Kerala,4-Wheelers,954,14819,13865,2023,5,May,FY2024,Q1
+1/05/2023,Madhya Pradesh,4-Wheelers,136,12488,12352,2023,5,May,FY2024,Q1
+1/05/2023,Maharashtra,4-Wheelers,1137,35179,34042,2023,5,May,FY2024,Q1
+1/05/2023,Manipur,4-Wheelers,4,119,115,2023,5,May,FY2024,Q1
+1/05/2023,Meghalaya,4-Wheelers,2,1027,1025,2023,5,May,FY2024,Q1
+1/05/2023,Odisha,4-Wheelers,105,5951,5846,2023,5,May,FY2024,Q1
+1/05/2023,Puducherry,4-Wheelers,6,943,937,2023,5,May,FY2024,Q1
+1/05/2023,Punjab,4-Wheelers,63,11047,10984,2023,5,May,FY2024,Q1
+1/05/2023,Rajasthan,4-Wheelers,419,16157,15738,2023,5,May,FY2024,Q1
+1/05/2023,Tamil Nadu,4-Wheelers,529,20789,20260,2023,5,May,FY2024,Q1
+1/05/2023,Tripura,4-Wheelers,2,436,434,2023,5,May,FY2024,Q1
+1/05/2023,Uttar Pradesh,4-Wheelers,472,34515,34043,2023,5,May,FY2024,Q1
+1/05/2023,Uttarakhand,4-Wheelers,61,4675,4614,2023,5,May,FY2024,Q1
+1/05/2023,West Bengal,4-Wheelers,322,8672,8350,2023,5,May,FY2024,Q1
+1/06/2023,Andhra Pradesh,4-Wheelers,156,6611,6455,2023,6,Jun,FY2024,Q1
+1/06/2023,Assam,4-Wheelers,28,6751,6723,2023,6,Jun,FY2024,Q1
+1/06/2023,Bihar,4-Wheelers,52,6134,6082,2023,6,Jun,FY2024,Q1
+1/06/2023,Chandigarh,4-Wheelers,77,2597,2520,2023,6,Jun,FY2024,Q1
+1/06/2023,Chhattisgarh,4-Wheelers,114,3650,3536,2023,6,Jun,FY2024,Q1
+1/06/2023,Delhi,4-Wheelers,935,15723,14788,2023,6,Jun,FY2024,Q1
+1/06/2023,Goa,4-Wheelers,75,1699,1624,2023,6,Jun,FY2024,Q1
+1/06/2023,Gujarat,4-Wheelers,698,24829,24131,2023,6,Jun,FY2024,Q1
+1/06/2023,Haryana,4-Wheelers,263,21135,20872,2023,6,Jun,FY2024,Q1
+1/06/2023,Himachal Pradesh,4-Wheelers,19,3448,3429,2023,6,Jun,FY2024,Q1
+1/06/2023,Jammu and Kashmir,4-Wheelers,18,4437,4419,2023,6,Jun,FY2024,Q1
+1/06/2023,Jharkhand,4-Wheelers,48,4320,4272,2023,6,Jun,FY2024,Q1
+1/06/2023,Karnataka,4-Wheelers,1142,24603,23461,2023,6,Jun,FY2024,Q1
+1/06/2023,Kerala,4-Wheelers,885,14389,13504,2023,6,Jun,FY2024,Q1
+1/06/2023,Madhya Pradesh,4-Wheelers,107,10927,10820,2023,6,Jun,FY2024,Q1
+1/06/2023,Maharashtra,4-Wheelers,1360,36069,34709,2023,6,Jun,FY2024,Q1
+1/06/2023,Meghalaya,4-Wheelers,2,950,948,2023,6,Jun,FY2024,Q1
+1/06/2023,Odisha,4-Wheelers,89,5873,5784,2023,6,Jun,FY2024,Q1
+1/06/2023,Puducherry,4-Wheelers,8,910,902,2023,6,Jun,FY2024,Q1
+1/06/2023,Punjab,4-Wheelers,76,10547,10471,2023,6,Jun,FY2024,Q1
+1/06/2023,Rajasthan,4-Wheelers,380,15534,15154,2023,6,Jun,FY2024,Q1
+1/06/2023,Tamil Nadu,4-Wheelers,572,22976,22404,2023,6,Jun,FY2024,Q1
+1/06/2023,Tripura,4-Wheelers,2,375,373,2023,6,Jun,FY2024,Q1
+1/06/2023,Uttar Pradesh,4-Wheelers,393,30578,30185,2023,6,Jun,FY2024,Q1
+1/06/2023,Uttarakhand,4-Wheelers,42,4393,4351,2023,6,Jun,FY2024,Q1
+1/06/2023,West Bengal,4-Wheelers,247,8471,8224,2023,6,Jun,FY2024,Q1
+1/07/2023,Andaman & Nicobar Island,4-Wheelers,3,163,160,2023,7,Jul,FY2024,Q2
+1/07/2023,Andhra Pradesh,4-Wheelers,157,6820,6663,2023,7,Jul,FY2024,Q2
+1/07/2023,Arunachal Pradesh,4-Wheelers,2,1069,1067,2023,7,Jul,FY2024,Q2
+1/07/2023,Assam,4-Wheelers,23,7381,7358,2023,7,Jul,FY2024,Q2
+1/07/2023,Bihar,4-Wheelers,58,5189,5131,2023,7,Jul,FY2024,Q2
+1/07/2023,Chandigarh,4-Wheelers,71,2326,2255,2023,7,Jul,FY2024,Q2
+1/07/2023,Chhattisgarh,4-Wheelers,94,3346,3252,2023,7,Jul,FY2024,Q2
+1/07/2023,DNH and DD,4-Wheelers,4,391,387,2023,7,Jul,FY2024,Q2
+1/07/2023,Delhi,4-Wheelers,831,15285,14454,2023,7,Jul,FY2024,Q2
+1/07/2023,Goa,4-Wheelers,84,1739,1655,2023,7,Jul,FY2024,Q2
+1/07/2023,Gujarat,4-Wheelers,692,27755,27063,2023,7,Jul,FY2024,Q2
+1/07/2023,Haryana,4-Wheelers,92,11915,11823,2023,7,Jul,FY2024,Q2
+1/07/2023,Himachal Pradesh,4-Wheelers,12,3956,3944,2023,7,Jul,FY2024,Q2
+1/07/2023,Jammu and Kashmir,4-Wheelers,11,4435,4424,2023,7,Jul,FY2024,Q2
+1/07/2023,Jharkhand,4-Wheelers,31,4010,3979,2023,7,Jul,FY2024,Q2
+1/07/2023,Karnataka,4-Wheelers,1221,23154,21933,2023,7,Jul,FY2024,Q2
+1/07/2023,Kerala,4-Wheelers,871,14002,13131,2023,7,Jul,FY2024,Q2
+1/07/2023,Madhya Pradesh,4-Wheelers,138,10811,10673,2023,7,Jul,FY2024,Q2
+1/07/2023,Maharashtra,4-Wheelers,1103,36082,34979,2023,7,Jul,FY2024,Q2
+1/07/2023,Manipur,4-Wheelers,6,427,421,2023,7,Jul,FY2024,Q2
+1/07/2023,Meghalaya,4-Wheelers,3,1030,1027,2023,7,Jul,FY2024,Q2
+1/07/2023,Odisha,4-Wheelers,134,5745,5611,2023,7,Jul,FY2024,Q2
+1/07/2023,Puducherry,4-Wheelers,7,809,802,2023,7,Jul,FY2024,Q2
+1/07/2023,Punjab,4-Wheelers,92,10766,10674,2023,7,Jul,FY2024,Q2
+1/07/2023,Rajasthan,4-Wheelers,405,14064,13659,2023,7,Jul,FY2024,Q2
+1/07/2023,Tamil Nadu,4-Wheelers,630,20553,19923,2023,7,Jul,FY2024,Q2
+1/07/2023,Tripura,4-Wheelers,2,578,576,2023,7,Jul,FY2024,Q2
+1/07/2023,Uttar Pradesh,4-Wheelers,420,29214,28794,2023,7,Jul,FY2024,Q2
+1/07/2023,Uttarakhand,4-Wheelers,53,4216,4163,2023,7,Jul,FY2024,Q2
+1/07/2023,West Bengal,4-Wheelers,179,8111,7932,2023,7,Jul,FY2024,Q2
+1/08/2023,Andaman & Nicobar Island,4-Wheelers,3,183,180,2023,8,Aug,FY2024,Q2
+1/08/2023,Andhra Pradesh,4-Wheelers,104,7397,7293,2023,8,Aug,FY2024,Q2
+1/08/2023,Arunachal Pradesh,4-Wheelers,4,1121,1117,2023,8,Aug,FY2024,Q2
+1/08/2023,Assam,4-Wheelers,27,7557,7530,2023,8,Aug,FY2024,Q2
+1/08/2023,Bihar,4-Wheelers,53,5334,5281,2023,8,Aug,FY2024,Q2
+1/08/2023,Chandigarh,4-Wheelers,80,1937,1857,2023,8,Aug,FY2024,Q2
+1/08/2023,Chhattisgarh,4-Wheelers,107,3859,3752,2023,8,Aug,FY2024,Q2
+1/08/2023,Delhi,4-Wheelers,440,15852,15412,2023,8,Aug,FY2024,Q2
+1/08/2023,Goa,4-Wheelers,98,2177,2079,2023,8,Aug,FY2024,Q2
+1/08/2023,Gujarat,4-Wheelers,512,25572,25060,2023,8,Aug,FY2024,Q2
+1/08/2023,Haryana,4-Wheelers,189,24414,24225,2023,8,Aug,FY2024,Q2
+1/08/2023,Himachal Pradesh,4-Wheelers,11,3975,3964,2023,8,Aug,FY2024,Q2
+1/08/2023,Jammu and Kashmir,4-Wheelers,15,4843,4828,2023,8,Aug,FY2024,Q2
+1/08/2023,Jharkhand,4-Wheelers,52,4040,3988,2023,8,Aug,FY2024,Q2
+1/08/2023,Karnataka,4-Wheelers,1196,28235,27039,2023,8,Aug,FY2024,Q2
+1/08/2023,Kerala,4-Wheelers,736,18189,17453,2023,8,Aug,FY2024,Q2
+1/08/2023,Madhya Pradesh,4-Wheelers,112,11479,11367,2023,8,Aug,FY2024,Q2
+1/08/2023,Maharashtra,4-Wheelers,1070,40169,39099,2023,8,Aug,FY2024,Q2
+1/08/2023,Manipur,4-Wheelers,6,458,452,2023,8,Aug,FY2024,Q2
+1/08/2023,Meghalaya,4-Wheelers,3,1215,1212,2023,8,Aug,FY2024,Q2
+1/08/2023,Odisha,4-Wheelers,146,6282,6136,2023,8,Aug,FY2024,Q2
+1/08/2023,Puducherry,4-Wheelers,14,955,941,2023,8,Aug,FY2024,Q2
+1/08/2023,Punjab,4-Wheelers,75,11493,11418,2023,8,Aug,FY2024,Q2
+1/08/2023,Rajasthan,4-Wheelers,396,14786,14390,2023,8,Aug,FY2024,Q2
+1/08/2023,Tamil Nadu,4-Wheelers,591,23537,22946,2023,8,Aug,FY2024,Q2
+1/08/2023,Tripura,4-Wheelers,2,466,464,2023,8,Aug,FY2024,Q2
+1/08/2023,Uttar Pradesh,4-Wheelers,482,29829,29347,2023,8,Aug,FY2024,Q2
+1/08/2023,Uttarakhand,4-Wheelers,50,4283,4233,2023,8,Aug,FY2024,Q2
+1/08/2023,West Bengal,4-Wheelers,178,9101,8923,2023,8,Aug,FY2024,Q2
+1/09/2023,Andhra Pradesh,4-Wheelers,59,7044,6985,2023,9,Sep,FY2024,Q2
+1/09/2023,Arunachal Pradesh,4-Wheelers,4,1003,999,2023,9,Sep,FY2024,Q2
+1/09/2023,Assam,4-Wheelers,23,8078,8055,2023,9,Sep,FY2024,Q2
+1/09/2023,Bihar,4-Wheelers,60,5210,5150,2023,9,Sep,FY2024,Q2
+1/09/2023,Chandigarh,4-Wheelers,54,1491,1437,2023,9,Sep,FY2024,Q2
+1/09/2023,Chhattisgarh,4-Wheelers,83,3993,3910,2023,9,Sep,FY2024,Q2
+1/09/2023,DNH and DD,4-Wheelers,6,468,462,2023,9,Sep,FY2024,Q2
+1/09/2023,Delhi,4-Wheelers,380,15776,15396,2023,9,Sep,FY2024,Q2
+1/09/2023,Goa,4-Wheelers,69,2801,2732,2023,9,Sep,FY2024,Q2
+1/09/2023,Gujarat,4-Wheelers,633,36818,36185,2023,9,Sep,FY2024,Q2
+1/09/2023,Haryana,4-Wheelers,92,24045,23953,2023,9,Sep,FY2024,Q2
+1/09/2023,Himachal Pradesh,4-Wheelers,9,3683,3674,2023,9,Sep,FY2024,Q2
+1/09/2023,Jammu and Kashmir,4-Wheelers,9,4430,4421,2023,9,Sep,FY2024,Q2
+1/09/2023,Jharkhand,4-Wheelers,22,4600,4578,2023,9,Sep,FY2024,Q2
+1/09/2023,Karnataka,4-Wheelers,942,24184,23242,2023,9,Sep,FY2024,Q2
+1/09/2023,Kerala,4-Wheelers,773,21467,20694,2023,9,Sep,FY2024,Q2
+1/09/2023,Madhya Pradesh,4-Wheelers,117,11748,11631,2023,9,Sep,FY2024,Q2
+1/09/2023,Maharashtra,4-Wheelers,869,43063,42194,2023,9,Sep,FY2024,Q2
+1/09/2023,Meghalaya,4-Wheelers,3,1139,1136,2023,9,Sep,FY2024,Q2
+1/09/2023,Odisha,4-Wheelers,101,6354,6253,2023,9,Sep,FY2024,Q2
+1/09/2023,Puducherry,4-Wheelers,10,912,902,2023,9,Sep,FY2024,Q2
+1/09/2023,Punjab,4-Wheelers,83,12368,12285,2023,9,Sep,FY2024,Q2
+1/09/2023,Rajasthan,4-Wheelers,375,16356,15981,2023,9,Sep,FY2024,Q2
+1/09/2023,Tamil Nadu,4-Wheelers,543,22461,21918,2023,9,Sep,FY2024,Q2
+1/09/2023,Tripura,4-Wheelers,3,470,467,2023,9,Sep,FY2024,Q2
+1/09/2023,Uttar Pradesh,4-Wheelers,476,29087,28611,2023,9,Sep,FY2024,Q2
+1/09/2023,Uttarakhand,4-Wheelers,30,4234,4204,2023,9,Sep,FY2024,Q2
+1/09/2023,West Bengal,4-Wheelers,218,9011,8793,2023,9,Sep,FY2024,Q2
+1/10/2023,Andhra Pradesh,4-Wheelers,68,7743,7675,2023,10,Oct,FY2024,Q3
+1/10/2023,Arunachal Pradesh,4-Wheelers,2,1111,1109,2023,10,Oct,FY2024,Q3
+1/10/2023,Assam,4-Wheelers,24,9481,9457,2023,10,Oct,FY2024,Q3
+1/10/2023,Bihar,4-Wheelers,57,6068,6011,2023,10,Oct,FY2024,Q3
+1/10/2023,Chandigarh,4-Wheelers,71,1722,1651,2023,10,Oct,FY2024,Q3
+1/10/2023,Chhattisgarh,4-Wheelers,79,4920,4841,2023,10,Oct,FY2024,Q3
+1/10/2023,DNH and DD,4-Wheelers,12,620,608,2023,10,Oct,FY2024,Q3
+1/10/2023,Delhi,4-Wheelers,519,16459,15940,2023,10,Oct,FY2024,Q3
+1/10/2023,Goa,4-Wheelers,87,2094,2007,2023,10,Oct,FY2024,Q3
+1/10/2023,Gujarat,4-Wheelers,670,42365,41695,2023,10,Oct,FY2024,Q3
+1/10/2023,Haryana,4-Wheelers,220,20543,20323,2023,10,Oct,FY2024,Q3
+1/10/2023,Himachal Pradesh,4-Wheelers,7,3066,3059,2023,10,Oct,FY2024,Q3
+1/10/2023,Jammu and Kashmir,4-Wheelers,10,4603,4593,2023,10,Oct,FY2024,Q3
+1/10/2023,Jharkhand,4-Wheelers,30,4837,4807,2023,10,Oct,FY2024,Q3
+1/10/2023,Karnataka,4-Wheelers,1154,25652,24498,2023,10,Oct,FY2024,Q3
+1/10/2023,Kerala,4-Wheelers,642,14522,13880,2023,10,Oct,FY2024,Q3
+1/10/2023,Madhya Pradesh,4-Wheelers,112,13646,13534,2023,10,Oct,FY2024,Q3
+1/10/2023,Maharashtra,4-Wheelers,1404,47126,45722,2023,10,Oct,FY2024,Q3
+1/10/2023,Manipur,4-Wheelers,2,272,270,2023,10,Oct,FY2024,Q3
+1/10/2023,Odisha,4-Wheelers,130,8500,8370,2023,10,Oct,FY2024,Q3
+1/10/2023,Puducherry,4-Wheelers,7,990,983,2023,10,Oct,FY2024,Q3
+1/10/2023,Punjab,4-Wheelers,94,11396,11302,2023,10,Oct,FY2024,Q3
+1/10/2023,Rajasthan,4-Wheelers,464,18951,18487,2023,10,Oct,FY2024,Q3
+1/10/2023,Tamil Nadu,4-Wheelers,556,28342,27786,2023,10,Oct,FY2024,Q3
+1/10/2023,Tripura,4-Wheelers,3,497,494,2023,10,Oct,FY2024,Q3
+1/10/2023,Uttar Pradesh,4-Wheelers,512,33774,33262,2023,10,Oct,FY2024,Q3
+1/10/2023,Uttarakhand,4-Wheelers,34,4562,4528,2023,10,Oct,FY2024,Q3
+1/10/2023,West Bengal,4-Wheelers,238,9972,9734,2023,10,Oct,FY2024,Q3
+1/11/2023,Andhra Pradesh,4-Wheelers,98,8220,8122,2023,11,Nov,FY2024,Q3
+1/11/2023,Arunachal Pradesh,4-Wheelers,3,1226,1223,2023,11,Nov,FY2024,Q3
+1/11/2023,Assam,4-Wheelers,26,7960,7934,2023,11,Nov,FY2024,Q3
+1/11/2023,Bihar,4-Wheelers,50,9075,9025,2023,11,Nov,FY2024,Q3
+1/11/2023,Chandigarh,4-Wheelers,88,1805,1717,2023,11,Nov,FY2024,Q3
+1/11/2023,Chhattisgarh,4-Wheelers,99,5877,5778,2023,11,Nov,FY2024,Q3
+1/11/2023,DNH and DD,4-Wheelers,3,590,587,2023,11,Nov,FY2024,Q3
+1/11/2023,Delhi,4-Wheelers,538,18675,18137,2023,11,Nov,FY2024,Q3
+1/11/2023,Goa,4-Wheelers,97,2521,2424,2023,11,Nov,FY2024,Q3
+1/11/2023,Gujarat,4-Wheelers,592,32601,32009,2023,11,Nov,FY2024,Q3
+1/11/2023,Haryana,4-Wheelers,215,22002,21787,2023,11,Nov,FY2024,Q3
+1/11/2023,Himachal Pradesh,4-Wheelers,15,4242,4227,2023,11,Nov,FY2024,Q3
+1/11/2023,Jammu and Kashmir,4-Wheelers,18,4981,4963,2023,11,Nov,FY2024,Q3
+1/11/2023,Jharkhand,4-Wheelers,40,6684,6644,2023,11,Nov,FY2024,Q3
+1/11/2023,Karnataka,4-Wheelers,822,26232,25410,2023,11,Nov,FY2024,Q3
+1/11/2023,Kerala,4-Wheelers,641,12551,11910,2023,11,Nov,FY2024,Q3
+1/11/2023,Madhya Pradesh,4-Wheelers,137,17166,17029,2023,11,Nov,FY2024,Q3
+1/11/2023,Maharashtra,4-Wheelers,1315,48131,46816,2023,11,Nov,FY2024,Q3
+1/11/2023,Manipur,4-Wheelers,2,246,244,2023,11,Nov,FY2024,Q3
+1/11/2023,Meghalaya,4-Wheelers,2,1387,1385,2023,11,Nov,FY2024,Q3
+1/11/2023,Odisha,4-Wheelers,177,7105,6928,2023,11,Nov,FY2024,Q3
+1/11/2023,Puducherry,4-Wheelers,11,990,979,2023,11,Nov,FY2024,Q3
+1/11/2023,Punjab,4-Wheelers,128,12992,12864,2023,11,Nov,FY2024,Q3
+1/11/2023,Rajasthan,4-Wheelers,539,24386,23847,2023,11,Nov,FY2024,Q3
+1/11/2023,Tamil Nadu,4-Wheelers,599,19015,18416,2023,11,Nov,FY2024,Q3
+1/11/2023,Tripura,4-Wheelers,2,657,655,2023,11,Nov,FY2024,Q3
+1/11/2023,Uttar Pradesh,4-Wheelers,446,42692,42246,2023,11,Nov,FY2024,Q3
+1/11/2023,Uttarakhand,4-Wheelers,47,5398,5351,2023,11,Nov,FY2024,Q3
+1/11/2023,West Bengal,4-Wheelers,290,9743,9453,2023,11,Nov,FY2024,Q3
+1/12/2023,Andaman & Nicobar Island,4-Wheelers,2,175,173,2023,12,Dec,FY2024,Q3
+1/12/2023,Andhra Pradesh,4-Wheelers,130,7155,7025,2023,12,Dec,FY2024,Q3
+1/12/2023,Arunachal Pradesh,4-Wheelers,2,1137,1135,2023,12,Dec,FY2024,Q3
+1/12/2023,Assam,4-Wheelers,30,8111,8081,2023,12,Dec,FY2024,Q3
+1/12/2023,Bihar,4-Wheelers,59,4788,4729,2023,12,Dec,FY2024,Q3
+1/12/2023,Chandigarh,4-Wheelers,130,1496,1366,2023,12,Dec,FY2024,Q3
+1/12/2023,Chhattisgarh,4-Wheelers,93,3575,3482,2023,12,Dec,FY2024,Q3
+1/12/2023,DNH and DD,4-Wheelers,5,488,483,2023,12,Dec,FY2024,Q3
+1/12/2023,Delhi,4-Wheelers,811,16567,15756,2023,12,Dec,FY2024,Q3
+1/12/2023,Goa,4-Wheelers,71,1859,1788,2023,12,Dec,FY2024,Q3
+1/12/2023,Gujarat,4-Wheelers,548,26023,25475,2023,12,Dec,FY2024,Q3
+1/12/2023,Haryana,4-Wheelers,218,23698,23480,2023,12,Dec,FY2024,Q3
+1/12/2023,Himachal Pradesh,4-Wheelers,16,5710,5694,2023,12,Dec,FY2024,Q3
+1/12/2023,Jammu and Kashmir,4-Wheelers,15,4531,4516,2023,12,Dec,FY2024,Q3
+1/12/2023,Jharkhand,4-Wheelers,27,4375,4348,2023,12,Dec,FY2024,Q3
+1/12/2023,Karnataka,4-Wheelers,1155,22859,21704,2023,12,Dec,FY2024,Q3
+1/12/2023,Kerala,4-Wheelers,736,13811,13075,2023,12,Dec,FY2024,Q3
+1/12/2023,Madhya Pradesh,4-Wheelers,134,9736,9602,2023,12,Dec,FY2024,Q3
+1/12/2023,Maharashtra,4-Wheelers,1125,32212,31087,2023,12,Dec,FY2024,Q3
+1/12/2023,Manipur,4-Wheelers,2,206,204,2023,12,Dec,FY2024,Q3
+1/12/2023,Odisha,4-Wheelers,186,7280,7094,2023,12,Dec,FY2024,Q3
+1/12/2023,Puducherry,4-Wheelers,12,860,848,2023,12,Dec,FY2024,Q3
+1/12/2023,Punjab,4-Wheelers,116,13632,13516,2023,12,Dec,FY2024,Q3
+1/12/2023,Rajasthan,4-Wheelers,348,13082,12734,2023,12,Dec,FY2024,Q3
+1/12/2023,Tamil Nadu,4-Wheelers,520,19246,18726,2023,12,Dec,FY2024,Q3
+1/12/2023,Tripura,4-Wheelers,4,489,485,2023,12,Dec,FY2024,Q3
+1/12/2023,Uttar Pradesh,4-Wheelers,498,29434,28936,2023,12,Dec,FY2024,Q3
+1/12/2023,Uttarakhand,4-Wheelers,37,5430,5393,2023,12,Dec,FY2024,Q3
+1/12/2023,West Bengal,4-Wheelers,160,8435,8275,2023,12,Dec,FY2024,Q3
+1/01/2024,Uttar Pradesh,4-Wheelers,399,44334,43935,2024,1,Jan,FY2024,Q4
+1/01/2024,Maharashtra,4-Wheelers,1289,50156,48867,2024,1,Jan,FY2024,Q4
+1/01/2024,Karnataka,4-Wheelers,1080,30770,29690,2024,1,Jan,FY2024,Q4
+1/01/2024,Tamil Nadu,4-Wheelers,626,28455,27829,2024,1,Jan,FY2024,Q4
+1/01/2024,Bihar,4-Wheelers,58,6824,6766,2024,1,Jan,FY2024,Q4
+1/01/2024,Kerala,4-Wheelers,734,164,-570,2024,1,Jan,FY2024,Q4
+1/01/2024,Rajasthan,4-Wheelers,498,21747,21249,2024,1,Jan,FY2024,Q4
+1/01/2024,Delhi,4-Wheelers,1345,21520,20175,2024,1,Jan,FY2024,Q4
+1/01/2024,Madhya Pradesh,4-Wheelers,172,19326,19154,2024,1,Jan,FY2024,Q4
+1/01/2024,Gujarat,4-Wheelers,494,33379,32885,2024,1,Jan,FY2024,Q4
+1/01/2024,Odisha,4-Wheelers,150,7500,7350,2024,1,Jan,FY2024,Q4
+1/01/2024,Assam,4-Wheelers,21,7242,7221,2024,1,Jan,FY2024,Q4
+1/01/2024,Haryana,4-Wheelers,282,28776,28494,2024,1,Jan,FY2024,Q4
+1/01/2024,Chhattisgarh,4-Wheelers,91,4946,4855,2024,1,Jan,FY2024,Q4
+1/01/2024,West Bengal,4-Wheelers,184,10223,10039,2024,1,Jan,FY2024,Q4
+1/01/2024,Punjab,4-Wheelers,105,15000,14895,2024,1,Jan,FY2024,Q4
+1/01/2024,Andhra Pradesh,4-Wheelers,123,8483,8360,2024,1,Jan,FY2024,Q4
+1/01/2024,Jharkhand,4-Wheelers,29,4678,4649,2024,1,Jan,FY2024,Q4
+1/01/2024,Uttarakhand,4-Wheelers,49,5385,5336,2024,1,Jan,FY2024,Q4
+1/01/2024,Jammu and Kashmir,4-Wheelers,10,5264,5254,2024,1,Jan,FY2024,Q4
+1/01/2024,Goa,4-Wheelers,86,2331,2245,2024,1,Jan,FY2024,Q4
+1/01/2024,Chandigarh,4-Wheelers,101,1624,1523,2024,1,Jan,FY2024,Q4
+1/01/2024,Tripura,4-Wheelers,2,466,464,2024,1,Jan,FY2024,Q4
+1/01/2024,Puducherry,4-Wheelers,10,1250,1240,2024,1,Jan,FY2024,Q4
+1/01/2024,Himachal Pradesh,4-Wheelers,13,4815,4802,2024,1,Jan,FY2024,Q4
+1/01/2024,DNH and DD,4-Wheelers,3,527,524,2024,1,Jan,FY2024,Q4
+1/01/2024,Manipur,4-Wheelers,7,433,426,2024,1,Jan,FY2024,Q4
+1/01/2024,Arunachal Pradesh,4-Wheelers,5,1174,1169,2024,1,Jan,FY2024,Q4
+1/02/2024,Uttar Pradesh,4-Wheelers,394,37170,36776,2024,2,Feb,FY2024,Q4
+1/02/2024,Maharashtra,4-Wheelers,1227,36302,35075,2024,2,Feb,FY2024,Q4
+1/02/2024,Karnataka,4-Wheelers,923,24812,23889,2024,2,Feb,FY2024,Q4
+1/02/2024,Tamil Nadu,4-Wheelers,595,23063,22468,2024,2,Feb,FY2024,Q4
+1/02/2024,Rajasthan,4-Wheelers,517,19149,18632,2024,2,Feb,FY2024,Q4
+1/02/2024,Bihar,4-Wheelers,71,6762,6691,2024,2,Feb,FY2024,Q4
+1/02/2024,Madhya Pradesh,4-Wheelers,146,18025,17879,2024,2,Feb,FY2024,Q4
+1/02/2024,Kerala,4-Wheelers,684,12281,11597,2024,2,Feb,FY2024,Q4
+1/02/2024,Gujarat,4-Wheelers,510,25758,25248,2024,2,Feb,FY2024,Q4
+1/02/2024,Delhi,4-Wheelers,596,17898,17302,2024,2,Feb,FY2024,Q4
+1/02/2024,Assam,4-Wheelers,24,6858,6834,2024,2,Feb,FY2024,Q4
+1/02/2024,Odisha,4-Wheelers,203,6305,6102,2024,2,Feb,FY2024,Q4
+1/02/2024,Chhattisgarh,4-Wheelers,99,4125,4026,2024,2,Feb,FY2024,Q4
+1/02/2024,Punjab,4-Wheelers,111,14051,13940,2024,2,Feb,FY2024,Q4
+1/02/2024,Andhra Pradesh,4-Wheelers,128,6125,5997,2024,2,Feb,FY2024,Q4
+1/02/2024,Haryana,4-Wheelers,312,26000,25688,2024,2,Feb,FY2024,Q4
+1/02/2024,West Bengal,4-Wheelers,185,8487,8302,2024,2,Feb,FY2024,Q4
+1/02/2024,Jharkhand,4-Wheelers,42,4667,4625,2024,2,Feb,FY2024,Q4
+1/02/2024,Uttarakhand,4-Wheelers,60,5826,5766,2024,2,Feb,FY2024,Q4
+1/02/2024,Jammu and Kashmir,4-Wheelers,24,4211,4187,2024,2,Feb,FY2024,Q4
+1/02/2024,Goa,4-Wheelers,99,1772,1673,2024,2,Feb,FY2024,Q4
+1/02/2024,Tripura,4-Wheelers,5,538,533,2024,2,Feb,FY2024,Q4
+1/02/2024,Chandigarh,4-Wheelers,84,1321,1237,2024,2,Feb,FY2024,Q4
+1/02/2024,Puducherry,4-Wheelers,16,1177,1161,2024,2,Feb,FY2024,Q4
+1/02/2024,Himachal Pradesh,4-Wheelers,11,4584,4573,2024,2,Feb,FY2024,Q4
+1/02/2024,Manipur,4-Wheelers,7,310,303,2024,2,Feb,FY2024,Q4
+1/02/2024,DNH and DD,4-Wheelers,5,444,439,2024,2,Feb,FY2024,Q4
+1/02/2024,Meghalaya,4-Wheelers,4,1261,1257,2024,2,Feb,FY2024,Q4
+1/02/2024,Arunachal Pradesh,4-Wheelers,4,1184,1180,2024,2,Feb,FY2024,Q4
+1/03/2024,Maharashtra,4-Wheelers,1079,36826,35747,2024,3,Mar,FY2024,Q4
+1/03/2024,Uttar Pradesh,4-Wheelers,389,34425,34036,2024,3,Mar,FY2024,Q4
+1/03/2024,Karnataka,4-Wheelers,1482,26751,25269,2024,3,Mar,FY2024,Q4
+1/03/2024,Tamil Nadu,4-Wheelers,749,22095,21346,2024,3,Mar,FY2024,Q4
+1/03/2024,Rajasthan,4-Wheelers,493,16942,16449,2024,3,Mar,FY2024,Q4
+1/03/2024,Delhi,4-Wheelers,897,15905,15008,2024,3,Mar,FY2024,Q4
+1/03/2024,Kerala,4-Wheelers,876,13861,12985,2024,3,Mar,FY2024,Q4
+1/03/2024,Gujarat,4-Wheelers,661,25424,24763,2024,3,Mar,FY2024,Q4
+1/03/2024,Bihar,4-Wheelers,99,6972,6873,2024,3,Mar,FY2024,Q4
+1/03/2024,Madhya Pradesh,4-Wheelers,143,14743,14600,2024,3,Mar,FY2024,Q4
+1/03/2024,Andhra Pradesh,4-Wheelers,366,7838,7472,2024,3,Mar,FY2024,Q4
+1/03/2024,Assam,4-Wheelers,53,7465,7412,2024,3,Mar,FY2024,Q4
+1/03/2024,Chhattisgarh,4-Wheelers,120,4348,4228,2024,3,Mar,FY2024,Q4
+1/03/2024,Punjab,4-Wheelers,132,14348,14216,2024,3,Mar,FY2024,Q4
+1/03/2024,West Bengal,4-Wheelers,495,8089,7594,2024,3,Mar,FY2024,Q4
+1/03/2024,Haryana,4-Wheelers,305,23644,23339,2024,3,Mar,FY2024,Q4
+1/03/2024,Jharkhand,4-Wheelers,52,4483,4431,2024,3,Mar,FY2024,Q4
+1/03/2024,Goa,4-Wheelers,123,1730,1607,2024,3,Mar,FY2024,Q4
+1/03/2024,Uttarakhand,4-Wheelers,51,4812,4761,2024,3,Mar,FY2024,Q4
+1/03/2024,Jammu and Kashmir,4-Wheelers,18,4500,4482,2024,3,Mar,FY2024,Q4
+1/03/2024,Tripura,4-Wheelers,3,556,553,2024,3,Mar,FY2024,Q4
+1/03/2024,Chandigarh,4-Wheelers,119,1294,1175,2024,3,Mar,FY2024,Q4
+1/03/2024,Puducherry,4-Wheelers,5,1042,1037,2024,3,Mar,FY2024,Q4
+1/03/2024,Meghalaya,4-Wheelers,3,1200,1197,2024,3,Mar,FY2024,Q4
+1/03/2024,Himachal Pradesh,4-Wheelers,17,4147,4130,2024,3,Mar,FY2024,Q4
+1/03/2024,DNH and DD,4-Wheelers,4,429,425,2024,3,Mar,FY2024,Q4
+1/03/2024,Manipur,4-Wheelers,2,370,368,2024,3,Mar,FY2024,Q4
+1/04/2021,Andhra Pradesh,2-Wheelers,436,63444,63008,2021,4,Apr,FY2022,Q1
+1/04/2021,Assam,2-Wheelers,7,30344,30337,2021,4,Apr,FY2022,Q1
+1/04/2021,Bihar,2-Wheelers,47,81056,81009,2021,4,Apr,FY2022,Q1
+1/04/2021,Chandigarh,2-Wheelers,6,1200,1194,2021,4,Apr,FY2022,Q1
+1/04/2021,Chhattisgarh,2-Wheelers,36,10274,10238,2021,4,Apr,FY2022,Q1
+1/04/2021,Delhi,2-Wheelers,272,14233,13961,2021,4,Apr,FY2022,Q1
+1/04/2021,Goa,2-Wheelers,36,3374,3338,2021,4,Apr,FY2022,Q1
+1/04/2021,Gujarat,2-Wheelers,98,49005,48907,2021,4,Apr,FY2022,Q1
+1/04/2021,Haryana,2-Wheelers,101,31078,30977,2021,4,Apr,FY2022,Q1
+1/04/2021,Himachal Pradesh,2-Wheelers,9,4360,4351,2021,4,Apr,FY2022,Q1
+1/04/2021,Jammu and Kashmir,2-Wheelers,22,6874,6852,2021,4,Apr,FY2022,Q1
+1/04/2021,Jharkhand,2-Wheelers,80,26969,26889,2021,4,Apr,FY2022,Q1
+1/04/2021,Karnataka,2-Wheelers,1549,59979,58430,2021,4,Apr,FY2022,Q1
+1/04/2021,Kerala,2-Wheelers,379,57624,57245,2021,4,Apr,FY2022,Q1
+1/04/2021,Madhya Pradesh,2-Wheelers,126,29491,29365,2021,4,Apr,FY2022,Q1
+1/04/2021,Maharashtra,2-Wheelers,428,45515,45087,2021,4,Apr,FY2022,Q1
+1/04/2021,Manipur,2-Wheelers,2,3048,3046,2021,4,Apr,FY2022,Q1
+1/04/2021,Odisha,2-Wheelers,191,36953,36762,2021,4,Apr,FY2022,Q1
+1/04/2021,Puducherry,2-Wheelers,18,2581,2563,2021,4,Apr,FY2022,Q1
+1/04/2021,Punjab,2-Wheelers,9,24348,24339,2021,4,Apr,FY2022,Q1
+1/04/2021,Rajasthan,2-Wheelers,325,48828,48503,2021,4,Apr,FY2022,Q1
+1/04/2021,Tamil Nadu,2-Wheelers,1297,107658,106361,2021,4,Apr,FY2022,Q1
+1/04/2021,Uttar Pradesh,2-Wheelers,171,137840,137669,2021,4,Apr,FY2022,Q1
+1/04/2021,Uttarakhand,2-Wheelers,34,7607,7573,2021,4,Apr,FY2022,Q1
+1/04/2021,West Bengal,2-Wheelers,9,65885,65876,2021,4,Apr,FY2022,Q1
+1/05/2021,Andhra Pradesh,2-Wheelers,201,41370,41169,2021,5,May,FY2022,Q1
+1/05/2021,Bihar,2-Wheelers,8,55276,55268,2021,5,May,FY2022,Q1
+1/05/2021,Chhattisgarh,2-Wheelers,6,5280,5274,2021,5,May,FY2022,Q1
+1/05/2021,Goa,2-Wheelers,27,379,352,2021,5,May,FY2022,Q1
+1/05/2021,Gujarat,2-Wheelers,106,33419,33313,2021,5,May,FY2022,Q1
+1/05/2021,Haryana,2-Wheelers,17,7315,7298,2021,5,May,FY2022,Q1
+1/05/2021,Himachal Pradesh,2-Wheelers,4,1721,1717,2021,5,May,FY2022,Q1
+1/05/2021,Jammu and Kashmir,2-Wheelers,50,1916,1866,2021,5,May,FY2022,Q1
+1/05/2021,Jharkhand,2-Wheelers,39,21680,21641,2021,5,May,FY2022,Q1
+1/05/2021,Karnataka,2-Wheelers,140,4942,4802,2021,5,May,FY2022,Q1
+1/05/2021,Kerala,2-Wheelers,95,6675,6580,2021,5,May,FY2022,Q1
+1/05/2021,Maharashtra,2-Wheelers,189,16627,16438,2021,5,May,FY2022,Q1
+1/05/2021,Odisha,2-Wheelers,28,5900,5872,2021,5,May,FY2022,Q1
+1/05/2021,Puducherry,2-Wheelers,3,314,311,2021,5,May,FY2022,Q1
+1/05/2021,Punjab,2-Wheelers,21,14366,14345,2021,5,May,FY2022,Q1
+1/05/2021,Rajasthan,2-Wheelers,33,18802,18769,2021,5,May,FY2022,Q1
+1/05/2021,Tamil Nadu,2-Wheelers,237,17837,17600,2021,5,May,FY2022,Q1
+1/05/2021,Uttar Pradesh,2-Wheelers,25,147458,147433,2021,5,May,FY2022,Q1
+1/05/2021,Uttarakhand,2-Wheelers,6,2957,2951,2021,5,May,FY2022,Q1
+1/05/2021,West Bengal,2-Wheelers,6,28906,28900,2021,5,May,FY2022,Q1
+1/06/2021,Andhra Pradesh,2-Wheelers,369,53867,53498,2021,6,Jun,FY2022,Q1
+1/06/2021,Assam,2-Wheelers,6,22586,22580,2021,6,Jun,FY2022,Q1
+1/06/2021,Bihar,2-Wheelers,67,100771,100704,2021,6,Jun,FY2022,Q1
+1/06/2021,Chandigarh,2-Wheelers,2,1314,1312,2021,6,Jun,FY2022,Q1
+1/06/2021,Chhattisgarh,2-Wheelers,138,31808,31670,2021,6,Jun,FY2022,Q1
+1/06/2021,DNH and DD,2-Wheelers,2,627,625,2021,6,Jun,FY2022,Q1
+1/06/2021,Delhi,2-Wheelers,205,22186,21981,2021,6,Jun,FY2022,Q1
+1/06/2021,Goa,2-Wheelers,17,1533,1516,2021,6,Jun,FY2022,Q1
+1/06/2021,Gujarat,2-Wheelers,207,59121,58914,2021,6,Jun,FY2022,Q1
+1/06/2021,Haryana,2-Wheelers,74,31957,31883,2021,6,Jun,FY2022,Q1
+1/06/2021,Himachal Pradesh,2-Wheelers,25,5098,5073,2021,6,Jun,FY2022,Q1
+1/06/2021,Jammu and Kashmir,2-Wheelers,87,8677,8590,2021,6,Jun,FY2022,Q1
+1/06/2021,Jharkhand,2-Wheelers,42,33533,33491,2021,6,Jun,FY2022,Q1
+1/06/2021,Karnataka,2-Wheelers,560,19402,18842,2021,6,Jun,FY2022,Q1
+1/06/2021,Kerala,2-Wheelers,184,17828,17644,2021,6,Jun,FY2022,Q1
+1/06/2021,Madhya Pradesh,2-Wheelers,227,90928,90701,2021,6,Jun,FY2022,Q1
+1/06/2021,Maharashtra,2-Wheelers,891,75098,74207,2021,6,Jun,FY2022,Q1
+1/06/2021,Odisha,2-Wheelers,147,23193,23046,2021,6,Jun,FY2022,Q1
+1/06/2021,Puducherry,2-Wheelers,31,2559,2528,2021,6,Jun,FY2022,Q1
+1/06/2021,Punjab,2-Wheelers,71,23393,23322,2021,6,Jun,FY2022,Q1
+1/06/2021,Rajasthan,2-Wheelers,515,59809,59294,2021,6,Jun,FY2022,Q1
+1/06/2021,Tamil Nadu,2-Wheelers,660,45197,44537,2021,6,Jun,FY2022,Q1
+1/06/2021,Uttar Pradesh,2-Wheelers,92,264409,264317,2021,6,Jun,FY2022,Q1
+1/06/2021,Uttarakhand,2-Wheelers,37,9766,9729,2021,6,Jun,FY2022,Q1
+1/06/2021,West Bengal,2-Wheelers,12,67354,67342,2021,6,Jun,FY2022,Q1
+1/07/2021,Andhra Pradesh,2-Wheelers,811,58165,57354,2021,7,Jul,FY2022,Q2
+1/07/2021,Assam,2-Wheelers,22,22521,22499,2021,7,Jul,FY2022,Q2
+1/07/2021,Bihar,2-Wheelers,189,70562,70373,2021,7,Jul,FY2022,Q2
+1/07/2021,Chandigarh,2-Wheelers,11,1286,1275,2021,7,Jul,FY2022,Q2
+1/07/2021,Chhattisgarh,2-Wheelers,253,30642,30389,2021,7,Jul,FY2022,Q2
+1/07/2021,DNH and DD,2-Wheelers,3,704,701,2021,7,Jul,FY2022,Q2
+1/07/2021,Delhi,2-Wheelers,818,24955,24137,2021,7,Jul,FY2022,Q2
+1/07/2021,Goa,2-Wheelers,64,1694,1630,2021,7,Jul,FY2022,Q2
+1/07/2021,Gujarat,2-Wheelers,358,68641,68283,2021,7,Jul,FY2022,Q2
+1/07/2021,Haryana,2-Wheelers,134,24476,24342,2021,7,Jul,FY2022,Q2
+1/07/2021,Himachal Pradesh,2-Wheelers,18,6543,6525,2021,7,Jul,FY2022,Q2
+1/07/2021,Jammu and Kashmir,2-Wheelers,203,10104,9901,2021,7,Jul,FY2022,Q2
+1/07/2021,Jharkhand,2-Wheelers,108,29512,29404,2021,7,Jul,FY2022,Q2
+1/07/2021,Karnataka,2-Wheelers,3384,84001,80617,2021,7,Jul,FY2022,Q2
+1/07/2021,Kerala,2-Wheelers,456,41455,40999,2021,7,Jul,FY2022,Q2
+1/07/2021,Madhya Pradesh,2-Wheelers,469,99094,98625,2021,7,Jul,FY2022,Q2
+1/07/2021,Maharashtra,2-Wheelers,2101,146083,143982,2021,7,Jul,FY2022,Q2
+1/07/2021,Odisha,2-Wheelers,324,38080,37756,2021,7,Jul,FY2022,Q2
+1/07/2021,Puducherry,2-Wheelers,38,3592,3554,2021,7,Jul,FY2022,Q2
+1/07/2021,Punjab,2-Wheelers,318,27261,26943,2021,7,Jul,FY2022,Q2
+1/07/2021,Rajasthan,2-Wheelers,1378,67308,65930,2021,7,Jul,FY2022,Q2
+1/07/2021,Tamil Nadu,2-Wheelers,2801,122808,120007,2021,7,Jul,FY2022,Q2
+1/07/2021,Uttar Pradesh,2-Wheelers,303,215180,214877,2021,7,Jul,FY2022,Q2
+1/07/2021,Uttarakhand,2-Wheelers,76,12268,12192,2021,7,Jul,FY2022,Q2
+1/07/2021,West Bengal,2-Wheelers,36,76665,76629,2021,7,Jul,FY2022,Q2
+1/08/2021,Andhra Pradesh,2-Wheelers,666,58473,57807,2021,8,Aug,FY2022,Q2
+1/08/2021,Assam,2-Wheelers,26,25097,25071,2021,8,Aug,FY2022,Q2
+1/08/2021,Bihar,2-Wheelers,191,54618,54427,2021,8,Aug,FY2022,Q2
+1/08/2021,Chandigarh,2-Wheelers,19,1380,1361,2021,8,Aug,FY2022,Q2
+1/08/2021,Chhattisgarh,2-Wheelers,238,27491,27253,2021,8,Aug,FY2022,Q2
+1/08/2021,DNH and DD,2-Wheelers,2,584,582,2021,8,Aug,FY2022,Q2
+1/08/2021,Delhi,2-Wheelers,995,26069,25074,2021,8,Aug,FY2022,Q2
+1/08/2021,Goa,2-Wheelers,22,2316,2294,2021,8,Aug,FY2022,Q2
+1/08/2021,Gujarat,2-Wheelers,584,54721,54137,2021,8,Aug,FY2022,Q2
+1/08/2021,Haryana,2-Wheelers,441,30342,29901,2021,8,Aug,FY2022,Q2
+1/08/2021,Himachal Pradesh,2-Wheelers,32,5430,5398,2021,8,Aug,FY2022,Q2
+1/08/2021,Jammu and Kashmir,2-Wheelers,122,9978,9856,2021,8,Aug,FY2022,Q2
+1/08/2021,Jharkhand,2-Wheelers,137,26589,26452,2021,8,Aug,FY2022,Q2
+1/08/2021,Karnataka,2-Wheelers,3319,79751,76432,2021,8,Aug,FY2022,Q2
+1/08/2021,Kerala,2-Wheelers,598,52507,51909,2021,8,Aug,FY2022,Q2
+1/08/2021,Madhya Pradesh,2-Wheelers,457,67859,67402,2021,8,Aug,FY2022,Q2
+1/08/2021,Maharashtra,2-Wheelers,2419,119076,116657,2021,8,Aug,FY2022,Q2
+1/08/2021,Odisha,2-Wheelers,485,33821,33336,2021,8,Aug,FY2022,Q2
+1/08/2021,Puducherry,2-Wheelers,34,3496,3462,2021,8,Aug,FY2022,Q2
+1/08/2021,Punjab,2-Wheelers,342,27376,27034,2021,8,Aug,FY2022,Q2
+1/08/2021,Rajasthan,2-Wheelers,1451,57021,55570,2021,8,Aug,FY2022,Q2
+1/08/2021,Tamil Nadu,2-Wheelers,2745,109440,106695,2021,8,Aug,FY2022,Q2
+1/08/2021,Uttar Pradesh,2-Wheelers,531,146734,146203,2021,8,Aug,FY2022,Q2
+1/08/2021,Uttarakhand,2-Wheelers,114,11192,11078,2021,8,Aug,FY2022,Q2
+1/08/2021,West Bengal,2-Wheelers,80,63613,63533,2021,8,Aug,FY2022,Q2
+1/09/2021,Andhra Pradesh,2-Wheelers,766,51764,50998,2021,9,Sep,FY2022,Q2
+1/09/2021,Assam,2-Wheelers,38,24438,24400,2021,9,Sep,FY2022,Q2
+1/09/2021,Bihar,2-Wheelers,475,48021,47546,2021,9,Sep,FY2022,Q2
+1/09/2021,Chandigarh,2-Wheelers,25,1162,1137,2021,9,Sep,FY2022,Q2
+1/09/2021,Chhattisgarh,2-Wheelers,244,24790,24546,2021,9,Sep,FY2022,Q2
+1/09/2021,Delhi,2-Wheelers,809,17347,16538,2021,9,Sep,FY2022,Q2
+1/09/2021,Goa,2-Wheelers,87,3081,2994,2021,9,Sep,FY2022,Q2
+1/09/2021,Gujarat,2-Wheelers,959,71820,70861,2021,9,Sep,FY2022,Q2
+1/09/2021,Haryana,2-Wheelers,691,32590,31899,2021,9,Sep,FY2022,Q2
+1/09/2021,Himachal Pradesh,2-Wheelers,33,4975,4942,2021,9,Sep,FY2022,Q2
+1/09/2021,Jammu and Kashmir,2-Wheelers,157,7354,7197,2021,9,Sep,FY2022,Q2
+1/09/2021,Jharkhand,2-Wheelers,149,24528,24379,2021,9,Sep,FY2022,Q2
+1/09/2021,Karnataka,2-Wheelers,3539,80292,76753,2021,9,Sep,FY2022,Q2
+1/09/2021,Kerala,2-Wheelers,789,48245,47456,2021,9,Sep,FY2022,Q2
+1/09/2021,Madhya Pradesh,2-Wheelers,590,65166,64576,2021,9,Sep,FY2022,Q2
+1/09/2021,Maharashtra,2-Wheelers,2166,92351,90185,2021,9,Sep,FY2022,Q2
+1/09/2021,Odisha,2-Wheelers,490,28355,27865,2021,9,Sep,FY2022,Q2
+1/09/2021,Puducherry,2-Wheelers,48,3211,3163,2021,9,Sep,FY2022,Q2
+1/09/2021,Punjab,2-Wheelers,487,24819,24332,2021,9,Sep,FY2022,Q2
+1/09/2021,Rajasthan,2-Wheelers,1625,48502,46877,2021,9,Sep,FY2022,Q2
+1/09/2021,Tamil Nadu,2-Wheelers,2880,108477,105597,2021,9,Sep,FY2022,Q2
+1/09/2021,Uttar Pradesh,2-Wheelers,730,132962,132232,2021,9,Sep,FY2022,Q2
+1/09/2021,Uttarakhand,2-Wheelers,169,9926,9757,2021,9,Sep,FY2022,Q2
+1/09/2021,West Bengal,2-Wheelers,84,65430,65346,2021,9,Sep,FY2022,Q2
+1/10/2021,Andhra Pradesh,2-Wheelers,993,88110,87117,2021,10,Oct,FY2022,Q3
+1/10/2021,Assam,2-Wheelers,28,32155,32127,2021,10,Oct,FY2022,Q3
+1/10/2021,Bihar,2-Wheelers,470,50679,50209,2021,10,Oct,FY2022,Q3
+1/10/2021,Chandigarh,2-Wheelers,18,1792,1774,2021,10,Oct,FY2022,Q3
+1/10/2021,Chhattisgarh,2-Wheelers,301,33464,33163,2021,10,Oct,FY2022,Q3
+1/10/2021,Delhi,2-Wheelers,995,26087,25092,2021,10,Oct,FY2022,Q3
+1/10/2021,Goa,2-Wheelers,163,3914,3751,2021,10,Oct,FY2022,Q3
+1/10/2021,Gujarat,2-Wheelers,1460,84700,83240,2021,10,Oct,FY2022,Q3
+1/10/2021,Haryana,2-Wheelers,505,26891,26386,2021,10,Oct,FY2022,Q3
+1/10/2021,Himachal Pradesh,2-Wheelers,29,4651,4622,2021,10,Oct,FY2022,Q3
+1/10/2021,Jammu and Kashmir,2-Wheelers,199,8601,8402,2021,10,Oct,FY2022,Q3
+1/10/2021,Jharkhand,2-Wheelers,253,28877,28624,2021,10,Oct,FY2022,Q3
+1/10/2021,Karnataka,2-Wheelers,3709,76401,72692,2021,10,Oct,FY2022,Q3
+1/10/2021,Kerala,2-Wheelers,833,42377,41544,2021,10,Oct,FY2022,Q3
+1/10/2021,Ladakh,2-Wheelers,6,18,12,2021,10,Oct,FY2022,Q3
+1/10/2021,Madhya Pradesh,2-Wheelers,545,52075,51530,2021,10,Oct,FY2022,Q3
+1/10/2021,Maharashtra,2-Wheelers,3554,131332,127778,2021,10,Oct,FY2022,Q3
+1/10/2021,Manipur,2-Wheelers,6,2098,2092,2021,10,Oct,FY2022,Q3
+1/10/2021,Odisha,2-Wheelers,948,52708,51760,2021,10,Oct,FY2022,Q3
+1/10/2021,Puducherry,2-Wheelers,31,2839,2808,2021,10,Oct,FY2022,Q3
+1/10/2021,Punjab,2-Wheelers,416,29940,29524,2021,10,Oct,FY2022,Q3
+1/10/2021,Rajasthan,2-Wheelers,1602,65626,64024,2021,10,Oct,FY2022,Q3
+1/10/2021,Tamil Nadu,2-Wheelers,2530,85674,83144,2021,10,Oct,FY2022,Q3
+1/10/2021,Uttar Pradesh,2-Wheelers,1022,129924,128902,2021,10,Oct,FY2022,Q3
+1/10/2021,Uttarakhand,2-Wheelers,129,12826,12697,2021,10,Oct,FY2022,Q3
+1/10/2021,West Bengal,2-Wheelers,67,53475,53408,2021,10,Oct,FY2022,Q3
+1/11/2021,Andhra Pradesh,2-Wheelers,1114,64835,63721,2021,11,Nov,FY2022,Q3
+1/11/2021,Assam,2-Wheelers,120,29586,29466,2021,11,Nov,FY2022,Q3
+1/11/2021,Bihar,2-Wheelers,604,107209,106605,2021,11,Nov,FY2022,Q3
+1/11/2021,Chandigarh,2-Wheelers,79,2083,2004,2021,11,Nov,FY2022,Q3
+1/11/2021,Chhattisgarh,2-Wheelers,509,63099,62590,2021,11,Nov,FY2022,Q3
+1/11/2021,Delhi,2-Wheelers,1269,37710,36441,2021,11,Nov,FY2022,Q3
+1/11/2021,Goa,2-Wheelers,178,4104,3926,2021,11,Nov,FY2022,Q3
+1/11/2021,Gujarat,2-Wheelers,1569,110759,109190,2021,11,Nov,FY2022,Q3
+1/11/2021,Haryana,2-Wheelers,871,43957,43086,2021,11,Nov,FY2022,Q3
+1/11/2021,Himachal Pradesh,2-Wheelers,61,7398,7337,2021,11,Nov,FY2022,Q3
+1/11/2021,Jammu and Kashmir,2-Wheelers,64,8083,8019,2021,11,Nov,FY2022,Q3
+1/11/2021,Jharkhand,2-Wheelers,370,51355,50985,2021,11,Nov,FY2022,Q3
+1/11/2021,Karnataka,2-Wheelers,3430,74444,71014,2021,11,Nov,FY2022,Q3
+1/11/2021,Kerala,2-Wheelers,948,43718,42770,2021,11,Nov,FY2022,Q3
+1/11/2021,Madhya Pradesh,2-Wheelers,940,99568,98628,2021,11,Nov,FY2022,Q3
+1/11/2021,Maharashtra,2-Wheelers,3684,168326,164642,2021,11,Nov,FY2022,Q3
+1/11/2021,Manipur,2-Wheelers,3,2490,2487,2021,11,Nov,FY2022,Q3
+1/11/2021,Odisha,2-Wheelers,843,41128,40285,2021,11,Nov,FY2022,Q3
+1/11/2021,Puducherry,2-Wheelers,47,2889,2842,2021,11,Nov,FY2022,Q3
+1/11/2021,Punjab,2-Wheelers,803,46549,45746,2021,11,Nov,FY2022,Q3
+1/11/2021,Rajasthan,2-Wheelers,2265,141368,139103,2021,11,Nov,FY2022,Q3
+1/11/2021,Tamil Nadu,2-Wheelers,2844,111203,108359,2021,11,Nov,FY2022,Q3
+1/11/2021,Uttar Pradesh,2-Wheelers,1347,225370,224023,2021,11,Nov,FY2022,Q3
+1/11/2021,Uttarakhand,2-Wheelers,262,20977,20715,2021,11,Nov,FY2022,Q3
+1/11/2021,West Bengal,2-Wheelers,309,79819,79510,2021,11,Nov,FY2022,Q3
+1/12/2021,Andhra Pradesh,2-Wheelers,985,42446,41461,2021,12,Dec,FY2022,Q3
+1/12/2021,Assam,2-Wheelers,93,28392,28299,2021,12,Dec,FY2022,Q3
+1/12/2021,Bihar,2-Wheelers,467,63454,62987,2021,12,Dec,FY2022,Q3
+1/12/2021,Chandigarh,2-Wheelers,30,1252,1222,2021,12,Dec,FY2022,Q3
+1/12/2021,Chhattisgarh,2-Wheelers,500,24772,24272,2021,12,Dec,FY2022,Q3
+1/12/2021,DNH and DD,2-Wheelers,4,1100,1096,2021,12,Dec,FY2022,Q3
+1/12/2021,Delhi,2-Wheelers,1258,18687,17429,2021,12,Dec,FY2022,Q3
+1/12/2021,Goa,2-Wheelers,153,3468,3315,2021,12,Dec,FY2022,Q3
+1/12/2021,Gujarat,2-Wheelers,2111,92992,90881,2021,12,Dec,FY2022,Q3
+1/12/2021,Haryana,2-Wheelers,670,40694,40024,2021,12,Dec,FY2022,Q3
+1/12/2021,Himachal Pradesh,2-Wheelers,73,6044,5971,2021,12,Dec,FY2022,Q3
+1/12/2021,Jammu and Kashmir,2-Wheelers,110,4076,3966,2021,12,Dec,FY2022,Q3
+1/12/2021,Jharkhand,2-Wheelers,293,26077,25784,2021,12,Dec,FY2022,Q3
+1/12/2021,Karnataka,2-Wheelers,4381,83147,78766,2021,12,Dec,FY2022,Q3
+1/12/2021,Kerala,2-Wheelers,1107,43996,42889,2021,12,Dec,FY2022,Q3
+1/12/2021,Madhya Pradesh,2-Wheelers,901,110877,109976,2021,12,Dec,FY2022,Q3
+1/12/2021,Maharashtra,2-Wheelers,4775,134502,129727,2021,12,Dec,FY2022,Q3
+1/12/2021,Manipur,2-Wheelers,4,3649,3645,2021,12,Dec,FY2022,Q3
+1/12/2021,Odisha,2-Wheelers,939,26693,25754,2021,12,Dec,FY2022,Q3
+1/12/2021,Puducherry,2-Wheelers,81,2589,2508,2021,12,Dec,FY2022,Q3
+1/12/2021,Punjab,2-Wheelers,450,35287,34837,2021,12,Dec,FY2022,Q3
+1/12/2021,Rajasthan,2-Wheelers,2119,61061,58942,2021,12,Dec,FY2022,Q3
+1/12/2021,Tamil Nadu,2-Wheelers,3236,83485,80249,2021,12,Dec,FY2022,Q3
+1/12/2021,Uttar Pradesh,2-Wheelers,1371,268713,267342,2021,12,Dec,FY2022,Q3
+1/12/2021,Uttarakhand,2-Wheelers,229,12632,12403,2021,12,Dec,FY2022,Q3
+1/12/2021,West Bengal,2-Wheelers,285,73989,73704,2021,12,Dec,FY2022,Q3
+1/01/2022,Andhra Pradesh,2-Wheelers,1671,59712,58041,2022,1,Jan,FY2022,Q4
+1/01/2022,Assam,2-Wheelers,92,26097,26005,2022,1,Jan,FY2022,Q4
+1/01/2022,Bihar,2-Wheelers,409,51380,50971,2022,1,Jan,FY2022,Q4
+1/01/2022,Chandigarh,2-Wheelers,19,1291,1272,2022,1,Jan,FY2022,Q4
+1/01/2022,Chhattisgarh,2-Wheelers,595,31989,31394,2022,1,Jan,FY2022,Q4
+1/01/2022,DNH and DD,2-Wheelers,6,758,752,2022,1,Jan,FY2022,Q4
+1/01/2022,Delhi,2-Wheelers,1762,24615,22853,2022,1,Jan,FY2022,Q4
+1/01/2022,Goa,2-Wheelers,194,3015,2821,2022,1,Jan,FY2022,Q4
+1/01/2022,Gujarat,2-Wheelers,2191,58107,55916,2022,1,Jan,FY2022,Q4
+1/01/2022,Haryana,2-Wheelers,597,28339,27742,2022,1,Jan,FY2022,Q4
+1/01/2022,Himachal Pradesh,2-Wheelers,22,3490,3468,2022,1,Jan,FY2022,Q4
+1/01/2022,Jammu and Kashmir,2-Wheelers,76,3561,3485,2022,1,Jan,FY2022,Q4
+1/01/2022,Jharkhand,2-Wheelers,240,24613,24373,2022,1,Jan,FY2022,Q4
+1/01/2022,Karnataka,2-Wheelers,4386,74134,69748,2022,1,Jan,FY2022,Q4
+1/01/2022,Kerala,2-Wheelers,1399,45699,44300,2022,1,Jan,FY2022,Q4
+1/01/2022,Ladakh,2-Wheelers,6,20,14,2022,1,Jan,FY2022,Q4
+1/01/2022,Madhya Pradesh,2-Wheelers,862,75043,74181,2022,1,Jan,FY2022,Q4
+1/01/2022,Maharashtra,2-Wheelers,5138,136937,131799,2022,1,Jan,FY2022,Q4
+1/01/2022,Manipur,2-Wheelers,5,3660,3655,2022,1,Jan,FY2022,Q4
+1/01/2022,Odisha,2-Wheelers,1333,45749,44416,2022,1,Jan,FY2022,Q4
+1/01/2022,Puducherry,2-Wheelers,94,4044,3950,2022,1,Jan,FY2022,Q4
+1/01/2022,Punjab,2-Wheelers,552,28295,27743,2022,1,Jan,FY2022,Q4
+1/01/2022,Rajasthan,2-Wheelers,2359,50153,47794,2022,1,Jan,FY2022,Q4
+1/01/2022,Tamil Nadu,2-Wheelers,4233,124399,120166,2022,1,Jan,FY2022,Q4
+1/01/2022,Tripura,2-Wheelers,5,3043,3038,2022,1,Jan,FY2022,Q4
+1/01/2022,Uttar Pradesh,2-Wheelers,1322,168934,167612,2022,1,Jan,FY2022,Q4
+1/01/2022,Uttarakhand,2-Wheelers,184,10413,10229,2022,1,Jan,FY2022,Q4
+1/01/2022,West Bengal,2-Wheelers,370,61071,60701,2022,1,Jan,FY2022,Q4
+1/02/2022,Andhra Pradesh,2-Wheelers,2284,52013,49729,2022,2,Feb,FY2022,Q4
+1/02/2022,Assam,2-Wheelers,108,25414,25306,2022,2,Feb,FY2022,Q4
+1/02/2022,Bihar,2-Wheelers,495,59758,59263,2022,2,Feb,FY2022,Q4
+1/02/2022,Chandigarh,2-Wheelers,22,1184,1162,2022,2,Feb,FY2022,Q4
+1/02/2022,Chhattisgarh,2-Wheelers,635,28508,27873,2022,2,Feb,FY2022,Q4
+1/02/2022,DNH and DD,2-Wheelers,4,817,813,2022,2,Feb,FY2022,Q4
+1/02/2022,Delhi,2-Wheelers,2384,25413,23029,2022,2,Feb,FY2022,Q4
+1/02/2022,Goa,2-Wheelers,267,3248,2981,2022,2,Feb,FY2022,Q4
+1/02/2022,Gujarat,2-Wheelers,2613,68658,66045,2022,2,Feb,FY2022,Q4
+1/02/2022,Haryana,2-Wheelers,677,25667,24990,2022,2,Feb,FY2022,Q4
+1/02/2022,Himachal Pradesh,2-Wheelers,57,4041,3984,2022,2,Feb,FY2022,Q4
+1/02/2022,Jammu and Kashmir,2-Wheelers,101,4836,4735,2022,2,Feb,FY2022,Q4
+1/02/2022,Jharkhand,2-Wheelers,338,27174,26836,2022,2,Feb,FY2022,Q4
+1/02/2022,Karnataka,2-Wheelers,5593,75612,70019,2022,2,Feb,FY2022,Q4
+1/02/2022,Kerala,2-Wheelers,1737,41273,39536,2022,2,Feb,FY2022,Q4
+1/02/2022,Madhya Pradesh,2-Wheelers,974,69322,68348,2022,2,Feb,FY2022,Q4
+1/02/2022,Maharashtra,2-Wheelers,6871,116043,109172,2022,2,Feb,FY2022,Q4
+1/02/2022,Manipur,2-Wheelers,3,4773,4770,2022,2,Feb,FY2022,Q4
+1/02/2022,Odisha,2-Wheelers,1266,41856,40590,2022,2,Feb,FY2022,Q4
+1/02/2022,Puducherry,2-Wheelers,117,3410,3293,2022,2,Feb,FY2022,Q4
+1/02/2022,Punjab,2-Wheelers,296,24506,24210,2022,2,Feb,FY2022,Q4
+1/02/2022,Rajasthan,2-Wheelers,2563,56168,53605,2022,2,Feb,FY2022,Q4
+1/02/2022,Tamil Nadu,2-Wheelers,4506,108851,104345,2022,2,Feb,FY2022,Q4
+1/02/2022,Tripura,2-Wheelers,3,2705,2702,2022,2,Feb,FY2022,Q4
+1/02/2022,Uttar Pradesh,2-Wheelers,1202,163699,162497,2022,2,Feb,FY2022,Q4
+1/02/2022,Uttarakhand,2-Wheelers,223,9283,9060,2022,2,Feb,FY2022,Q4
+1/02/2022,West Bengal,2-Wheelers,383,56937,56554,2022,2,Feb,FY2022,Q4
+1/03/2022,Andhra Pradesh,2-Wheelers,3169,51588,48419,2022,3,Mar,FY2022,Q4
+1/03/2022,Assam,2-Wheelers,179,29698,29519,2022,3,Mar,FY2022,Q4
+1/03/2022,Bihar,2-Wheelers,1328,85165,83837,2022,3,Mar,FY2022,Q4
+1/03/2022,Chandigarh,2-Wheelers,55,1883,1828,2022,3,Mar,FY2022,Q4
+1/03/2022,Chhattisgarh,2-Wheelers,959,31244,30285,2022,3,Mar,FY2022,Q4
+1/03/2022,DNH and DD,2-Wheelers,5,757,752,2022,3,Mar,FY2022,Q4
+1/03/2022,Delhi,2-Wheelers,3491,28871,25380,2022,3,Mar,FY2022,Q4
+1/03/2022,Goa,2-Wheelers,235,4381,4146,2022,3,Mar,FY2022,Q4
+1/03/2022,Gujarat,2-Wheelers,4507,79333,74826,2022,3,Mar,FY2022,Q4
+1/03/2022,Haryana,2-Wheelers,1025,30295,29270,2022,3,Mar,FY2022,Q4
+1/03/2022,Himachal Pradesh,2-Wheelers,61,3565,3504,2022,3,Mar,FY2022,Q4
+1/03/2022,Jammu and Kashmir,2-Wheelers,227,5680,5453,2022,3,Mar,FY2022,Q4
+1/03/2022,Jharkhand,2-Wheelers,607,38435,37828,2022,3,Mar,FY2022,Q4
+1/03/2022,Karnataka,2-Wheelers,7288,91537,84249,2022,3,Mar,FY2022,Q4
+1/03/2022,Kerala,2-Wheelers,2880,50610,47730,2022,3,Mar,FY2022,Q4
+1/03/2022,Madhya Pradesh,2-Wheelers,1580,76256,74676,2022,3,Mar,FY2022,Q4
+1/03/2022,Maharashtra,2-Wheelers,9687,130070,120383,2022,3,Mar,FY2022,Q4
+1/03/2022,Manipur,2-Wheelers,2,3508,3506,2022,3,Mar,FY2022,Q4
+1/03/2022,Odisha,2-Wheelers,2363,47801,45438,2022,3,Mar,FY2022,Q4
+1/03/2022,Puducherry,2-Wheelers,181,3913,3732,2022,3,Mar,FY2022,Q4
+1/03/2022,Punjab,2-Wheelers,716,31497,30781,2022,3,Mar,FY2022,Q4
+1/03/2022,Rajasthan,2-Wheelers,3080,60106,57026,2022,3,Mar,FY2022,Q4
+1/03/2022,Tamil Nadu,2-Wheelers,7708,124272,116564,2022,3,Mar,FY2022,Q4
+1/03/2022,Tripura,2-Wheelers,18,3504,3486,2022,3,Mar,FY2022,Q4
+1/03/2022,Uttar Pradesh,2-Wheelers,1986,180927,178941,2022,3,Mar,FY2022,Q4
+1/03/2022,Uttarakhand,2-Wheelers,435,11692,11257,2022,3,Mar,FY2022,Q4
+1/03/2022,West Bengal,2-Wheelers,626,73783,73157,2022,3,Mar,FY2022,Q4
+1/04/2022,Andhra Pradesh,2-Wheelers,2745,56529,53784,2022,4,Apr,FY2023,Q1
+1/04/2022,Assam,2-Wheelers,168,26813,26645,2022,4,Apr,FY2023,Q1
+1/04/2022,Bihar,2-Wheelers,475,82418,81943,2022,4,Apr,FY2023,Q1
+1/04/2022,Chandigarh,2-Wheelers,63,1881,1818,2022,4,Apr,FY2023,Q1
+1/04/2022,Chhattisgarh,2-Wheelers,1397,30843,29446,2022,4,Apr,FY2023,Q1
+1/04/2022,DNH and DD,2-Wheelers,4,804,800,2022,4,Apr,FY2023,Q1
+1/04/2022,Delhi,2-Wheelers,2832,32226,29394,2022,4,Apr,FY2023,Q1
+1/04/2022,Goa,2-Wheelers,377,3817,3440,2022,4,Apr,FY2023,Q1
+1/04/2022,Gujarat,2-Wheelers,6695,88648,81953,2022,4,Apr,FY2023,Q1
+1/04/2022,Haryana,2-Wheelers,1215,30558,29343,2022,4,Apr,FY2023,Q1
+1/04/2022,Himachal Pradesh,2-Wheelers,97,4637,4540,2022,4,Apr,FY2023,Q1
+1/04/2022,Jammu and Kashmir,2-Wheelers,125,8306,8181,2022,4,Apr,FY2023,Q1
+1/04/2022,Jharkhand,2-Wheelers,450,35590,35140,2022,4,Apr,FY2023,Q1
+1/04/2022,Karnataka,2-Wheelers,8814,100400,91586,2022,4,Apr,FY2023,Q1
+1/04/2022,Kerala,2-Wheelers,2908,41859,38951,2022,4,Apr,FY2023,Q1
+1/04/2022,Madhya Pradesh,2-Wheelers,1337,75144,73807,2022,4,Apr,FY2023,Q1
+1/04/2022,Maharashtra,2-Wheelers,7375,135969,128594,2022,4,Apr,FY2023,Q1
+1/04/2022,Meghalaya,2-Wheelers,5,1472,1467,2022,4,Apr,FY2023,Q1
+1/04/2022,Nagaland,2-Wheelers,2,444,442,2022,4,Apr,FY2023,Q1
+1/04/2022,Odisha,2-Wheelers,2261,44330,42069,2022,4,Apr,FY2023,Q1
+1/04/2022,Puducherry,2-Wheelers,82,3044,2962,2022,4,Apr,FY2023,Q1
+1/04/2022,Punjab,2-Wheelers,817,29934,29117,2022,4,Apr,FY2023,Q1
+1/04/2022,Rajasthan,2-Wheelers,3771,70039,66268,2022,4,Apr,FY2023,Q1
+1/04/2022,Tamil Nadu,2-Wheelers,5425,106643,101218,2022,4,Apr,FY2023,Q1
+1/04/2022,Tripura,2-Wheelers,20,2797,2777,2022,4,Apr,FY2023,Q1
+1/04/2022,Uttar Pradesh,2-Wheelers,2397,225079,222682,2022,4,Apr,FY2023,Q1
+1/04/2022,Uttarakhand,2-Wheelers,602,12989,12387,2022,4,Apr,FY2023,Q1
+1/04/2022,West Bengal,2-Wheelers,815,68909,68094,2022,4,Apr,FY2023,Q1
+1/05/2022,Andhra Pradesh,2-Wheelers,1615,48041,46426,2022,5,May,FY2023,Q1
+1/05/2022,Assam,2-Wheelers,112,28739,28627,2022,5,May,FY2023,Q1
+1/05/2022,Bihar,2-Wheelers,458,113034,112576,2022,5,May,FY2023,Q1
+1/05/2022,Chandigarh,2-Wheelers,44,1797,1753,2022,5,May,FY2023,Q1
+1/05/2022,Chhattisgarh,2-Wheelers,834,28821,27987,2022,5,May,FY2023,Q1
+1/05/2022,DNH and DD,2-Wheelers,6,790,784,2022,5,May,FY2023,Q1
+1/05/2022,Delhi,2-Wheelers,1760,28897,27137,2022,5,May,FY2023,Q1
+1/05/2022,Goa,2-Wheelers,453,3338,2885,2022,5,May,FY2023,Q1
+1/05/2022,Gujarat,2-Wheelers,4408,68621,64213,2022,5,May,FY2023,Q1
+1/05/2022,Haryana,2-Wheelers,1178,32009,30831,2022,5,May,FY2023,Q1
+1/05/2022,Himachal Pradesh,2-Wheelers,73,5131,5058,2022,5,May,FY2023,Q1
+1/05/2022,Jammu and Kashmir,2-Wheelers,124,9505,9381,2022,5,May,FY2023,Q1
+1/05/2022,Jharkhand,2-Wheelers,431,39317,38886,2022,5,May,FY2023,Q1
+1/05/2022,Karnataka,2-Wheelers,5947,84301,78354,2022,5,May,FY2023,Q1
+1/05/2022,Kerala,2-Wheelers,2373,40514,38141,2022,5,May,FY2023,Q1
+1/05/2022,Madhya Pradesh,2-Wheelers,1310,94602,93292,2022,5,May,FY2023,Q1
+1/05/2022,Maharashtra,2-Wheelers,8914,123203,114289,2022,5,May,FY2023,Q1
+1/05/2022,Manipur,2-Wheelers,2,2443,2441,2022,5,May,FY2023,Q1
+1/05/2022,Odisha,2-Wheelers,1714,38324,36610,2022,5,May,FY2023,Q1
+1/05/2022,Puducherry,2-Wheelers,65,3122,3057,2022,5,May,FY2023,Q1
+1/05/2022,Punjab,2-Wheelers,493,30377,29884,2022,5,May,FY2023,Q1
+1/05/2022,Rajasthan,2-Wheelers,3701,73803,70102,2022,5,May,FY2023,Q1
+1/05/2022,Tamil Nadu,2-Wheelers,3628,102565,98937,2022,5,May,FY2023,Q1
+1/05/2022,Tripura,2-Wheelers,14,2768,2754,2022,5,May,FY2023,Q1
+1/05/2022,Uttar Pradesh,2-Wheelers,1695,273962,272267,2022,5,May,FY2023,Q1
+1/05/2022,Uttarakhand,2-Wheelers,377,12930,12553,2022,5,May,FY2023,Q1
+1/05/2022,West Bengal,2-Wheelers,683,68721,68038,2022,5,May,FY2023,Q1
+1/06/2022,Andhra Pradesh,2-Wheelers,1733,37538,35805,2022,6,Jun,FY2023,Q1
+1/06/2022,Assam,2-Wheelers,101,21695,21594,2022,6,Jun,FY2023,Q1
+1/06/2022,Bihar,2-Wheelers,716,79768,79052,2022,6,Jun,FY2023,Q1
+1/06/2022,Chandigarh,2-Wheelers,63,1808,1745,2022,6,Jun,FY2023,Q1
+1/06/2022,Chhattisgarh,2-Wheelers,1038,28027,26989,2022,6,Jun,FY2023,Q1
+1/06/2022,Delhi,2-Wheelers,2755,27696,24941,2022,6,Jun,FY2023,Q1
+1/06/2022,Goa,2-Wheelers,365,3042,2677,2022,6,Jun,FY2023,Q1
+1/06/2022,Gujarat,2-Wheelers,5322,83549,78227,2022,6,Jun,FY2023,Q1
+1/06/2022,Haryana,2-Wheelers,966,30435,29469,2022,6,Jun,FY2023,Q1
+1/06/2022,Himachal Pradesh,2-Wheelers,104,5610,5506,2022,6,Jun,FY2023,Q1
+1/06/2022,Jammu and Kashmir,2-Wheelers,159,8064,7905,2022,6,Jun,FY2023,Q1
+1/06/2022,Jharkhand,2-Wheelers,461,32650,32189,2022,6,Jun,FY2023,Q1
+1/06/2022,Karnataka,2-Wheelers,6800,91707,84907,2022,6,Jun,FY2023,Q1
+1/06/2022,Kerala,2-Wheelers,2568,44015,41447,2022,6,Jun,FY2023,Q1
+1/06/2022,Ladakh,2-Wheelers,14,590,576,2022,6,Jun,FY2023,Q1
+1/06/2022,Madhya Pradesh,2-Wheelers,1434,83413,81979,2022,6,Jun,FY2023,Q1
+1/06/2022,Maharashtra,2-Wheelers,7880,115725,107845,2022,6,Jun,FY2023,Q1
+1/06/2022,Manipur,2-Wheelers,13,3391,3378,2022,6,Jun,FY2023,Q1
+1/06/2022,Meghalaya,2-Wheelers,2,1291,1289,2022,6,Jun,FY2023,Q1
+1/06/2022,Mizoram,2-Wheelers,2,1750,1748,2022,6,Jun,FY2023,Q1
+1/06/2022,Odisha,2-Wheelers,1693,39143,37450,2022,6,Jun,FY2023,Q1
+1/06/2022,Puducherry,2-Wheelers,85,3331,3246,2022,6,Jun,FY2023,Q1
+1/06/2022,Punjab,2-Wheelers,514,28256,27742,2022,6,Jun,FY2023,Q1
+1/06/2022,Rajasthan,2-Wheelers,3427,58281,54854,2022,6,Jun,FY2023,Q1
+1/06/2022,Tamil Nadu,2-Wheelers,3749,110740,106991,2022,6,Jun,FY2023,Q1
+1/06/2022,Tripura,2-Wheelers,21,2761,2740,2022,6,Jun,FY2023,Q1
+1/06/2022,Uttar Pradesh,2-Wheelers,1361,198411,197050,2022,6,Jun,FY2023,Q1
+1/06/2022,Uttarakhand,2-Wheelers,374,13121,12747,2022,6,Jun,FY2023,Q1
+1/06/2022,West Bengal,2-Wheelers,660,67878,67218,2022,6,Jun,FY2023,Q1
+1/07/2022,Andhra Pradesh,2-Wheelers,1921,42632,40711,2022,7,Jul,FY2023,Q2
+1/07/2022,Assam,2-Wheelers,120,26803,26683,2022,7,Jul,FY2023,Q2
+1/07/2022,Bihar,2-Wheelers,638,62773,62135,2022,7,Jul,FY2023,Q2
+1/07/2022,Chandigarh,2-Wheelers,58,2086,2028,2022,7,Jul,FY2023,Q2
+1/07/2022,Chhattisgarh,2-Wheelers,1309,26466,25157,2022,7,Jul,FY2023,Q2
+1/07/2022,DNH and DD,2-Wheelers,9,735,726,2022,7,Jul,FY2023,Q2
+1/07/2022,Delhi,2-Wheelers,2658,30654,27996,2022,7,Jul,FY2023,Q2
+1/07/2022,Goa,2-Wheelers,579,2801,2222,2022,7,Jul,FY2023,Q2
+1/07/2022,Gujarat,2-Wheelers,5592,83341,77749,2022,7,Jul,FY2023,Q2
+1/07/2022,Haryana,2-Wheelers,710,30657,29947,2022,7,Jul,FY2023,Q2
+1/07/2022,Himachal Pradesh,2-Wheelers,92,5377,5285,2022,7,Jul,FY2023,Q2
+1/07/2022,Jammu and Kashmir,2-Wheelers,316,8717,8401,2022,7,Jul,FY2023,Q2
+1/07/2022,Jharkhand,2-Wheelers,589,32122,31533,2022,7,Jul,FY2023,Q2
+1/07/2022,Karnataka,2-Wheelers,5689,77333,71644,2022,7,Jul,FY2023,Q2
+1/07/2022,Kerala,2-Wheelers,1964,37691,35727,2022,7,Jul,FY2023,Q2
+1/07/2022,Madhya Pradesh,2-Wheelers,1722,81579,79857,2022,7,Jul,FY2023,Q2
+1/07/2022,Maharashtra,2-Wheelers,8446,111895,103449,2022,7,Jul,FY2023,Q2
+1/07/2022,Manipur,2-Wheelers,21,4103,4082,2022,7,Jul,FY2023,Q2
+1/07/2022,Meghalaya,2-Wheelers,3,1363,1360,2022,7,Jul,FY2023,Q2
+1/07/2022,Odisha,2-Wheelers,1816,32549,30733,2022,7,Jul,FY2023,Q2
+1/07/2022,Puducherry,2-Wheelers,71,3298,3227,2022,7,Jul,FY2023,Q2
+1/07/2022,Punjab,2-Wheelers,603,27082,26479,2022,7,Jul,FY2023,Q2
+1/07/2022,Rajasthan,2-Wheelers,4574,63752,59178,2022,7,Jul,FY2023,Q2
+1/07/2022,Tamil Nadu,2-Wheelers,4180,103800,99620,2022,7,Jul,FY2023,Q2
+1/07/2022,Tripura,2-Wheelers,2,2632,2630,2022,7,Jul,FY2023,Q2
+1/07/2022,Uttar Pradesh,2-Wheelers,1828,153826,151998,2022,7,Jul,FY2023,Q2
+1/07/2022,Uttarakhand,2-Wheelers,404,12603,12199,2022,7,Jul,FY2023,Q2
+1/07/2022,West Bengal,2-Wheelers,689,62610,61921,2022,7,Jul,FY2023,Q2
+1/08/2022,Andhra Pradesh,2-Wheelers,1898,54365,52467,2022,8,Aug,FY2023,Q2
+1/08/2022,Assam,2-Wheelers,202,27466,27264,2022,8,Aug,FY2023,Q2
+1/08/2022,Bihar,2-Wheelers,849,64565,63716,2022,8,Aug,FY2023,Q2
+1/08/2022,Chandigarh,2-Wheelers,59,1896,1837,2022,8,Aug,FY2023,Q2
+1/08/2022,Chhattisgarh,2-Wheelers,1360,23146,21786,2022,8,Aug,FY2023,Q2
+1/08/2022,DNH and DD,2-Wheelers,6,742,736,2022,8,Aug,FY2023,Q2
+1/08/2022,Delhi,2-Wheelers,3259,31869,28610,2022,8,Aug,FY2023,Q2
+1/08/2022,Goa,2-Wheelers,303,4503,4200,2022,8,Aug,FY2023,Q2
+1/08/2022,Gujarat,2-Wheelers,5059,74982,69923,2022,8,Aug,FY2023,Q2
+1/08/2022,Haryana,2-Wheelers,915,33336,32421,2022,8,Aug,FY2023,Q2
+1/08/2022,Himachal Pradesh,2-Wheelers,59,5281,5222,2022,8,Aug,FY2023,Q2
+1/08/2022,Jammu and Kashmir,2-Wheelers,182,9131,8949,2022,8,Aug,FY2023,Q2
+1/08/2022,Jharkhand,2-Wheelers,561,25332,24771,2022,8,Aug,FY2023,Q2
+1/08/2022,Karnataka,2-Wheelers,7476,88611,81135,2022,8,Aug,FY2023,Q2
+1/08/2022,Kerala,2-Wheelers,3069,50954,47885,2022,8,Aug,FY2023,Q2
+1/08/2022,Madhya Pradesh,2-Wheelers,1931,98165,96234,2022,8,Aug,FY2023,Q2
+1/08/2022,Maharashtra,2-Wheelers,9723,118886,109163,2022,8,Aug,FY2023,Q2
+1/08/2022,Manipur,2-Wheelers,8,3647,3639,2022,8,Aug,FY2023,Q2
+1/08/2022,Meghalaya,2-Wheelers,2,1734,1732,2022,8,Aug,FY2023,Q2
+1/08/2022,Mizoram,2-Wheelers,6,2062,2056,2022,8,Aug,FY2023,Q2
+1/08/2022,Odisha,2-Wheelers,2007,30540,28533,2022,8,Aug,FY2023,Q2
+1/08/2022,Puducherry,2-Wheelers,91,3810,3719,2022,8,Aug,FY2023,Q2
+1/08/2022,Punjab,2-Wheelers,645,32591,31946,2022,8,Aug,FY2023,Q2
+1/08/2022,Rajasthan,2-Wheelers,4159,60191,56032,2022,8,Aug,FY2023,Q2
+1/08/2022,Tamil Nadu,2-Wheelers,5306,120312,115006,2022,8,Aug,FY2023,Q2
+1/08/2022,Tripura,2-Wheelers,14,2643,2629,2022,8,Aug,FY2023,Q2
+1/08/2022,Uttar Pradesh,2-Wheelers,1920,131703,129783,2022,8,Aug,FY2023,Q2
+1/08/2022,Uttarakhand,2-Wheelers,494,12711,12217,2022,8,Aug,FY2023,Q2
+1/08/2022,West Bengal,2-Wheelers,663,62200,61537,2022,8,Aug,FY2023,Q2
+1/09/2022,Andhra Pradesh,2-Wheelers,2239,52804,50565,2022,9,Sep,FY2023,Q2
+1/09/2022,Assam,2-Wheelers,200,31729,31529,2022,9,Sep,FY2023,Q2
+1/09/2022,Bihar,2-Wheelers,951,54364,53413,2022,9,Sep,FY2023,Q2
+1/09/2022,Chandigarh,2-Wheelers,70,1929,1859,2022,9,Sep,FY2023,Q2
+1/09/2022,Chhattisgarh,2-Wheelers,1190,23465,22275,2022,9,Sep,FY2023,Q2
+1/09/2022,DNH and DD,2-Wheelers,8,629,621,2022,9,Sep,FY2023,Q2
+1/09/2022,Delhi,2-Wheelers,2301,25409,23108,2022,9,Sep,FY2023,Q2
+1/09/2022,Goa,2-Wheelers,400,4078,3678,2022,9,Sep,FY2023,Q2
+1/09/2022,Gujarat,2-Wheelers,5333,77920,72587,2022,9,Sep,FY2023,Q2
+1/09/2022,Haryana,2-Wheelers,848,25832,24984,2022,9,Sep,FY2023,Q2
+1/09/2022,Himachal Pradesh,2-Wheelers,67,4101,4034,2022,9,Sep,FY2023,Q2
+1/09/2022,Jammu and Kashmir,2-Wheelers,220,8320,8100,2022,9,Sep,FY2023,Q2
+1/09/2022,Jharkhand,2-Wheelers,498,23758,23260,2022,9,Sep,FY2023,Q2
+1/09/2022,Karnataka,2-Wheelers,7616,87981,80365,2022,9,Sep,FY2023,Q2
+1/09/2022,Kerala,2-Wheelers,3100,53877,50777,2022,9,Sep,FY2023,Q2
+1/09/2022,Madhya Pradesh,2-Wheelers,1898,53245,51347,2022,9,Sep,FY2023,Q2
+1/09/2022,Maharashtra,2-Wheelers,10730,122642,111912,2022,9,Sep,FY2023,Q2
+1/09/2022,Mizoram,2-Wheelers,4,1568,1564,2022,9,Sep,FY2023,Q2
+1/09/2022,Odisha,2-Wheelers,2197,36139,33942,2022,9,Sep,FY2023,Q2
+1/09/2022,Puducherry,2-Wheelers,114,3772,3658,2022,9,Sep,FY2023,Q2
+1/09/2022,Punjab,2-Wheelers,590,27407,26817,2022,9,Sep,FY2023,Q2
+1/09/2022,Rajasthan,2-Wheelers,4677,53951,49274,2022,9,Sep,FY2023,Q2
+1/09/2022,Tamil Nadu,2-Wheelers,5112,121791,116679,2022,9,Sep,FY2023,Q2
+1/09/2022,Tripura,2-Wheelers,17,3842,3825,2022,9,Sep,FY2023,Q2
+1/09/2022,Uttar Pradesh,2-Wheelers,1787,97293,95506,2022,9,Sep,FY2023,Q2
+1/09/2022,Uttarakhand,2-Wheelers,386,9325,8939,2022,9,Sep,FY2023,Q2
+1/09/2022,West Bengal,2-Wheelers,727,64255,63528,2022,9,Sep,FY2023,Q2
+1/10/2022,Andhra Pradesh,2-Wheelers,2568,74374,71806,2022,10,Oct,FY2023,Q3
+1/10/2022,Assam,2-Wheelers,194,38033,37839,2022,10,Oct,FY2023,Q3
+1/10/2022,Bihar,2-Wheelers,1377,88895,87518,2022,10,Oct,FY2023,Q3
+1/10/2022,Chandigarh,2-Wheelers,118,3103,2985,2022,10,Oct,FY2023,Q3
+1/10/2022,Chhattisgarh,2-Wheelers,2471,57951,55480,2022,10,Oct,FY2023,Q3
+1/10/2022,DNH and DD,2-Wheelers,5,619,614,2022,10,Oct,FY2023,Q3
+1/10/2022,Delhi,2-Wheelers,3699,50702,47003,2022,10,Oct,FY2023,Q3
+1/10/2022,Goa,2-Wheelers,704,6241,5537,2022,10,Oct,FY2023,Q3
+1/10/2022,Gujarat,2-Wheelers,6635,115540,108905,2022,10,Oct,FY2023,Q3
+1/10/2022,Haryana,2-Wheelers,1313,38921,37608,2022,10,Oct,FY2023,Q3
+1/10/2022,Himachal Pradesh,2-Wheelers,79,5548,5469,2022,10,Oct,FY2023,Q3
+1/10/2022,Jammu and Kashmir,2-Wheelers,258,9184,8926,2022,10,Oct,FY2023,Q3
+1/10/2022,Jharkhand,2-Wheelers,949,50073,49124,2022,10,Oct,FY2023,Q3
+1/10/2022,Karnataka,2-Wheelers,9706,117015,107309,2022,10,Oct,FY2023,Q3
+1/10/2022,Kerala,2-Wheelers,3629,44021,40392,2022,10,Oct,FY2023,Q3
+1/10/2022,Madhya Pradesh,2-Wheelers,3616,137210,133594,2022,10,Oct,FY2023,Q3
+1/10/2022,Maharashtra,2-Wheelers,15999,189870,173871,2022,10,Oct,FY2023,Q3
+1/10/2022,Manipur,2-Wheelers,4,2532,2528,2022,10,Oct,FY2023,Q3
+1/10/2022,Meghalaya,2-Wheelers,5,1558,1553,2022,10,Oct,FY2023,Q3
+1/10/2022,Mizoram,2-Wheelers,3,1638,1635,2022,10,Oct,FY2023,Q3
+1/10/2022,Odisha,2-Wheelers,3695,72161,68466,2022,10,Oct,FY2023,Q3
+1/10/2022,Puducherry,2-Wheelers,180,3564,3384,2022,10,Oct,FY2023,Q3
+1/10/2022,Punjab,2-Wheelers,707,37265,36558,2022,10,Oct,FY2023,Q3
+1/10/2022,Rajasthan,2-Wheelers,9455,133585,124130,2022,10,Oct,FY2023,Q3
+1/10/2022,Tamil Nadu,2-Wheelers,5530,111507,105977,2022,10,Oct,FY2023,Q3
+1/10/2022,Tripura,2-Wheelers,13,3431,3418,2022,10,Oct,FY2023,Q3
+1/10/2022,Uttar Pradesh,2-Wheelers,3003,258110,255107,2022,10,Oct,FY2023,Q3
+1/10/2022,Uttarakhand,2-Wheelers,797,19532,18735,2022,10,Oct,FY2023,Q3
+1/10/2022,West Bengal,2-Wheelers,538,50676,50138,2022,10,Oct,FY2023,Q3
+1/11/2022,Andaman & Nicobar Island,2-Wheelers,6,405,399,2022,11,Nov,FY2023,Q3
+1/11/2022,Andhra Pradesh,2-Wheelers,2742,69695,66953,2022,11,Nov,FY2023,Q3
+1/11/2022,Assam,2-Wheelers,176,32542,32366,2022,11,Nov,FY2023,Q3
+1/11/2022,Bihar,2-Wheelers,1253,110759,109506,2022,11,Nov,FY2023,Q3
+1/11/2022,Chandigarh,2-Wheelers,163,1727,1564,2022,11,Nov,FY2023,Q3
+1/11/2022,Chhattisgarh,2-Wheelers,2725,42575,39850,2022,11,Nov,FY2023,Q3
+1/11/2022,DNH and DD,2-Wheelers,14,1290,1276,2022,11,Nov,FY2023,Q3
+1/11/2022,Delhi,2-Wheelers,3869,41689,37820,2022,11,Nov,FY2023,Q3
+1/11/2022,Goa,2-Wheelers,587,5285,4698,2022,11,Nov,FY2023,Q3
+1/11/2022,Gujarat,2-Wheelers,8322,165828,157506,2022,11,Nov,FY2023,Q3
+1/11/2022,Haryana,2-Wheelers,1369,58469,57100,2022,11,Nov,FY2023,Q3
+1/11/2022,Himachal Pradesh,2-Wheelers,134,9181,9047,2022,11,Nov,FY2023,Q3
+1/11/2022,Jammu and Kashmir,2-Wheelers,194,4656,4462,2022,11,Nov,FY2023,Q3
+1/11/2022,Jharkhand,2-Wheelers,953,40248,39295,2022,11,Nov,FY2023,Q3
+1/11/2022,Karnataka,2-Wheelers,9851,109695,99844,2022,11,Nov,FY2023,Q3
+1/11/2022,Kerala,2-Wheelers,3698,40561,36863,2022,11,Nov,FY2023,Q3
+1/11/2022,Madhya Pradesh,2-Wheelers,3426,130285,126859,2022,11,Nov,FY2023,Q3
+1/11/2022,Maharashtra,2-Wheelers,13718,204988,191270,2022,11,Nov,FY2023,Q3
+1/11/2022,Manipur,2-Wheelers,2,5529,5527,2022,11,Nov,FY2023,Q3
+1/11/2022,Meghalaya,2-Wheelers,3,1438,1435,2022,11,Nov,FY2023,Q3
+1/11/2022,Mizoram,2-Wheelers,8,1542,1534,2022,11,Nov,FY2023,Q3
+1/11/2022,Odisha,2-Wheelers,2997,38593,35596,2022,11,Nov,FY2023,Q3
+1/11/2022,Puducherry,2-Wheelers,153,3002,2849,2022,11,Nov,FY2023,Q3
+1/11/2022,Punjab,2-Wheelers,1042,46873,45831,2022,11,Nov,FY2023,Q3
+1/11/2022,Rajasthan,2-Wheelers,7306,158463,151157,2022,11,Nov,FY2023,Q3
+1/11/2022,Tamil Nadu,2-Wheelers,7258,120109,112851,2022,11,Nov,FY2023,Q3
+1/11/2022,Tripura,2-Wheelers,12,3427,3415,2022,11,Nov,FY2023,Q3
+1/11/2022,Uttar Pradesh,2-Wheelers,2746,279169,276423,2022,11,Nov,FY2023,Q3
+1/11/2022,Uttarakhand,2-Wheelers,839,25037,24198,2022,11,Nov,FY2023,Q3
+1/11/2022,West Bengal,2-Wheelers,1209,100516,99307,2022,11,Nov,FY2023,Q3
+1/12/2022,Andaman & Nicobar Island,2-Wheelers,10,397,387,2022,12,Dec,FY2023,Q3
+1/12/2022,Andhra Pradesh,2-Wheelers,2718,47327,44609,2022,12,Dec,FY2023,Q3
+1/12/2022,Assam,2-Wheelers,250,34737,34487,2022,12,Dec,FY2023,Q3
+1/12/2022,Bihar,2-Wheelers,987,60432,59445,2022,12,Dec,FY2023,Q3
+1/12/2022,Chandigarh,2-Wheelers,123,1454,1331,2022,12,Dec,FY2023,Q3
+1/12/2022,Chhattisgarh,2-Wheelers,1883,26359,24476,2022,12,Dec,FY2023,Q3
+1/12/2022,DNH and DD,2-Wheelers,19,1112,1093,2022,12,Dec,FY2023,Q3
+1/12/2022,Delhi,2-Wheelers,3826,21773,17947,2022,12,Dec,FY2023,Q3
+1/12/2022,Goa,2-Wheelers,528,4983,4455,2022,12,Dec,FY2023,Q3
+1/12/2022,Gujarat,2-Wheelers,7906,107138,99232,2022,12,Dec,FY2023,Q3
+1/12/2022,Haryana,2-Wheelers,885,37571,36686,2022,12,Dec,FY2023,Q3
+1/12/2022,Himachal Pradesh,2-Wheelers,100,6751,6651,2022,12,Dec,FY2023,Q3
+1/12/2022,Jammu and Kashmir,2-Wheelers,150,3943,3793,2022,12,Dec,FY2023,Q3
+1/12/2022,Jharkhand,2-Wheelers,653,27130,26477,2022,12,Dec,FY2023,Q3
+1/12/2022,Karnataka,2-Wheelers,7750,75110,67360,2022,12,Dec,FY2023,Q3
+1/12/2022,Kerala,2-Wheelers,4112,40445,36333,2022,12,Dec,FY2023,Q3
+1/12/2022,Madhya Pradesh,2-Wheelers,2328,64980,62652,2022,12,Dec,FY2023,Q3
+1/12/2022,Maharashtra,2-Wheelers,13076,136534,123458,2022,12,Dec,FY2023,Q3
+1/12/2022,Manipur,2-Wheelers,63,4150,4087,2022,12,Dec,FY2023,Q3
+1/12/2022,Mizoram,2-Wheelers,11,1792,1781,2022,12,Dec,FY2023,Q3
+1/12/2022,Odisha,2-Wheelers,2379,38217,35838,2022,12,Dec,FY2023,Q3
+1/12/2022,Puducherry,2-Wheelers,177,2396,2219,2022,12,Dec,FY2023,Q3
+1/12/2022,Punjab,2-Wheelers,635,35992,35357,2022,12,Dec,FY2023,Q3
+1/12/2022,Rajasthan,2-Wheelers,5060,57108,52048,2022,12,Dec,FY2023,Q3
+1/12/2022,Tamil Nadu,2-Wheelers,4991,77848,72857,2022,12,Dec,FY2023,Q3
+1/12/2022,Tripura,2-Wheelers,57,3393,3336,2022,12,Dec,FY2023,Q3
+1/12/2022,Uttar Pradesh,2-Wheelers,2334,134747,132413,2022,12,Dec,FY2023,Q3
+1/12/2022,Uttarakhand,2-Wheelers,581,10627,10046,2022,12,Dec,FY2023,Q3
+1/12/2022,West Bengal,2-Wheelers,1047,69018,67971,2022,12,Dec,FY2023,Q3
+1/01/2023,Andhra Pradesh,2-Wheelers,2680,49537,46857,2023,1,Jan,FY2023,Q4
+1/01/2023,Assam,2-Wheelers,142,41897,41755,2023,1,Jan,FY2023,Q4
+1/01/2023,Bihar,2-Wheelers,987,63994,63007,2023,1,Jan,FY2023,Q4
+1/01/2023,Chandigarh,2-Wheelers,172,1977,1805,2023,1,Jan,FY2023,Q4
+1/01/2023,Chhattisgarh,2-Wheelers,1923,35000,33077,2023,1,Jan,FY2023,Q4
+1/01/2023,DNH and DD,2-Wheelers,9,698,689,2023,1,Jan,FY2023,Q4
+1/01/2023,Delhi,2-Wheelers,3285,35973,32688,2023,1,Jan,FY2023,Q4
+1/01/2023,Goa,2-Wheelers,662,4457,3795,2023,1,Jan,FY2023,Q4
+1/01/2023,Gujarat,2-Wheelers,5873,70897,65024,2023,1,Jan,FY2023,Q4
+1/01/2023,Haryana,2-Wheelers,706,29990,29284,2023,1,Jan,FY2023,Q4
+1/01/2023,Himachal Pradesh,2-Wheelers,78,4421,4343,2023,1,Jan,FY2023,Q4
+1/01/2023,Jammu and Kashmir,2-Wheelers,115,3934,3819,2023,1,Jan,FY2023,Q4
+1/01/2023,Jharkhand,2-Wheelers,655,27267,26612,2023,1,Jan,FY2023,Q4
+1/01/2023,Karnataka,2-Wheelers,9969,94898,84929,2023,1,Jan,FY2023,Q4
+1/01/2023,Kerala,2-Wheelers,4667,43110,38443,2023,1,Jan,FY2023,Q4
+1/01/2023,Madhya Pradesh,2-Wheelers,2443,80312,77869,2023,1,Jan,FY2023,Q4
+1/01/2023,Maharashtra,2-Wheelers,13802,148279,134477,2023,1,Jan,FY2023,Q4
+1/01/2023,Manipur,2-Wheelers,7,3158,3151,2023,1,Jan,FY2023,Q4
+1/01/2023,Meghalaya,2-Wheelers,4,1372,1368,2023,1,Jan,FY2023,Q4
+1/01/2023,Mizoram,2-Wheelers,10,1599,1589,2023,1,Jan,FY2023,Q4
+1/01/2023,Odisha,2-Wheelers,2533,47973,45440,2023,1,Jan,FY2023,Q4
+1/01/2023,Puducherry,2-Wheelers,197,4395,4198,2023,1,Jan,FY2023,Q4
+1/01/2023,Punjab,2-Wheelers,590,33117,32527,2023,1,Jan,FY2023,Q4
+1/01/2023,Rajasthan,2-Wheelers,4624,62966,58342,2023,1,Jan,FY2023,Q4
+1/01/2023,Tamil Nadu,2-Wheelers,5505,135769,130264,2023,1,Jan,FY2023,Q4
+1/01/2023,Tripura,2-Wheelers,8,2766,2758,2023,1,Jan,FY2023,Q4
+1/01/2023,Uttar Pradesh,2-Wheelers,1952,171721,169769,2023,1,Jan,FY2023,Q4
+1/01/2023,Uttarakhand,2-Wheelers,447,12862,12415,2023,1,Jan,FY2023,Q4
+1/01/2023,West Bengal,2-Wheelers,632,52431,51799,2023,1,Jan,FY2023,Q4
+1/02/2023,Andhra Pradesh,2-Wheelers,2907,51810,48903,2023,2,Feb,FY2023,Q4
+1/02/2023,Assam,2-Wheelers,190,36795,36605,2023,2,Feb,FY2023,Q4
+1/02/2023,Bihar,2-Wheelers,911,77926,77015,2023,2,Feb,FY2023,Q4
+1/02/2023,Chandigarh,2-Wheelers,216,955,739,2023,2,Feb,FY2023,Q4
+1/02/2023,Chhattisgarh,2-Wheelers,1874,30804,28930,2023,2,Feb,FY2023,Q4
+1/02/2023,DNH and DD,2-Wheelers,16,777,761,2023,2,Feb,FY2023,Q4
+1/02/2023,Delhi,2-Wheelers,2800,29396,26596,2023,2,Feb,FY2023,Q4
+1/02/2023,Goa,2-Wheelers,628,3919,3291,2023,2,Feb,FY2023,Q4
+1/02/2023,Gujarat,2-Wheelers,6757,85424,78667,2023,2,Feb,FY2023,Q4
+1/02/2023,Haryana,2-Wheelers,702,31279,30577,2023,2,Feb,FY2023,Q4
+1/02/2023,Himachal Pradesh,2-Wheelers,65,4784,4719,2023,2,Feb,FY2023,Q4
+1/02/2023,Jammu and Kashmir,2-Wheelers,147,4868,4721,2023,2,Feb,FY2023,Q4
+1/02/2023,Jharkhand,2-Wheelers,652,31633,30981,2023,2,Feb,FY2023,Q4
+1/02/2023,Karnataka,2-Wheelers,10266,88323,78057,2023,2,Feb,FY2023,Q4
+1/02/2023,Kerala,2-Wheelers,5558,39985,34427,2023,2,Feb,FY2023,Q4
+1/02/2023,Madhya Pradesh,2-Wheelers,2358,75150,72792,2023,2,Feb,FY2023,Q4
+1/02/2023,Maharashtra,2-Wheelers,12070,129508,117438,2023,2,Feb,FY2023,Q4
+1/02/2023,Manipur,2-Wheelers,14,2990,2976,2023,2,Feb,FY2023,Q4
+1/02/2023,Meghalaya,2-Wheelers,2,1192,1190,2023,2,Feb,FY2023,Q4
+1/02/2023,Mizoram,2-Wheelers,9,1655,1646,2023,2,Feb,FY2023,Q4
+1/02/2023,Odisha,2-Wheelers,2552,49375,46823,2023,2,Feb,FY2023,Q4
+1/02/2023,Puducherry,2-Wheelers,177,3354,3177,2023,2,Feb,FY2023,Q4
+1/02/2023,Punjab,2-Wheelers,609,34555,33946,2023,2,Feb,FY2023,Q4
+1/02/2023,Rajasthan,2-Wheelers,4662,62207,57545,2023,2,Feb,FY2023,Q4
+1/02/2023,Tamil Nadu,2-Wheelers,6701,118355,111654,2023,2,Feb,FY2023,Q4
+1/02/2023,Tripura,2-Wheelers,20,2860,2840,2023,2,Feb,FY2023,Q4
+1/02/2023,Uttar Pradesh,2-Wheelers,1968,190812,188844,2023,2,Feb,FY2023,Q4
+1/02/2023,Uttarakhand,2-Wheelers,426,11079,10653,2023,2,Feb,FY2023,Q4
+1/02/2023,West Bengal,2-Wheelers,814,67188,66374,2023,2,Feb,FY2023,Q4
+1/03/2023,Andhra Pradesh,2-Wheelers,3515,54298,50783,2023,3,Mar,FY2023,Q4
+1/03/2023,Assam,2-Wheelers,221,41575,41354,2023,3,Mar,FY2023,Q4
+1/03/2023,Bihar,2-Wheelers,1302,92334,91032,2023,3,Mar,FY2023,Q4
+1/03/2023,Chandigarh,2-Wheelers,362,663,301,2023,3,Mar,FY2023,Q4
+1/03/2023,Chhattisgarh,2-Wheelers,2188,33362,31174,2023,3,Mar,FY2023,Q4
+1/03/2023,DNH and DD,2-Wheelers,5,902,897,2023,3,Mar,FY2023,Q4
+1/03/2023,Delhi,2-Wheelers,3782,30396,26614,2023,3,Mar,FY2023,Q4
+1/03/2023,Goa,2-Wheelers,837,5064,4227,2023,3,Mar,FY2023,Q4
+1/03/2023,Gujarat,2-Wheelers,7790,92417,84627,2023,3,Mar,FY2023,Q4
+1/03/2023,Haryana,2-Wheelers,714,33171,32457,2023,3,Mar,FY2023,Q4
+1/03/2023,Himachal Pradesh,2-Wheelers,91,4543,4452,2023,3,Mar,FY2023,Q4
+1/03/2023,Jammu and Kashmir,2-Wheelers,198,7789,7591,2023,3,Mar,FY2023,Q4
+1/03/2023,Jharkhand,2-Wheelers,797,39001,38204,2023,3,Mar,FY2023,Q4
+1/03/2023,Karnataka,2-Wheelers,13056,104953,91897,2023,3,Mar,FY2023,Q4
+1/03/2023,Kerala,2-Wheelers,6773,50705,43932,2023,3,Mar,FY2023,Q4
+1/03/2023,Madhya Pradesh,2-Wheelers,3213,100653,97440,2023,3,Mar,FY2023,Q4
+1/03/2023,Maharashtra,2-Wheelers,17077,154632,137555,2023,3,Mar,FY2023,Q4
+1/03/2023,Manipur,2-Wheelers,3,3985,3982,2023,3,Mar,FY2023,Q4
+1/03/2023,Mizoram,2-Wheelers,10,1615,1605,2023,3,Mar,FY2023,Q4
+1/03/2023,Odisha,2-Wheelers,3269,52642,49373,2023,3,Mar,FY2023,Q4
+1/03/2023,Puducherry,2-Wheelers,261,3608,3347,2023,3,Mar,FY2023,Q4
+1/03/2023,Punjab,2-Wheelers,805,36806,36001,2023,3,Mar,FY2023,Q4
+1/03/2023,Rajasthan,2-Wheelers,6375,85324,78949,2023,3,Mar,FY2023,Q4
+1/03/2023,Tamil Nadu,2-Wheelers,8388,119376,110988,2023,3,Mar,FY2023,Q4
+1/03/2023,Tripura,2-Wheelers,23,3016,2993,2023,3,Mar,FY2023,Q4
+1/03/2023,Uttar Pradesh,2-Wheelers,3559,206315,202756,2023,3,Mar,FY2023,Q4
+1/03/2023,Uttarakhand,2-Wheelers,587,13077,12490,2023,3,Mar,FY2023,Q4
+1/03/2023,West Bengal,2-Wheelers,1103,73690,72587,2023,3,Mar,FY2023,Q4
+1/04/2023,Andhra Pradesh,2-Wheelers,3515,48046,44531,2023,4,Apr,FY2024,Q1
+1/04/2023,Assam,2-Wheelers,178,35047,34869,2023,4,Apr,FY2024,Q1
+1/04/2023,Bihar,2-Wheelers,971,84319,83348,2023,4,Apr,FY2024,Q1
+1/04/2023,Chandigarh,2-Wheelers,126,2085,1959,2023,4,Apr,FY2024,Q1
+1/04/2023,Chhattisgarh,2-Wheelers,1559,27613,26054,2023,4,Apr,FY2024,Q1
+1/04/2023,DNH and DD,2-Wheelers,5,666,661,2023,4,Apr,FY2024,Q1
+1/04/2023,Delhi,2-Wheelers,2738,28590,25852,2023,4,Apr,FY2024,Q1
+1/04/2023,Goa,2-Wheelers,698,3609,2911,2023,4,Apr,FY2024,Q1
+1/04/2023,Gujarat,2-Wheelers,8266,89782,81516,2023,4,Apr,FY2024,Q1
+1/04/2023,Haryana,2-Wheelers,802,34168,33366,2023,4,Apr,FY2024,Q1
+1/04/2023,Himachal Pradesh,2-Wheelers,96,4847,4751,2023,4,Apr,FY2024,Q1
+1/04/2023,Jammu and Kashmir,2-Wheelers,212,6299,6087,2023,4,Apr,FY2024,Q1
+1/04/2023,Jharkhand,2-Wheelers,682,36353,35671,2023,4,Apr,FY2024,Q1
+1/04/2023,Karnataka,2-Wheelers,9711,91491,81780,2023,4,Apr,FY2024,Q1
+1/04/2023,Kerala,2-Wheelers,4659,32903,28244,2023,4,Apr,FY2024,Q1
+1/04/2023,Madhya Pradesh,2-Wheelers,1958,64877,62919,2023,4,Apr,FY2024,Q1
+1/04/2023,Maharashtra,2-Wheelers,12260,130977,118717,2023,4,Apr,FY2024,Q1
+1/04/2023,Manipur,2-Wheelers,15,3425,3410,2023,4,Apr,FY2024,Q1
+1/04/2023,Meghalaya,2-Wheelers,3,1501,1498,2023,4,Apr,FY2024,Q1
+1/04/2023,Mizoram,2-Wheelers,8,1565,1557,2023,4,Apr,FY2024,Q1
+1/04/2023,Odisha,2-Wheelers,2848,43956,41108,2023,4,Apr,FY2024,Q1
+1/04/2023,Puducherry,2-Wheelers,157,3076,2919,2023,4,Apr,FY2024,Q1
+1/04/2023,Punjab,2-Wheelers,376,28269,27893,2023,4,Apr,FY2024,Q1
+1/04/2023,Rajasthan,2-Wheelers,3914,67999,64085,2023,4,Apr,FY2024,Q1
+1/04/2023,Tamil Nadu,2-Wheelers,6509,94801,88292,2023,4,Apr,FY2024,Q1
+1/04/2023,Tripura,2-Wheelers,19,2450,2431,2023,4,Apr,FY2024,Q1
+1/04/2023,Uttar Pradesh,2-Wheelers,3087,195568,192481,2023,4,Apr,FY2024,Q1
+1/04/2023,Uttarakhand,2-Wheelers,524,12580,12056,2023,4,Apr,FY2024,Q1
+1/04/2023,West Bengal,2-Wheelers,918,54194,53276,2023,4,Apr,FY2024,Q1
+1/05/2023,Andhra Pradesh,2-Wheelers,4370,54545,50175,2023,5,May,FY2024,Q1
+1/05/2023,Assam,2-Wheelers,282,35939,35657,2023,5,May,FY2024,Q1
+1/05/2023,Bihar,2-Wheelers,1536,125465,123929,2023,5,May,FY2024,Q1
+1/05/2023,Chandigarh,2-Wheelers,209,2356,2147,2023,5,May,FY2024,Q1
+1/05/2023,Chhattisgarh,2-Wheelers,2514,29232,26718,2023,5,May,FY2024,Q1
+1/05/2023,DNH and DD,2-Wheelers,4,829,825,2023,5,May,FY2024,Q1
+1/05/2023,Delhi,2-Wheelers,4977,32282,27305,2023,5,May,FY2024,Q1
+1/05/2023,Goa,2-Wheelers,863,3933,3070,2023,5,May,FY2024,Q1
+1/05/2023,Gujarat,2-Wheelers,9609,87169,77560,2023,5,May,FY2024,Q1
+1/05/2023,Haryana,2-Wheelers,1053,34399,33346,2023,5,May,FY2024,Q1
+1/05/2023,Himachal Pradesh,2-Wheelers,118,5278,5160,2023,5,May,FY2024,Q1
+1/05/2023,Jammu and Kashmir,2-Wheelers,258,9084,8826,2023,5,May,FY2024,Q1
+1/05/2023,Jharkhand,2-Wheelers,839,41796,40957,2023,5,May,FY2024,Q1
+1/05/2023,Karnataka,2-Wheelers,17292,97074,79782,2023,5,May,FY2024,Q1
+1/05/2023,Kerala,2-Wheelers,7386,41347,33961,2023,5,May,FY2024,Q1
+1/05/2023,Ladakh,2-Wheelers,14,161,147,2023,5,May,FY2024,Q1
+1/05/2023,Madhya Pradesh,2-Wheelers,3940,97067,93127,2023,5,May,FY2024,Q1
+1/05/2023,Maharashtra,2-Wheelers,20585,126680,106095,2023,5,May,FY2024,Q1
+1/05/2023,Manipur,2-Wheelers,10,572,562,2023,5,May,FY2024,Q1
+1/05/2023,Meghalaya,2-Wheelers,7,2006,1999,2023,5,May,FY2024,Q1
+1/05/2023,Mizoram,2-Wheelers,14,1626,1612,2023,5,May,FY2024,Q1
+1/05/2023,Odisha,2-Wheelers,3727,44563,40836,2023,5,May,FY2024,Q1
+1/05/2023,Puducherry,2-Wheelers,382,3736,3354,2023,5,May,FY2024,Q1
+1/05/2023,Punjab,2-Wheelers,1181,32433,31252,2023,5,May,FY2024,Q1
+1/05/2023,Rajasthan,2-Wheelers,6897,79573,72676,2023,5,May,FY2024,Q1
+1/05/2023,Tamil Nadu,2-Wheelers,10330,109325,98995,2023,5,May,FY2024,Q1
+1/05/2023,Tripura,2-Wheelers,65,3305,3240,2023,5,May,FY2024,Q1
+1/05/2023,Uttar Pradesh,2-Wheelers,4704,300079,295375,2023,5,May,FY2024,Q1
+1/05/2023,Uttarakhand,2-Wheelers,682,14779,14097,2023,5,May,FY2024,Q1
+1/05/2023,West Bengal,2-Wheelers,1508,77494,75986,2023,5,May,FY2024,Q1
+1/06/2023,Andhra Pradesh,2-Wheelers,1004,45618,44614,2023,6,Jun,FY2024,Q1
+1/06/2023,Assam,2-Wheelers,177,31855,31678,2023,6,Jun,FY2024,Q1
+1/06/2023,Bihar,2-Wheelers,520,90944,90424,2023,6,Jun,FY2024,Q1
+1/06/2023,Chandigarh,2-Wheelers,135,2638,2503,2023,6,Jun,FY2024,Q1
+1/06/2023,Chhattisgarh,2-Wheelers,1245,30378,29133,2023,6,Jun,FY2024,Q1
+1/06/2023,DNH and DD,2-Wheelers,5,765,760,2023,6,Jun,FY2024,Q1
+1/06/2023,Delhi,2-Wheelers,1787,28279,26492,2023,6,Jun,FY2024,Q1
+1/06/2023,Goa,2-Wheelers,531,3485,2954,2023,6,Jun,FY2024,Q1
+1/06/2023,Gujarat,2-Wheelers,4019,80898,76879,2023,6,Jun,FY2024,Q1
+1/06/2023,Haryana,2-Wheelers,408,33317,32909,2023,6,Jun,FY2024,Q1
+1/06/2023,Himachal Pradesh,2-Wheelers,59,5397,5338,2023,6,Jun,FY2024,Q1
+1/06/2023,Jammu and Kashmir,2-Wheelers,166,7915,7749,2023,6,Jun,FY2024,Q1
+1/06/2023,Jharkhand,2-Wheelers,390,36415,36025,2023,6,Jun,FY2024,Q1
+1/06/2023,Karnataka,2-Wheelers,7730,101825,94095,2023,6,Jun,FY2024,Q1
+1/06/2023,Kerala,2-Wheelers,4020,38025,34005,2023,6,Jun,FY2024,Q1
+1/06/2023,Ladakh,2-Wheelers,2,208,206,2023,6,Jun,FY2024,Q1
+1/06/2023,Madhya Pradesh,2-Wheelers,1671,78536,76865,2023,6,Jun,FY2024,Q1
+1/06/2023,Maharashtra,2-Wheelers,8451,119809,111358,2023,6,Jun,FY2024,Q1
+1/06/2023,Manipur,2-Wheelers,4,270,266,2023,6,Jun,FY2024,Q1
+1/06/2023,Mizoram,2-Wheelers,4,1795,1791,2023,6,Jun,FY2024,Q1
+1/06/2023,Odisha,2-Wheelers,2131,43202,41071,2023,6,Jun,FY2024,Q1
+1/06/2023,Puducherry,2-Wheelers,140,3591,3451,2023,6,Jun,FY2024,Q1
+1/06/2023,Punjab,2-Wheelers,534,30214,29680,2023,6,Jun,FY2024,Q1
+1/06/2023,Rajasthan,2-Wheelers,3261,69235,65974,2023,6,Jun,FY2024,Q1
+1/06/2023,Tamil Nadu,2-Wheelers,4720,121451,116731,2023,6,Jun,FY2024,Q1
+1/06/2023,Tripura,2-Wheelers,8,2709,2701,2023,6,Jun,FY2024,Q1
+1/06/2023,Uttar Pradesh,2-Wheelers,1932,219233,217301,2023,6,Jun,FY2024,Q1
+1/06/2023,Uttarakhand,2-Wheelers,324,13374,13050,2023,6,Jun,FY2024,Q1
+1/06/2023,West Bengal,2-Wheelers,462,64854,64392,2023,6,Jun,FY2024,Q1
+1/07/2023,Andhra Pradesh,2-Wheelers,1361,50877,49516,2023,7,Jul,FY2024,Q2
+1/07/2023,Assam,2-Wheelers,168,32074,31906,2023,7,Jul,FY2024,Q2
+1/07/2023,Bihar,2-Wheelers,614,69583,68969,2023,7,Jul,FY2024,Q2
+1/07/2023,Chandigarh,2-Wheelers,134,1813,1679,2023,7,Jul,FY2024,Q2
+1/07/2023,Chhattisgarh,2-Wheelers,1584,28753,27169,2023,7,Jul,FY2024,Q2
+1/07/2023,DNH and DD,2-Wheelers,5,856,851,2023,7,Jul,FY2024,Q2
+1/07/2023,Delhi,2-Wheelers,2068,31269,29201,2023,7,Jul,FY2024,Q2
+1/07/2023,Goa,2-Wheelers,517,2877,2360,2023,7,Jul,FY2024,Q2
+1/07/2023,Gujarat,2-Wheelers,5300,98394,93094,2023,7,Jul,FY2024,Q2
+1/07/2023,Haryana,2-Wheelers,152,15523,15371,2023,7,Jul,FY2024,Q2
+1/07/2023,Himachal Pradesh,2-Wheelers,40,5450,5410,2023,7,Jul,FY2024,Q2
+1/07/2023,Jammu and Kashmir,2-Wheelers,116,8604,8488,2023,7,Jul,FY2024,Q2
+1/07/2023,Jharkhand,2-Wheelers,447,32370,31923,2023,7,Jul,FY2024,Q2
+1/07/2023,Karnataka,2-Wheelers,9632,95036,85404,2023,7,Jul,FY2024,Q2
+1/07/2023,Kerala,2-Wheelers,3937,34948,31011,2023,7,Jul,FY2024,Q2
+1/07/2023,Madhya Pradesh,2-Wheelers,1971,69937,67966,2023,7,Jul,FY2024,Q2
+1/07/2023,Maharashtra,2-Wheelers,9822,126943,117121,2023,7,Jul,FY2024,Q2
+1/07/2023,Manipur,2-Wheelers,6,1145,1139,2023,7,Jul,FY2024,Q2
+1/07/2023,Meghalaya,2-Wheelers,20,2030,2010,2023,7,Jul,FY2024,Q2
+1/07/2023,Mizoram,2-Wheelers,6,1721,1715,2023,7,Jul,FY2024,Q2
+1/07/2023,Odisha,2-Wheelers,2805,38394,35589,2023,7,Jul,FY2024,Q2
+1/07/2023,Puducherry,2-Wheelers,189,3909,3720,2023,7,Jul,FY2024,Q2
+1/07/2023,Punjab,2-Wheelers,445,33588,33143,2023,7,Jul,FY2024,Q2
+1/07/2023,Rajasthan,2-Wheelers,3763,76511,72748,2023,7,Jul,FY2024,Q2
+1/07/2023,Tamil Nadu,2-Wheelers,5839,119322,113483,2023,7,Jul,FY2024,Q2
+1/07/2023,Tripura,2-Wheelers,6,2942,2936,2023,7,Jul,FY2024,Q2
+1/07/2023,Uttar Pradesh,2-Wheelers,2326,158970,156644,2023,7,Jul,FY2024,Q2
+1/07/2023,Uttarakhand,2-Wheelers,408,13216,12808,2023,7,Jul,FY2024,Q2
+1/07/2023,West Bengal,2-Wheelers,509,67367,66858,2023,7,Jul,FY2024,Q2
+1/08/2023,Andhra Pradesh,2-Wheelers,1568,56399,54831,2023,8,Aug,FY2024,Q2
+1/08/2023,Assam,2-Wheelers,147,31641,31494,2023,8,Aug,FY2024,Q2
+1/08/2023,Bihar,2-Wheelers,713,58346,57633,2023,8,Aug,FY2024,Q2
+1/08/2023,Chandigarh,2-Wheelers,125,1789,1664,2023,8,Aug,FY2024,Q2
+1/08/2023,Chhattisgarh,2-Wheelers,2088,28699,26611,2023,8,Aug,FY2024,Q2
+1/08/2023,DNH and DD,2-Wheelers,6,606,600,2023,8,Aug,FY2024,Q2
+1/08/2023,Delhi,2-Wheelers,2116,33120,31004,2023,8,Aug,FY2024,Q2
+1/08/2023,Goa,2-Wheelers,689,4098,3409,2023,8,Aug,FY2024,Q2
+1/08/2023,Gujarat,2-Wheelers,5755,87134,81379,2023,8,Aug,FY2024,Q2
+1/08/2023,Haryana,2-Wheelers,399,38102,37703,2023,8,Aug,FY2024,Q2
+1/08/2023,Himachal Pradesh,2-Wheelers,64,5345,5281,2023,8,Aug,FY2024,Q2
+1/08/2023,Jammu and Kashmir,2-Wheelers,98,8650,8552,2023,8,Aug,FY2024,Q2
+1/08/2023,Jharkhand,2-Wheelers,455,27909,27454,2023,8,Aug,FY2024,Q2
+1/08/2023,Karnataka,2-Wheelers,9720,101545,91825,2023,8,Aug,FY2024,Q2
+1/08/2023,Kerala,2-Wheelers,4798,49548,44750,2023,8,Aug,FY2024,Q2
+1/08/2023,Madhya Pradesh,2-Wheelers,3907,73963,70056,2023,8,Aug,FY2024,Q2
+1/08/2023,Maharashtra,2-Wheelers,12043,133378,121335,2023,8,Aug,FY2024,Q2
+1/08/2023,Manipur,2-Wheelers,8,846,838,2023,8,Aug,FY2024,Q2
+1/08/2023,Meghalaya,2-Wheelers,15,2060,2045,2023,8,Aug,FY2024,Q2
+1/08/2023,Mizoram,2-Wheelers,4,1908,1904,2023,8,Aug,FY2024,Q2
+1/08/2023,Odisha,2-Wheelers,2737,36033,33296,2023,8,Aug,FY2024,Q2
+1/08/2023,Puducherry,2-Wheelers,197,4141,3944,2023,8,Aug,FY2024,Q2
+1/08/2023,Punjab,2-Wheelers,642,34784,34142,2023,8,Aug,FY2024,Q2
+1/08/2023,Rajasthan,2-Wheelers,4313,76171,71858,2023,8,Aug,FY2024,Q2
+1/08/2023,Tamil Nadu,2-Wheelers,6246,128997,122751,2023,8,Aug,FY2024,Q2
+1/08/2023,Tripura,2-Wheelers,33,3154,3121,2023,8,Aug,FY2024,Q2
+1/08/2023,Uttar Pradesh,2-Wheelers,2710,146984,144274,2023,8,Aug,FY2024,Q2
+1/08/2023,Uttarakhand,2-Wheelers,364,12790,12426,2023,8,Aug,FY2024,Q2
+1/08/2023,West Bengal,2-Wheelers,511,64154,63643,2023,8,Aug,FY2024,Q2
+1/09/2023,Andhra Pradesh,2-Wheelers,1388,53014,51626,2023,9,Sep,FY2024,Q2
+1/09/2023,Assam,2-Wheelers,257,32936,32679,2023,9,Sep,FY2024,Q2
+1/09/2023,Bihar,2-Wheelers,900,65102,64202,2023,9,Sep,FY2024,Q2
+1/09/2023,Chandigarh,2-Wheelers,134,1868,1734,2023,9,Sep,FY2024,Q2
+1/09/2023,Chhattisgarh,2-Wheelers,2178,30725,28547,2023,9,Sep,FY2024,Q2
+1/09/2023,DNH and DD,2-Wheelers,12,732,720,2023,9,Sep,FY2024,Q2
+1/09/2023,Delhi,2-Wheelers,2002,31468,29466,2023,9,Sep,FY2024,Q2
+1/09/2023,Goa,2-Wheelers,560,5539,4979,2023,9,Sep,FY2024,Q2
+1/09/2023,Gujarat,2-Wheelers,7209,129851,122642,2023,9,Sep,FY2024,Q2
+1/09/2023,Haryana,2-Wheelers,321,44459,44138,2023,9,Sep,FY2024,Q2
+1/09/2023,Himachal Pradesh,2-Wheelers,68,5403,5335,2023,9,Sep,FY2024,Q2
+1/09/2023,Jammu and Kashmir,2-Wheelers,113,8372,8259,2023,9,Sep,FY2024,Q2
+1/09/2023,Jharkhand,2-Wheelers,524,31209,30685,2023,9,Sep,FY2024,Q2
+1/09/2023,Karnataka,2-Wheelers,10590,106981,96391,2023,9,Sep,FY2024,Q2
+1/09/2023,Kerala,2-Wheelers,4461,48967,44506,2023,9,Sep,FY2024,Q2
+1/09/2023,Madhya Pradesh,2-Wheelers,3283,74064,70781,2023,9,Sep,FY2024,Q2
+1/09/2023,Maharashtra,2-Wheelers,12444,134556,122112,2023,9,Sep,FY2024,Q2
+1/09/2023,Meghalaya,2-Wheelers,11,1991,1980,2023,9,Sep,FY2024,Q2
+1/09/2023,Mizoram,2-Wheelers,6,1561,1555,2023,9,Sep,FY2024,Q2
+1/09/2023,Odisha,2-Wheelers,3049,45630,42581,2023,9,Sep,FY2024,Q2
+1/09/2023,Puducherry,2-Wheelers,136,3350,3214,2023,9,Sep,FY2024,Q2
+1/09/2023,Punjab,2-Wheelers,676,35832,35156,2023,9,Sep,FY2024,Q2
+1/09/2023,Rajasthan,2-Wheelers,4336,81056,76720,2023,9,Sep,FY2024,Q2
+1/09/2023,Tamil Nadu,2-Wheelers,5178,116071,110893,2023,9,Sep,FY2024,Q2
+1/09/2023,Tripura,2-Wheelers,17,3157,3140,2023,9,Sep,FY2024,Q2
+1/09/2023,Uttar Pradesh,2-Wheelers,3141,143067,139926,2023,9,Sep,FY2024,Q2
+1/09/2023,Uttarakhand,2-Wheelers,262,12642,12380,2023,9,Sep,FY2024,Q2
+1/09/2023,West Bengal,2-Wheelers,489,58361,57872,2023,9,Sep,FY2024,Q2
+1/10/2023,Andhra Pradesh,2-Wheelers,1757,66154,64397,2023,10,Oct,FY2024,Q3
+1/10/2023,Assam,2-Wheelers,245,51372,51127,2023,10,Oct,FY2024,Q3
+1/10/2023,Bihar,2-Wheelers,820,65088,64268,2023,10,Oct,FY2024,Q3
+1/10/2023,Chandigarh,2-Wheelers,157,1964,1807,2023,10,Oct,FY2024,Q3
+1/10/2023,Chhattisgarh,2-Wheelers,2195,38600,36405,2023,10,Oct,FY2024,Q3
+1/10/2023,DNH and DD,2-Wheelers,4,1109,1105,2023,10,Oct,FY2024,Q3
+1/10/2023,Delhi,2-Wheelers,2611,35861,33250,2023,10,Oct,FY2024,Q3
+1/10/2023,Goa,2-Wheelers,567,5377,4810,2023,10,Oct,FY2024,Q3
+1/10/2023,Gujarat,2-Wheelers,8417,149414,140997,2023,10,Oct,FY2024,Q3
+1/10/2023,Haryana,2-Wheelers,591,37096,36505,2023,10,Oct,FY2024,Q3
+1/10/2023,Himachal Pradesh,2-Wheelers,53,4480,4427,2023,10,Oct,FY2024,Q3
+1/10/2023,Jammu and Kashmir,2-Wheelers,137,6736,6599,2023,10,Oct,FY2024,Q3
+1/10/2023,Jharkhand,2-Wheelers,502,33632,33130,2023,10,Oct,FY2024,Q3
+1/10/2023,Karnataka,2-Wheelers,11137,108712,97575,2023,10,Oct,FY2024,Q3
+1/10/2023,Kerala,2-Wheelers,5051,36841,31790,2023,10,Oct,FY2024,Q3
+1/10/2023,Madhya Pradesh,2-Wheelers,3262,99036,95774,2023,10,Oct,FY2024,Q3
+1/10/2023,Maharashtra,2-Wheelers,15716,167065,151349,2023,10,Oct,FY2024,Q3
+1/10/2023,Manipur,2-Wheelers,6,1035,1029,2023,10,Oct,FY2024,Q3
+1/10/2023,Mizoram,2-Wheelers,36,1958,1922,2023,10,Oct,FY2024,Q3
+1/10/2023,Odisha,2-Wheelers,3972,71596,67624,2023,10,Oct,FY2024,Q3
+1/10/2023,Puducherry,2-Wheelers,197,3765,3568,2023,10,Oct,FY2024,Q3
+1/10/2023,Punjab,2-Wheelers,760,34028,33268,2023,10,Oct,FY2024,Q3
+1/10/2023,Rajasthan,2-Wheelers,4906,103647,98741,2023,10,Oct,FY2024,Q3
+1/10/2023,Tamil Nadu,2-Wheelers,6507,131658,125151,2023,10,Oct,FY2024,Q3
+1/10/2023,Tripura,2-Wheelers,6,4285,4279,2023,10,Oct,FY2024,Q3
+1/10/2023,Uttar Pradesh,2-Wheelers,3775,162993,159218,2023,10,Oct,FY2024,Q3
+1/10/2023,Uttarakhand,2-Wheelers,383,13890,13507,2023,10,Oct,FY2024,Q3
+1/10/2023,West Bengal,2-Wheelers,851,65489,64638,2023,10,Oct,FY2024,Q3
+1/11/2023,Andaman & Nicobar Island,2-Wheelers,3,598,595,2023,11,Nov,FY2024,Q3
+1/11/2023,Andhra Pradesh,2-Wheelers,1997,79246,77249,2023,11,Nov,FY2024,Q3
+1/11/2023,Assam,2-Wheelers,244,41326,41082,2023,11,Nov,FY2024,Q3
+1/11/2023,Bihar,2-Wheelers,1765,149828,148063,2023,11,Nov,FY2024,Q3
+1/11/2023,Chandigarh,2-Wheelers,241,2430,2189,2023,11,Nov,FY2024,Q3
+1/11/2023,Chhattisgarh,2-Wheelers,3880,76276,72396,2023,11,Nov,FY2024,Q3
+1/11/2023,DNH and DD,2-Wheelers,15,1185,1170,2023,11,Nov,FY2024,Q3
+1/11/2023,Delhi,2-Wheelers,3976,56736,52760,2023,11,Nov,FY2024,Q3
+1/11/2023,Goa,2-Wheelers,977,6217,5240,2023,11,Nov,FY2024,Q3
+1/11/2023,Gujarat,2-Wheelers,5424,152556,147132,2023,11,Nov,FY2024,Q3
+1/11/2023,Haryana,2-Wheelers,565,42364,41799,2023,11,Nov,FY2024,Q3
+1/11/2023,Himachal Pradesh,2-Wheelers,53,6131,6078,2023,11,Nov,FY2024,Q3
+1/11/2023,Jammu and Kashmir,2-Wheelers,172,8743,8571,2023,11,Nov,FY2024,Q3
+1/11/2023,Jharkhand,2-Wheelers,825,63696,62871,2023,11,Nov,FY2024,Q3
+1/11/2023,Karnataka,2-Wheelers,14300,136535,122235,2023,11,Nov,FY2024,Q3
+1/11/2023,Kerala,2-Wheelers,5352,36822,31470,2023,11,Nov,FY2024,Q3
+1/11/2023,Madhya Pradesh,2-Wheelers,4861,204532,199671,2023,11,Nov,FY2024,Q3
+1/11/2023,Maharashtra,2-Wheelers,19008,230768,211760,2023,11,Nov,FY2024,Q3
+1/11/2023,Manipur,2-Wheelers,10,812,802,2023,11,Nov,FY2024,Q3
+1/11/2023,Meghalaya,2-Wheelers,6,1893,1887,2023,11,Nov,FY2024,Q3
+1/11/2023,Mizoram,2-Wheelers,35,1977,1942,2023,11,Nov,FY2024,Q3
+1/11/2023,Odisha,2-Wheelers,4345,63423,59078,2023,11,Nov,FY2024,Q3
+1/11/2023,Puducherry,2-Wheelers,194,3681,3487,2023,11,Nov,FY2024,Q3
+1/11/2023,Punjab,2-Wheelers,1184,48694,47510,2023,11,Nov,FY2024,Q3
+1/11/2023,Rajasthan,2-Wheelers,7743,191722,183979,2023,11,Nov,FY2024,Q3
+1/11/2023,Tamil Nadu,2-Wheelers,7096,121926,114830,2023,11,Nov,FY2024,Q3
+1/11/2023,Tripura,2-Wheelers,11,4893,4882,2023,11,Nov,FY2024,Q3
+1/11/2023,Uttar Pradesh,2-Wheelers,5327,387983,382656,2023,11,Nov,FY2024,Q3
+1/11/2023,Uttarakhand,2-Wheelers,626,24522,23896,2023,11,Nov,FY2024,Q3
+1/11/2023,West Bengal,2-Wheelers,1007,97240,96233,2023,11,Nov,FY2024,Q3
+1/12/2023,Andaman & Nicobar Island,2-Wheelers,7,430,423,2023,12,Dec,FY2024,Q3
+1/12/2023,Andhra Pradesh,2-Wheelers,2372,60868,58496,2023,12,Dec,FY2024,Q3
+1/12/2023,Arunachal Pradesh,2-Wheelers,2,1377,1375,2023,12,Dec,FY2024,Q3
+1/12/2023,Assam,2-Wheelers,204,38490,38286,2023,12,Dec,FY2024,Q3
+1/12/2023,Bihar,2-Wheelers,1354,91064,89710,2023,12,Dec,FY2024,Q3
+1/12/2023,Chandigarh,2-Wheelers,137,1162,1025,2023,12,Dec,FY2024,Q3
+1/12/2023,Chhattisgarh,2-Wheelers,1865,31773,29908,2023,12,Dec,FY2024,Q3
+1/12/2023,DNH and DD,2-Wheelers,13,1447,1434,2023,12,Dec,FY2024,Q3
+1/12/2023,Delhi,2-Wheelers,5380,27097,21717,2023,12,Dec,FY2024,Q3
+1/12/2023,Goa,2-Wheelers,799,4299,3500,2023,12,Dec,FY2024,Q3
+1/12/2023,Gujarat,2-Wheelers,4080,85848,81768,2023,12,Dec,FY2024,Q3
+1/12/2023,Haryana,2-Wheelers,1019,60574,59555,2023,12,Dec,FY2024,Q3
+1/12/2023,Himachal Pradesh,2-Wheelers,102,9988,9886,2023,12,Dec,FY2024,Q3
+1/12/2023,Jammu and Kashmir,2-Wheelers,96,3661,3565,2023,12,Dec,FY2024,Q3
+1/12/2023,Jharkhand,2-Wheelers,632,32673,32041,2023,12,Dec,FY2024,Q3
+1/12/2023,Karnataka,2-Wheelers,10237,91996,81759,2023,12,Dec,FY2024,Q3
+1/12/2023,Kerala,2-Wheelers,4866,35712,30846,2023,12,Dec,FY2024,Q3
+1/12/2023,Madhya Pradesh,2-Wheelers,3359,88017,84658,2023,12,Dec,FY2024,Q3
+1/12/2023,Maharashtra,2-Wheelers,14495,174125,159630,2023,12,Dec,FY2024,Q3
+1/12/2023,Manipur,2-Wheelers,6,976,970,2023,12,Dec,FY2024,Q3
+1/12/2023,Mizoram,2-Wheelers,24,1974,1950,2023,12,Dec,FY2024,Q3
+1/12/2023,Odisha,2-Wheelers,4383,48402,44019,2023,12,Dec,FY2024,Q3
+1/12/2023,Puducherry,2-Wheelers,224,2836,2612,2023,12,Dec,FY2024,Q3
+1/12/2023,Punjab,2-Wheelers,951,45523,44572,2023,12,Dec,FY2024,Q3
+1/12/2023,Rajasthan,2-Wheelers,4676,99479,94803,2023,12,Dec,FY2024,Q3
+1/12/2023,Tamil Nadu,2-Wheelers,5403,82736,77333,2023,12,Dec,FY2024,Q3
+1/12/2023,Tripura,2-Wheelers,40,3663,3623,2023,12,Dec,FY2024,Q3
+1/12/2023,Uttar Pradesh,2-Wheelers,5487,211546,206059,2023,12,Dec,FY2024,Q3
+1/12/2023,Uttarakhand,2-Wheelers,655,19337,18682,2023,12,Dec,FY2024,Q3
+1/12/2023,West Bengal,2-Wheelers,2625,90092,87467,2023,12,Dec,FY2024,Q3
+1/01/2024,Uttar Pradesh,2-Wheelers,5668,181667,175999,2024,1,Jan,FY2024,Q4
+1/01/2024,Maharashtra,2-Wheelers,16367,172830,156463,2024,1,Jan,FY2024,Q4
+1/01/2024,Karnataka,2-Wheelers,12415,115920,103505,2024,1,Jan,FY2024,Q4
+1/01/2024,Tamil Nadu,2-Wheelers,7580,153753,146173,2024,1,Jan,FY2024,Q4
+1/01/2024,Bihar,2-Wheelers,1288,71556,70268,2024,1,Jan,FY2024,Q4
+1/01/2024,Kerala,2-Wheelers,6457,42509,36052,2024,1,Jan,FY2024,Q4
+1/01/2024,Rajasthan,2-Wheelers,4432,78862,74430,2024,1,Jan,FY2024,Q4
+1/01/2024,Delhi,2-Wheelers,3073,38413,35340,2024,1,Jan,FY2024,Q4
+1/01/2024,Madhya Pradesh,2-Wheelers,3684,92100,88416,2024,1,Jan,FY2024,Q4
+1/01/2024,Gujarat,2-Wheelers,5424,91933,86509,2024,1,Jan,FY2024,Q4
+1/01/2024,Odisha,2-Wheelers,3883,53485,49602,2024,1,Jan,FY2024,Q4
+1/01/2024,Assam,2-Wheelers,253,44386,44133,2024,1,Jan,FY2024,Q4
+1/01/2024,Haryana,2-Wheelers,1259,42824,41565,2024,1,Jan,FY2024,Q4
+1/01/2024,Chhattisgarh,2-Wheelers,2367,42881,40514,2024,1,Jan,FY2024,Q4
+1/01/2024,West Bengal,2-Wheelers,1636,72390,70754,2024,1,Jan,FY2024,Q4
+1/01/2024,Punjab,2-Wheelers,821,33511,32690,2024,1,Jan,FY2024,Q4
+1/01/2024,Andhra Pradesh,2-Wheelers,2134,53619,51485,2024,1,Jan,FY2024,Q4
+1/01/2024,Jharkhand,2-Wheelers,551,30612,30061,2024,1,Jan,FY2024,Q4
+1/01/2024,Uttarakhand,2-Wheelers,382,11682,11300,2024,1,Jan,FY2024,Q4
+1/01/2024,Jammu and Kashmir,2-Wheelers,219,4582,4363,2024,1,Jan,FY2024,Q4
+1/01/2024,Goa,2-Wheelers,832,5079,4247,2024,1,Jan,FY2024,Q4
+1/01/2024,Chandigarh,2-Wheelers,118,1450,1332,2024,1,Jan,FY2024,Q4
+1/01/2024,Tripura,2-Wheelers,3,3000,2997,2024,1,Jan,FY2024,Q4
+1/01/2024,Puducherry,2-Wheelers,310,5141,4831,2024,1,Jan,FY2024,Q4
+1/01/2024,Himachal Pradesh,2-Wheelers,79,6031,5952,2024,1,Jan,FY2024,Q4
+1/01/2024,DNH and DD,2-Wheelers,31,866,835,2024,1,Jan,FY2024,Q4
+1/01/2024,Manipur,2-Wheelers,7,1556,1549,2024,1,Jan,FY2024,Q4
+1/01/2024,Mizoram,2-Wheelers,28,1872,1844,2024,1,Jan,FY2024,Q4
+1/01/2024,Meghalaya,2-Wheelers,26,1625,1599,2024,1,Jan,FY2024,Q4
+1/01/2024,Ladakh,2-Wheelers,14,37,23,2024,1,Jan,FY2024,Q4
+1/01/2024,Andaman & Nicobar,2-Wheelers,2,483,481,2024,1,Jan,FY2024,Q4
+1/02/2024,Uttar Pradesh,2-Wheelers,6557,206846,200289,2024,2,Feb,FY2024,Q4
+1/02/2024,Maharashtra,2-Wheelers,15193,147649,132456,2024,2,Feb,FY2024,Q4
+1/02/2024,Karnataka,2-Wheelers,12605,108852,96247,2024,2,Feb,FY2024,Q4
+1/02/2024,Tamil Nadu,2-Wheelers,8647,143638,134991,2024,2,Feb,FY2024,Q4
+1/02/2024,Rajasthan,2-Wheelers,5145,81152,76007,2024,2,Feb,FY2024,Q4
+1/02/2024,Bihar,2-Wheelers,1301,83398,82097,2024,2,Feb,FY2024,Q4
+1/02/2024,Madhya Pradesh,2-Wheelers,4006,87659,83653,2024,2,Feb,FY2024,Q4
+1/02/2024,Kerala,2-Wheelers,5389,38356,32967,2024,2,Feb,FY2024,Q4
+1/02/2024,Gujarat,2-Wheelers,5103,88441,83338,2024,2,Feb,FY2024,Q4
+1/02/2024,Delhi,2-Wheelers,2364,30504,28140,2024,2,Feb,FY2024,Q4
+1/02/2024,Assam,2-Wheelers,246,39048,38802,2024,2,Feb,FY2024,Q4
+1/02/2024,Odisha,2-Wheelers,3733,57255,53522,2024,2,Feb,FY2024,Q4
+1/02/2024,Chhattisgarh,2-Wheelers,2198,40110,37912,2024,2,Feb,FY2024,Q4
+1/02/2024,Punjab,2-Wheelers,1017,34359,33342,2024,2,Feb,FY2024,Q4
+1/02/2024,Andhra Pradesh,2-Wheelers,2830,56600,53770,2024,2,Feb,FY2024,Q4
+1/02/2024,Haryana,2-Wheelers,1075,38121,37046,2024,2,Feb,FY2024,Q4
+1/02/2024,West Bengal,2-Wheelers,1341,74089,72748,2024,2,Feb,FY2024,Q4
+1/02/2024,Jharkhand,2-Wheelers,710,34467,33757,2024,2,Feb,FY2024,Q4
+1/02/2024,Uttarakhand,2-Wheelers,586,13692,13106,2024,2,Feb,FY2024,Q4
+1/02/2024,Jammu and Kashmir,2-Wheelers,233,5055,4822,2024,2,Feb,FY2024,Q4
+1/02/2024,Goa,2-Wheelers,990,4759,3769,2024,2,Feb,FY2024,Q4
+1/02/2024,Tripura,2-Wheelers,24,3334,3310,2024,2,Feb,FY2024,Q4
+1/02/2024,Chandigarh,2-Wheelers,126,1416,1290,2024,2,Feb,FY2024,Q4
+1/02/2024,Puducherry,2-Wheelers,384,4556,4172,2024,2,Feb,FY2024,Q4
+1/02/2024,Himachal Pradesh,2-Wheelers,66,4926,4860,2024,2,Feb,FY2024,Q4
+1/02/2024,Mizoram,2-Wheelers,51,2146,2095,2024,2,Feb,FY2024,Q4
+1/02/2024,Manipur,2-Wheelers,3,1723,1720,2024,2,Feb,FY2024,Q4
+1/02/2024,DNH and DD,2-Wheelers,24,1052,1028,2024,2,Feb,FY2024,Q4
+1/02/2024,Meghalaya,2-Wheelers,11,1890,1879,2024,2,Feb,FY2024,Q4
+1/02/2024,Andaman & Nicobar Island,2-Wheelers,5,473,468,2024,2,Feb,FY2024,Q4
+1/03/2024,Maharashtra,2-Wheelers,26668,152563,125895,2024,3,Mar,FY2024,Q4
+1/03/2024,Uttar Pradesh,2-Wheelers,7799,210216,202417,2024,3,Mar,FY2024,Q4
+1/03/2024,Karnataka,2-Wheelers,22742,123800,101058,2024,3,Mar,FY2024,Q4
+1/03/2024,Tamil Nadu,2-Wheelers,13350,124071,110721,2024,3,Mar,FY2024,Q4
+1/03/2024,Rajasthan,2-Wheelers,7933,89538,81605,2024,3,Mar,FY2024,Q4
+1/03/2024,Delhi,2-Wheelers,5002,31599,26597,2024,3,Mar,FY2024,Q4
+1/03/2024,Kerala,2-Wheelers,8393,42909,34516,2024,3,Mar,FY2024,Q4
+1/03/2024,Gujarat,2-Wheelers,8496,94822,86326,2024,3,Mar,FY2024,Q4
+1/03/2024,Bihar,2-Wheelers,2584,102949,100365,2024,3,Mar,FY2024,Q4
+1/03/2024,Madhya Pradesh,2-Wheelers,5772,95405,89633,2024,3,Mar,FY2024,Q4
+1/03/2024,Andhra Pradesh,2-Wheelers,7057,69119,62062,2024,3,Mar,FY2024,Q4
+1/03/2024,Assam,2-Wheelers,767,42612,41845,2024,3,Mar,FY2024,Q4
+1/03/2024,Chhattisgarh,2-Wheelers,3610,46046,42436,2024,3,Mar,FY2024,Q4
+1/03/2024,Punjab,2-Wheelers,1514,35877,34363,2024,3,Mar,FY2024,Q4
+1/03/2024,West Bengal,2-Wheelers,2159,69871,67712,2024,3,Mar,FY2024,Q4
+1/03/2024,Haryana,2-Wheelers,1387,41778,40391,2024,3,Mar,FY2024,Q4
+1/03/2024,Jharkhand,2-Wheelers,824,38149,37325,2024,3,Mar,FY2024,Q4
+1/03/2024,Goa,2-Wheelers,1745,5018,3273,2024,3,Mar,FY2024,Q4
+1/03/2024,Uttarakhand,2-Wheelers,579,12506,11927,2024,3,Mar,FY2024,Q4
+1/03/2024,Jammu and Kashmir,2-Wheelers,297,6600,6303,2024,3,Mar,FY2024,Q4
+1/03/2024,Tripura,2-Wheelers,41,3728,3687,2024,3,Mar,FY2024,Q4
+1/03/2024,Chandigarh,2-Wheelers,215,1525,1310,2024,3,Mar,FY2024,Q4
+1/03/2024,Puducherry,2-Wheelers,477,4337,3860,2024,3,Mar,FY2024,Q4
+1/03/2024,Meghalaya,2-Wheelers,4,2223,2219,2024,3,Mar,FY2024,Q4
+1/03/2024,Himachal Pradesh,2-Wheelers,90,4737,4647,2024,3,Mar,FY2024,Q4
+1/03/2024,Mizoram,2-Wheelers,58,1932,1874,2024,3,Mar,FY2024,Q4
+1/03/2024,DNH and DD,2-Wheelers,25,780,755,2024,3,Mar,FY2024,Q4
+1/03/2024,Manipur,2-Wheelers,13,1394,1381,2024,3,Mar,FY2024,Q4
+1/03/2024,Andaman & Nicobar Island,2-Wheelers,2,447,445,2024,3,Mar,FY2024,Q4
+1/03/2024,Nagaland,2-Wheelers,2,1180,1178,2024,3,Mar,FY2024,Q4
