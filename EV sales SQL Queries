@@ -1,0 +1,580 @@
+CREATE TABLE monthly_summary(
+sale_date DATE,
+ev_sold_2w        INTEGER,
+total_sold_2w     INTEGER,
+ev_sold_4w        INTEGER,
+total_sold_4w     INTEGER,
+ev_sold_total     INTEGER,
+total_sold        INTEGER
+);
+
+DROP TABLE monthly_summary;
+
+SET datestyle = 'DMY';
+COPY monthly_summary
+FROM 'E:\sql\EVSALES\monthly_summary.csv'
+DELIMITER ','
+CSV HEADER;
+
+select * from monthly_summary;
+
+
+CREATE TABLE sales_by_state(
+    sale_date DATE,
+    state VARCHAR(50),
+    vehicle_category VARCHAR(30),
+    ev_sold INTEGER,
+    total_vehicles_sold INTEGER,
+    non_ev_sold INTEGER,
+    year INTEGER,
+    month INTEGER,
+    month_name VARCHAR(15),
+    fiscal_year VARCHAR(10),
+    fiscal_quarter VARCHAR(5)
+);
+DROP TABLE sales_by_state;
+
+SET DATESTYLE = 'DMY';
+
+COPY sales_by_state
+FROM 'E:\sql\EVSALES\sales_by_state_enriched.csv'
+DELIMITER ','
+CSV HEADER;
+
+select * from sales_by_state;
+
+CREATE TABLE state_summary (
+    state VARCHAR(50),
+    ev_sold_2w        INTEGER,
+    total_sold_2w     INTEGER,
+    ev_sold_4w        INTEGER,
+    total_sold_4w     INTEGER,
+    ev_sold_total     INTEGER,
+    total_sold        INTEGER
+);
+
+SET datestyle = 'DMY';
+
+COPY state_summary
+FROM 'E:\sql\EVSALES\state_summary.csv'
+DELIMITER ','
+CSV HEADER;
+
+select * from sales_by_state;
+select * from monthly_summary;
+select * from state_summary;
+
+-- DATA CLEANING
+SELECT * FROM monthly_summary
+WHERE sale_date IS NULL
+	OR ev_sold_2w IS NULL
+	OR total_sold_2w IS NULL
+	OR ev_sold_4w IS NULL
+	OR total_sold_4w IS NULL
+	OR ev_sold_total IS NULL
+	OR total_sold IS NULL;
+
+  
+select * from sales_by_state
+WHERE sale_date IS NULL
+	OR state IS NULL
+	OR vehicle_category IS NULL
+	OR ev_sold IS NULL
+	OR total_vehicles_sold IS NULL
+	OR non_ev_sold IS NULL
+	OR year IS NULL
+	OR month IS NULL
+	OR month_name IS NULL
+	OR fiscal_year IS NULL
+	OR fiscal_quarter IS NULL;
+
+select * from state_summary
+WHERE state IS NULL
+	OR ev_sold_2w IS NULL
+	OR total_sold_2w IS NULL
+	OR ev_sold_4w IS NULL
+	OR total_sold_4w IS NULL
+	OR ev_sold_total IS NULL
+	OR total_sold IS NULL;
+
+SELECT 
+    sale_date,
+    TO_CHAR(sale_date, 'Month') AS month_name
+FROM monthly_summary;
+
+-- 🟢 BASIC SQL QUESTIONS (Foundations) From monthly_summary, sales_by_state and From state_summary
+
+-- Retrieve all monthly EV sales records.
+SELECT * FROM monthly_summary;
+
+-- Find total EV sales for each month.
+
+SELECT sale_date, SUM(ev_sold_total) as total_EV_sales 
+FROM monthly_summary
+GROUP BY sale_date
+order by sale_date DESC;
+
+-- List months where total EV sales exceed 200,000 units.
+
+SELECT sale_date,
+    TRIM(TO_CHAR(sale_date, 'Mon')) AS month_name,
+    ev_sold_total
+FROM monthly_summary
+WHERE ev_sold_total > 200000
+GROUP BY sale_date, ev_sold_total
+ORDER BY sale_date, ev_sold_total;
+
+-- Display EV sales for two-wheelers (2W) only.
+SELECT * FROM monthly_summary;
+
+SELECT SUM(ev_sold_2w) as ev_sold_2wheeler
+FROM monthly_summary;
+
+-- Sort months by total EV sales (descending).
+SELECT TRIM(TO_CHAR(sale_date, 'Mon-YYYY')) as month_name,
+		SUM(ev_sold_total) AS TOTAL_EV_SOLD
+FROM monthly_summary
+GROUP BY TRIM(TO_CHAR(sale_date, 'Mon-YYYY'))
+ORDER BY TOTAL_EV_SOLD DESC;
+
+-- Find the highest and lowest monthly EV sales.
+SELECT MAX(ev_sold_total) AS max_ev_sale, 
+		MIN(ev_sold_total) min_ev_sale
+FROM monthly_summary;
+
+-- Count the total number of months in the dataset.
+select count(DISTINCT sale_date) from monthly_summary;
+
+-- List all distinct states in the dataset.
+SELECT * FROM sales_by_state;
+
+SELECT DISTINCT state from sales_by_state;
+
+-- State-wise EV Penetration (Key KPI)
+SELECT
+    state,
+    ROUND((SUM(ev_sold) * 100.0) / SUM(total_vehicles_sold), 2) AS ev_penetration_pct
+FROM sales_by_state
+GROUP BY state
+ORDER BY ev_penetration_pct DESC;
+
+-- Show EV sales for the state Delhi.
+SELECT * FROM sales_by_state
+WHERE state = 'Delhi';
+
+-- Retrieve records where EV sold > 10,000.
+SELECT * FROM sales_by_state
+WHERE ev_sold > 10000;
+
+-- Show EV sales by vehicle category.
+SELECT sale_date, vehicle_category, SUM(ev_sold) as ev_sales
+FROM sales_by_state
+GROUP BY sale_date, vehicle_category
+order by ev_sales;
+
+-- Find EV sales for a given year (e.g., 2024).
+
+select extract(year from sale_date) as sale_year,
+sum(ev_sold)
+from sales_by_state 
+where extract (year from sale_date) = '2024'
+group by sale_year;
+
+-- Sort states by EV sold (descending).
+select state, sum(ev_sold) as ev_sale
+from sales_by_state
+group by state
+order by ev_sale desc; 
+ 
+-- Show EV sales summary for all states.
+select * from state_summary;
+
+-- Find the state with the highest total EV sales.
+select state, sum(ev_sold_total) as total_ev_sale
+from state_summary
+group by state
+order by total_ev_sale desc
+limit 1;
+
+-- with window function/view
+
+with state_total as (
+	select state, sum(ev_sold_total) as total_ev_sales
+from state_summary
+group by state
+),
+rnked as (
+	select *, dense_rank() over(order by total_ev_sales desc) AS rnk
+	from state_total
+)
+select * from rnked
+where rnk < 10;
+
+
+-- Display 2W vs 4W EV sales for each state
+select state,
+sum(ev_sold_2w) as total_2w_sale, 
+sum(ev_sold_4w) as total_4w_sale 
+from state_summary
+group by state;
+
+-- 🟡 INTERMEDIATE SQL QUESTIONS (Analysis & Aggregation) From monthly_summary, sales_by_state and From state_summary
+
+-- Calculate average monthly EV sales.
+select * from monthly_summary;
+
+select trim(to_char (sale_date, 'Mon-YYYY')) as months,
+round(avg(ev_sold_total), 2) as ev_sales
+from monthly_summary
+group by sale_date
+order by months;
+
+-- Find the top 3 months with highest EV sales.
+CREATE OR REPLACE VIEW top_3_monthly_ev_sales AS
+select DATE_TRUNC('month', sale_date) as months,
+	sum(ev_sold_total) as ev_sales
+from monthly_summary
+group by DATE_TRUNC('month', sale_date)
+order by ev_sales desc
+limit 3;
+
+select * from top_3_monthly_ev_sales;
+
+-- Calculate month-on-month growth in EV sales.
+with month_on_month as (
+select 
+date_trunc('month', sale_date) as month,
+	sum(ev_sold_total) as ev_sales
+	from monthly_summary
+	group by date_trunc('month', sale_date)
+)
+select month, 
+		ev_sales,
+		ev_sales - lag(ev_sales) over(order by month) as growth_month		
+from month_on_month;
+
+
+-- Identify months where EV sales increased compared to previous month.
+create or replace view sale_increased_on_previous_month as
+with month_on_month as (
+select 
+date_trunc('month', sale_date) as month,
+	sum(ev_sold_total) as ev_sales
+	from monthly_summary
+	group by date_trunc('month', sale_date)
+),
+increased_sale as (
+	select month, 
+		ev_sales, 
+		ev_sales - lag(ev_sales) over(order by month) as growth_month		
+from month_on_month
+)
+select * from increased_sale
+where growth_month > 0
+order by month;
+
+select * from sale_increased_on_previous_month;
+
+-- Calculate the percentage share of 2W EV sales in total EV sales.
+
+select * from monthly_summary;
+
+select sale_date,
+	ev_sold_2w,
+	ev_sold_total,
+	round(((ev_sold_2w*100)/ev_sold_total), 2)percentage_share_2w
+	from monthly_summary;
+
+-- Calculate total EV sales per state.
+select * from sales_by_state;
+
+select state, 
+		sum(ev_sold) total_sales
+		from sales_by_state
+		group by state
+		order by total_sales desc;
+
+
+-- Find the top 5 states by EV sales.
+
+with highest_ev_sale_by_state as (
+	select state, 
+	sum(ev_sold) as ev_sales
+	from sales_by_state
+	group by state
+),
+ranked as (
+	select *, 
+	dense_rank() over(order by ev_sales desc) as rnk
+	from highest_ev_sale_by_state
+)
+select * from ranked
+where rnk <=5;
+
+-- Calculate average EV sales per vehicle category.
+select * from sales_by_state;
+
+select vehicle_category, 
+	ROUND(AVG(ev_sold), 2) avg_vehicle_sale_per_category
+	from sales_by_state
+group by vehicle_category;
+-- Identify states with EV sales above national average.
+WITH state_sale as (
+	select state,
+			sum(ev_sold) as state_ev_sale
+		from sales_by_state
+		group by state
+)
+select state,
+		state_ev_sale
+from state_sale
+where state_ev_sale > (
+						select avg(state_ev_sale) from state_sale)
+order by state_ev_sale desc;
+
+-- Find year-wise EV sales growth by state.
+create or replace view vw_year_wise_ev_sale_growth as
+with cte_1 as (
+select state,
+		extract('year'from sale_date) as sale_year,
+		sum(ev_sold) as total_ev_sale
+		from sales_by_state
+		group by state, extract('year'from sale_date)
+		order by sale_year
+)
+select *,
+		coalesce(total_ev_sale - lag(total_ev_sale) over(partition by state order by sale_year),0) as year_growth 
+	from cte_1
+	order by state, sale_year;
+
+select * from vw_year_wise_ev_sale_growth;
+
+-- Calculate EV penetration state-wise.
+create or replace view vw_ev_penetration_state_wise as
+select state,
+		sum(ev_sold_total) as total_ev_sold,
+		sum(total_sold) as total_sold_vehicle,
+		round((sum(ev_sold_total) * 100.0/sum(total_sold)),2) as ev_penetration_state
+	from state_summary
+	group by state
+	order by ev_penetration_state desc;
+
+select * from vw_ev_penetration_state_wise;
+
+-- Rank states by EV penetration.
+
+with ev_rank as (
+select state,
+		sum(ev_sold_total) as total_ev_sold,
+		sum(total_sold) as total_sold_vehicle,
+		ROUND(
+            (SUM(ev_sold_total) * 100.0) / NULLIF(SUM(total_sold), 0),
+            2) as ev_penetration_state
+	from state_summary
+	group by state
+)
+select *, 
+		dense_rank() over(order by ev_penetration_state desc) as rnk
+from ev_rank;
+
+-- with view
+SELECT 
+    state,
+    total_ev_sold,
+    total_sold_vehicle,
+    ev_penetration_state,
+    DENSE_RANK() OVER (ORDER BY ev_penetration_state DESC) AS rnk
+FROM vw_ev_penetration_state_wise
+ORDER BY rnk;
+
+-- find 2w penetration of states 
+CREATE OR REPLACE VIEW vw_two_wheeler_penetration as
+select 
+		state,
+		SUM(ev_sold_2w) as total_ev_2w_sold,
+		SUM(total_sold_2w) AS total_2w_sold,
+			coalesce(ROUND
+				(SUM(ev_sold_2w)*100.0/NULLIF(sum(total_sold_2w),0),2),
+					0
+						) AS two_wheeler_penetration
+		from state_summary
+	group by state
+	order by two_wheeler_penetration desc;
+
+select * from vw_two_wheeler_penetration;
+
+-- find 4w penetration of states 
+CREATE OR REPLACE VIEW vw_four_wheeler_penetration as
+select 
+		state,
+		SUM(ev_sold_4w) as total_ev_2w_sold,
+		SUM(total_sold_4w) AS total_2w_sold,
+			coalesce(ROUND
+				(SUM(ev_sold_4w)*100.0/NULLIF(sum(total_sold_2w),0),2),
+					0
+						) AS FOUR_wheeler_penetration
+		from state_summary
+	group by state
+	order by FOUR_wheeler_penetration desc;
+
+select * from vw_four_wheeler_penetration;
+
+-- Find states where 4W EV penetration > 2W penetration.
+with tw as (
+select 
+		state,
+		SUM(ev_sold_2w) as total_ev_2w_sold,
+		SUM(total_sold_2w) AS total_2w_sold,
+			coalesce(ROUND
+				(SUM(ev_sold_2w)*100.0/NULLIF(sum(total_sold_2w),0),2),
+					0
+						) AS two_wheeler_penetration
+		from state_summary
+	group by state
+),
+fw as (
+	select 
+		state,
+		SUM(ev_sold_4w) as total_ev_4w_sold,
+		SUM(total_sold_4w) AS total_4w_sold,
+			coalesce(ROUND
+				(SUM(ev_sold_4w)*100.0/NULLIF(sum(total_sold_4w),0),2),
+					0
+						) AS four_wheeler_penetration
+		from state_summary
+	group by state
+)
+select fw.state,
+    fw.four_wheeler_penetration,
+    tw.two_wheeler_penetration from fw
+join tw 
+on fw.state = tw.state
+where fw.four_wheeler_penetration > tw.two_wheeler_penetration
+ORDER BY fw.four_wheeler_penetration DESC;
+
+select * from state_summary;
+
+-- BEGINNER–ADVANCED SQL (WINDOW FUNCTIONS)
+
+-- Rank months based on total EV sales.
+select * from monthly_summary;
+
+with cte1 as (
+select DATE_TRUNC('month', sale_date)  as months, 
+		sum(ev_sold_total) as total_ev_sale
+		from monthly_summary
+		group by DATE_TRUNC('month', sale_date)
+		order by total_ev_sale desc
+)
+select TO_CHAR(months, 'Month-YYYY') AS month, total_ev_sale, 
+rank() over(order by total_ev_sale desc) as rnk
+from cte1
+order by rnk;
+
+-- Calculate running total EV sales month-wise.
+with monthly_sales as (
+		select date_trunc('Month', sale_date) as month,
+		sum(ev_sold_total) as ev_sales
+		from monthly_summary
+		group by date_trunc('Month', sale_date)
+)
+select TO_CHAR(month, 'Mon-YYYY') AS months,
+	ev_sales,
+	sum(ev_sales) over(order by month) as running_total
+from monthly_sales
+order by month;
+
+
+-- Find the 3-month moving average of EV sales.
+create or replace view vw_3_months_moving_average as
+with monthly_sale as (
+	Select date_trunc('Month', sale_date) as month,
+	sum(ev_sold_total) as ev_sales
+	from monthly_summary
+	group by date_trunc('Month', sale_date)
+)
+SELECT to_char(month, 'Mon-YYYY') as months,
+	ev_sales,
+		round(avg(ev_sales) over(order by month 
+			ROWS BETWEEN 2 PRECEDING AND CURRENT ROW), 2) as three_month_moving_avg
+	from monthly_sale
+	order by month;
+
+
+-- Identify months where sales are above moving average.
+
+SELECT
+    months,
+    ev_sales,
+    three_month_moving_avg
+FROM vw_3_months_moving_average --already created view above
+WHERE ev_sales > three_month_moving_avg
+ORDER BY months;
+
+-- Rank states by EV sales using window functions.
+create or replace view vw_rank_state_by_ev_sales as
+WITH state_sales AS (
+    SELECT
+        state,
+        SUM(ev_sold_total) AS total_ev_sales
+    FROM state_summary
+    GROUP BY state
+)
+SELECT
+    state,
+    total_ev_sales,
+    DENSE_RANK() OVER (ORDER BY total_ev_sales DESC) AS rnk
+FROM state_sales
+ORDER BY rnk;
+
+select * from state_summary;
+-- Calculate cumulative EV sales state-wise.
+WITH state_year_sales AS (
+    SELECT
+        state,
+        SUM(ev_sold_total) AS yearly_ev_sales
+    FROM state_summary
+    GROUP BY state
+)
+SELECT
+    state,
+    yearly_ev_sales,
+    SUM(yearly_ev_sales) OVER (
+        ORDER BY yearly_ev_sales
+   ) AS cumulative_ev_sales
+FROM state_year_sales;
+-- Identify top-performing states each year.
+select * from public.sales_by_state;
+
+
+
+create or replace view vw_top_performing_state_each_year as
+with state_year_ev_sales as (
+select state,
+		extract('Year' from sale_date) as year_sale,
+		sum(ev_sold) as total_ev_sale
+		from sales_by_state
+		group by state, extract('Year' from sale_date)
+),
+ranked_year as (
+select state, year_sale,
+		total_ev_sale,
+		row_number() over(partition by year_sale
+					order by total_ev_sale desc) as rnk
+		from state_year_ev_sales
+)
+select * from ranked_year
+where rnk = 1;
+
+
+select * from vw_top_performing_state_each_year;
+		
+		
+
+
+
+
+
+
+
+
